@@ -3,6 +3,7 @@ import re
 
 import requests
 from bs4 import BeautifulSoup
+from scrapers.filters import is_target_role
 
 logger = logging.getLogger(__name__)
 
@@ -10,12 +11,6 @@ logger = logging.getLogger(__name__)
 SEARCH_URL = "https://bnppus.tal.net/candidate"
 BASE_URL = "https://bnppus.tal.net"
 PAGE_SIZE = 25
-
-ENTRY_LEVEL_KEYWORDS = [
-    "analyst", "associate", "graduate", "new grad", "entry",
-    "junior", "intern", "co-op", "coop", "rotational",
-    "early career", "campus",
-]
 
 CANADIAN_LOCATIONS = [
     "canada", "toronto", "montreal", "vancouver", "calgary",
@@ -75,7 +70,7 @@ def scrape_bnpparibas() -> list[dict]:
 
             if not _is_canada(location) and not any(_is_canada(td.get_text()) for td in tds):
                 continue
-            if not _is_entry_level(title):
+            if not is_target_role(title):
                 continue
 
             jobs.append({
@@ -99,7 +94,3 @@ def _is_canada(text: str) -> bool:
     t = text.lower()
     return any(term in t for term in CANADIAN_LOCATIONS)
 
-
-def _is_entry_level(title: str) -> bool:
-    t = title.lower()
-    return any(kw in t for kw in ENTRY_LEVEL_KEYWORDS)

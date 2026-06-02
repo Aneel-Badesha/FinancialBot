@@ -4,6 +4,7 @@ import time
 
 import requests
 from bs4 import BeautifulSoup
+from scrapers.filters import is_target_role
 
 logger = logging.getLogger(__name__)
 
@@ -11,12 +12,6 @@ logger = logging.getLogger(__name__)
 SEARCH_URL = "https://careers.ey.com/ey/jobs"
 BASE_URL = "https://careers.ey.com"
 PAGE_SIZE = 10
-
-ENTRY_LEVEL_KEYWORDS = [
-    "analyst", "associate", "graduate", "new grad", "entry",
-    "junior", "intern", "co-op", "coop", "rotational",
-    "early career", "campus",
-]
 
 CANADIAN_LOCATIONS = [
     "canada", "toronto", "montreal", "vancouver", "calgary",
@@ -82,7 +77,7 @@ def scrape_ey() -> list[dict]:
             )
             location = location_el.get_text(strip=True) if location_el else "Canada"
 
-            if not _is_entry_level(title):
+            if not is_target_role(title):
                 continue
 
             jobs.append({
@@ -106,7 +101,3 @@ def scrape_ey() -> list[dict]:
 
     return jobs
 
-
-def _is_entry_level(title: str) -> bool:
-    t = title.lower()
-    return any(kw in t for kw in ENTRY_LEVEL_KEYWORDS)

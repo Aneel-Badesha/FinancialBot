@@ -2,6 +2,7 @@ import logging
 import time
 
 import requests
+from scrapers.filters import is_target_role
 
 logger = logging.getLogger(__name__)
 
@@ -9,12 +10,6 @@ REST_URL = "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruiti
 JOB_LINK_TEMPLATE = "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/{job_id}"
 SITE_NUMBER = "CX_1001"
 PAGE_SIZE = 25
-
-ENTRY_LEVEL_KEYWORDS = [
-    "analyst", "associate", "graduate", "new grad", "entry",
-    "junior", "intern", "co-op", "coop", "rotational",
-    "early career", "campus",
-]
 
 HEADERS = {
     "Accept": "application/json",
@@ -46,7 +41,7 @@ def scrape_jpmorgan() -> list[dict]:
                     continue
 
                 title = posting.get("Title", "")
-                if not _is_entry_level(title):
+                if not is_target_role(title):
                     continue
 
                 job_id_raw = str(posting.get("Id", ""))
@@ -66,7 +61,3 @@ def scrape_jpmorgan() -> list[dict]:
 
     return jobs
 
-
-def _is_entry_level(title: str) -> bool:
-    t = title.lower()
-    return any(kw in t for kw in ENTRY_LEVEL_KEYWORDS)

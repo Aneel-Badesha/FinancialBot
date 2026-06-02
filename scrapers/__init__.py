@@ -23,6 +23,7 @@ from .mnp import scrape_mnp
 from .canada_life import scrape_canada_life
 from .fairfax import scrape_fairfax
 from .sobeys import scrape_sobeys
+from .wealthsimple import scrape_wealthsimple
 
 __all__ = [
     "scrape_all_workday",
@@ -50,4 +51,5 @@ __all__ = [
     "scrape_canada_life",
     "scrape_fairfax",
     "scrape_sobeys",
+    "scrape_wealthsimple",
 ]

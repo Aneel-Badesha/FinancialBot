@@ -2,18 +2,13 @@ import logging
 import time
 
 import requests
+from scrapers.filters import is_target_role
 
 logger = logging.getLogger(__name__)
 
 # Amazon has a public jobs JSON API
 API_URL = "https://www.amazon.jobs/en/search.json"
 PAGE_SIZE = 10
-
-ENTRY_LEVEL_KEYWORDS = [
-    "analyst", "associate", "graduate", "new grad", "entry",
-    "junior", "intern", "co-op", "coop", "rotational",
-    "early career", "campus",
-]
 
 HEADERS = {
     "Accept": "application/json",
@@ -47,7 +42,7 @@ def scrape_amazon() -> list[dict]:
 
         for p in postings:
             title = p.get("title", "")
-            if not _is_entry_level(title):
+            if not is_target_role(title):
                 continue
 
             job_id = p.get("id_icims", p.get("job_id", ""))
@@ -71,7 +66,3 @@ def scrape_amazon() -> list[dict]:
 
     return jobs
 
-
-def _is_entry_level(title: str) -> bool:
-    t = title.lower()
-    return any(kw in t for kw in ENTRY_LEVEL_KEYWORDS)

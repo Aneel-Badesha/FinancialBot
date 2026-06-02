@@ -35,6 +35,7 @@ from scrapers import (
     scrape_canada_life,
     scrape_fairfax,
     scrape_sobeys,
+    scrape_wealthsimple,
 )
 from storage import load_seen_ids, save_seen_ids, filter_new_jobs, add_to_seen
 from emailer import send_digest
@@ -46,37 +47,31 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Workday covers: RBC, TD, CIBC, Citibank, Capital One, BMO, Deutsche Bank,
-# Enbridge, Brookfield, Accenture, George Weston, Loblaw, Bank of America,
-# Manulife, Sun Life, Intact Financial, CPP Investments, OTPP, CDPQ,
-# PSP Investments, Goldman Sachs, Morgan Stanley, Barclays, Wells Fargo,
-# BlackRock, Fidelity Canada, BDO Canada, Couche-Tard
 SCRAPERS = [
-    ("Workday (28 companies)", scrape_all_workday),
+    ("Workday (27 companies)", scrape_all_workday),
     ("Scotiabank", scrape_scotiabank),
     ("JPMorgan", scrape_jpmorgan),
-    ("HSBC", scrape_hsbc),
+    # ("HSBC", scrape_hsbc),  # slow RSS feed
     ("BNP Paribas", scrape_bnpparibas),
-    ("National Bank", scrape_national_bank),
+    # ("National Bank", scrape_national_bank),  # slow RSS feed
     ("Deloitte", scrape_deloitte),
     ("EY", scrape_ey),
-    ("McKinsey", scrape_mckinsey),
+    # ("McKinsey", scrape_mckinsey),  # blocks scrapers
     ("BCG", scrape_bcg),
-    ("Bain & Company", scrape_bain),
-    ("Oliver Wyman", scrape_oliver_wyman),
+    # ("Bain & Company", scrape_bain),  # blocks scrapers
+    # ("Oliver Wyman", scrape_oliver_wyman),  # dead URL
     ("PwC", scrape_pwc),
     ("KPMG", scrape_kpmg),
-    ("Grant Thornton", scrape_grant_thornton),
-    ("MNP", scrape_mnp),
-    ("Rogers", scrape_rogers),
+    # ("Grant Thornton", scrape_grant_thornton),  # dead URL
+    # ("MNP", scrape_mnp),  # dead URL
+    # ("Rogers", scrape_rogers),
     ("Bell", scrape_bell),
-    ("Shopify", scrape_shopify),
-    ("Amazon", scrape_amazon),
-    ("Google", scrape_google),
+    # ("Shopify", scrape_shopify),  # left Lever, new ATS unknown
     ("ATB Financial", scrape_atb),
     ("Canada Life", scrape_canada_life),
     ("Fairfax Financial", scrape_fairfax),
-    ("Sobeys / Empire", scrape_sobeys),
+    # ("Sobeys / Empire", scrape_sobeys),  # dead URL
+    ("Wealthsimple", scrape_wealthsimple),
 ]
 
 

@@ -2,27 +2,41 @@ import logging
 import time
 
 import requests
+from scrapers.filters import is_target_role, is_recent
 
 logger = logging.getLogger(__name__)
 
-ENTRY_LEVEL_KEYWORDS = [
-    "analyst", "associate", "graduate", "new grad", "entry",
-    "junior", "intern", "co-op", "coop", "rotational",
-    "early career", "campus",
-]
-
 CANADIAN_LOCATIONS = [
-    "canada", ", ca", "toronto", "montreal", "vancouver", "calgary",
-    "ottawa", "edmonton", "winnipeg", "halifax", "ontario", "quebec",
-    "british columbia", "alberta", "nova scotia", "new brunswick",
-    "manitoba", "saskatchewan", "newfoundland",
+    "canada",
+    # Provinces / territories (full names only — avoids false matches)
+    "ontario", "quebec", "british columbia", "alberta",
+    "nova scotia", "new brunswick", "manitoba", "saskatchewan",
+    "newfoundland", "prince edward island", "yukon",
+    # Province abbreviations only when unambiguous
+    ", on,", ", on ", " on,", ", qc,", ", qc ", ", bc,", ", bc ",
+    ", ab,", ", ab ", "on can", "ab can", "bc can",
+    # GTA & Southern Ontario
+    "toronto", "north york", "scarborough", "etobicoke",
+    "mississauga", "brampton", "oakville", "burlington", "hamilton",
+    "markham", "richmond hill", "vaughan", "aurora", "newmarket",
+    "ajax", "pickering", "oshawa", "whitby", "barrie", "kitchener",
+    "waterloo", "cambridge", "guelph", "london, on", "windsor, on",
+    # Quebec
+    "montreal", "montréal", "laval", "longueuil", "québec city", "quebec city",
+    # BC
+    "vancouver", "burnaby", "surrey, bc", "coquitlam", "kelowna",
+    # Alberta
+    "calgary", "edmonton",
+    # Other
+    "ottawa", "winnipeg", "halifax", "victoria, bc",
+    "saskatoon", "regina", "virtual",
 ]
 
 BANKS = [
     {"company": "RBC", "tenant": "rbc", "wd_instance": "wd3", "site": "RBCEARLYTALENT1"},
     {"company": "TD", "tenant": "td", "wd_instance": "wd3", "site": "TD_Bank_Careers"},
     {"company": "CIBC", "tenant": "cibc", "wd_instance": "wd3", "site": "search"},
-    {"company": "Citibank", "tenant": "citi", "wd_instance": "wd5", "site": "citi"},
+    # {"company": "Citibank", "tenant": "citi", "wd_instance": "wd5", "site": "citi"},  # site ID unknown — returns 404
     {"company": "Capital One", "tenant": "capitalone", "wd_instance": "wd12", "site": "Capital_One"},
     {"company": "BMO", "tenant": "bmo", "wd_instance": "wd3", "site": "External"},
     {"company": "Deutsche Bank", "tenant": "db", "wd_instance": "wd3", "site": "DBWebsite"},
@@ -53,6 +67,9 @@ BANKS = [
     {"company": "BDO Canada", "tenant": "bdo", "wd_instance": "wd3", "site": "bdo"},
     # Retail / other
     {"company": "Couche-Tard", "tenant": "circlek", "wd_instance": "wd3", "site": "CircleKStoreJobs"},
+    # Payments networks
+    {"company": "Visa", "tenant": "visa", "wd_instance": "wd5", "site": "visa"},
+    {"company": "Mastercard", "tenant": "mastercard", "wd_instance": "wd1", "site": "Campus"},
 ]
 
 HEADERS = {
@@ -84,9 +101,13 @@ def scrape_workday(company: str, tenant: str, wd_instance: str, site: str) -> li
             location = posting.get("locationsText", "")
             external_path = posting.get("externalPath", "")
 
+            posted_on = posting.get("postedOn", "")
+
             if not _is_canada(location):
                 continue
-            if not _is_entry_level(title):
+            if not is_recent(posted_on):
+                continue
+            if not is_target_role(title):
                 continue
 
             job_id = f"workday-{tenant}-{external_path.strip('/')}"
@@ -98,7 +119,7 @@ def scrape_workday(company: str, tenant: str, wd_instance: str, site: str) -> li
                 "title": title,
                 "location": location,
                 "link": link,
-                "posted": posting.get("postedOn", ""),
+                "posted": posted_on,
             })
 
         offset += limit
@@ -112,11 +133,6 @@ def scrape_workday(company: str, tenant: str, wd_instance: str, site: str) -> li
 def _is_canada(location_text: str) -> bool:
     loc = location_text.lower()
     return any(term in loc for term in CANADIAN_LOCATIONS)
-
-
-def _is_entry_level(title: str) -> bool:
-    t = title.lower()
-    return any(kw in t for kw in ENTRY_LEVEL_KEYWORDS)
 
 
 def scrape_all_workday() -> list[dict]:

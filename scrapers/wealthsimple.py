@@ -6,8 +6,7 @@ from scrapers.filters import is_target_role
 
 logger = logging.getLogger(__name__)
 
-# Shopify uses Lever
-API_URL = "https://api.lever.co/v0/postings/shopify"
+API_URL = "https://api.lever.co/v0/postings/wealthsimple"
 PAGE_SIZE = 100
 
 CANADIAN_LOCATIONS = [
@@ -21,16 +20,12 @@ HEADERS = {
 }
 
 
-def scrape_shopify() -> list[dict]:
+def scrape_wealthsimple() -> list[dict]:
     jobs = []
     offset = 0
 
     while True:
-        params = {
-            "mode": "json",
-            "limit": PAGE_SIZE,
-            "offset": offset,
-        }
+        params = {"mode": "json", "limit": PAGE_SIZE, "offset": offset}
         resp = requests.get(API_URL, params=params, headers=HEADERS, timeout=15)
         resp.raise_for_status()
         postings = resp.json()
@@ -49,11 +44,11 @@ def scrape_shopify() -> list[dict]:
 
             job_id = p.get("id", "")
             jobs.append({
-                "id": f"shopify-{job_id}",
-                "company": "Shopify",
+                "id": f"wealthsimple-{job_id}",
+                "company": "Wealthsimple",
                 "title": title,
                 "location": location_text,
-                "link": p.get("hostedUrl", f"https://jobs.lever.co/shopify/{job_id}"),
+                "link": p.get("hostedUrl", f"https://jobs.lever.co/wealthsimple/{job_id}"),
                 "posted": "",
             })
 
@@ -68,4 +63,3 @@ def scrape_shopify() -> list[dict]:
 def _is_canada(location_text: str) -> bool:
     t = location_text.lower()
     return any(term in t for term in CANADIAN_LOCATIONS)
-

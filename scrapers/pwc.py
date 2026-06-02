@@ -4,18 +4,13 @@ import time
 
 import requests
 from bs4 import BeautifulSoup
+from scrapers.filters import is_target_role
 
 logger = logging.getLogger(__name__)
 
 SEARCH_URL = "https://jobs-ca.pwc.com/ca/en/search-results"
 BASE_URL = "https://jobs-ca.pwc.com"
 PAGE_SIZE = 10
-
-ENTRY_LEVEL_KEYWORDS = [
-    "analyst", "associate", "graduate", "new grad", "entry",
-    "junior", "intern", "co-op", "coop", "rotational",
-    "early career", "campus",
-]
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; job-scraper/1.0)",
@@ -52,7 +47,7 @@ def _try_json_api() -> list[dict]:
                 break
             for p in postings:
                 title = p.get("title", p.get("name", ""))
-                if not _is_entry_level(title):
+                if not is_target_role(title):
                     continue
                 job_id = str(p.get("id", p.get("jobId", "")))
                 link = p.get("canonicalPositionUrl", p.get("url", f"{BASE_URL}/ca/en/job/{job_id}"))
@@ -96,7 +91,7 @@ def _try_html_scrape() -> list[dict]:
             found_any = False
             for link_tag in soup.find_all("a", href=re.compile(r"/ca/en/job/")):
                 title = link_tag.get_text(strip=True)
-                if not title or not _is_entry_level(title):
+                if not title or not is_target_role(title):
                     continue
                 found_any = True
                 href = link_tag["href"]
@@ -120,7 +115,3 @@ def _try_html_scrape() -> list[dict]:
         logger.warning(f"PwC HTML scrape failed: {e}")
     return jobs
 
-
-def _is_entry_level(title: str) -> bool:
-    t = title.lower()
-    return any(kw in t for kw in ENTRY_LEVEL_KEYWORDS)

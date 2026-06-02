@@ -3,7 +3,7 @@ import logging
 from pathlib import Path
 
 logger = logging.getLogger(__name__)
-SEEN_JOBS_FILE = Path("seen_jobs.json")
+SEEN_JOBS_FILE = Path(__file__).parent / "seen_jobs.json"
 
 
 def load_seen_ids() -> set[str]:

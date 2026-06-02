@@ -4,19 +4,14 @@ import time
 
 import requests
 from bs4 import BeautifulSoup
+from scrapers.filters import is_target_role
 
 logger = logging.getLogger(__name__)
 
 # MNP uses UKG Pro (UltiPro) recruiting portal
-API_URL = "https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/e3b53a54-57f4-4cd4-acf5-ca2c7cfb4a57/JobListings"
+API_URL = "https://recruiting.ultipro.ca/MNP5000MNPL/JobBoard/d1e870eb-9c8c-4ce5-88ee-9f042cf2a12f/JobListings"
 BASE_URL = "https://recruiting.ultipro.ca"
 PAGE_SIZE = 20
-
-ENTRY_LEVEL_KEYWORDS = [
-    "analyst", "associate", "graduate", "new grad", "entry",
-    "junior", "intern", "co-op", "coop", "rotational",
-    "early career", "campus", "student",
-]
 
 HEADERS = {
     "Accept": "application/json, text/html",
@@ -51,7 +46,7 @@ def _try_json_api() -> list[dict]:
                 break
             for p in postings:
                 title = p.get("title", p.get("jobTitle", ""))
-                if not _is_entry_level(title):
+                if not is_target_role(title):
                     continue
                 job_id = str(p.get("opportunityId", p.get("id", "")))
                 link = p.get("applyUrl", f"{BASE_URL}/MNP5000MNPL/JobBoard/e3b53a54-57f4-4cd4-acf5-ca2c7cfb4a57/{job_id}")
@@ -84,7 +79,7 @@ def _try_html_scrape() -> list[dict]:
 
         for link_tag in soup.find_all("a", href=re.compile(r"JobDetails|/job/")):
             title = link_tag.get_text(strip=True)
-            if not title or not _is_entry_level(title):
+            if not title or not is_target_role(title):
                 continue
             href = link_tag["href"]
             full_link = BASE_URL + href if href.startswith("/") else href
@@ -101,7 +96,3 @@ def _try_html_scrape() -> list[dict]:
         logger.warning(f"MNP HTML scrape failed: {e}")
     return jobs
 
-
-def _is_entry_level(title: str) -> bool:
-    t = title.lower()
-    return any(kw in t for kw in ENTRY_LEVEL_KEYWORDS)

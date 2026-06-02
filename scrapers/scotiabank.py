@@ -3,6 +3,7 @@ import re
 
 import requests
 from bs4 import BeautifulSoup
+from scrapers.filters import is_target_role
 
 logger = logging.getLogger(__name__)
 
@@ -39,13 +40,15 @@ def scrape_scotiabank() -> list[dict]:
             found_any = True
 
             title = link_tag.get_text(strip=True)
+            if not is_target_role(title):
+                continue
             href = link_tag["href"]
             job_id = f"scotiabank-{href.rstrip('/').split('/')[-1]}"
             full_link = BASE_URL + href
 
             tds = row.find_all("td")
-            location = tds[1].get_text(strip=True) if len(tds) >= 2 else ""
-            date_posted = tds[2].get_text(strip=True) if len(tds) >= 3 else ""
+            date_posted = tds[1].get_text(strip=True) if len(tds) >= 2 else ""
+            location = tds[2].get_text(strip=True) if len(tds) >= 3 else ""
 
             jobs.append({
                 "id": job_id,

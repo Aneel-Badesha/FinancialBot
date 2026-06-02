@@ -1,32 +1,67 @@
+import base64
 import logging
 import os
-import smtplib
 from datetime import date
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
+from email.message import EmailMessage
+from pathlib import Path
+
+from google.auth.exceptions import RefreshError
+from google.auth.transport.requests import Request
+from google.oauth2.credentials import Credentials
+from google_auth_oauthlib.flow import InstalledAppFlow
+from googleapiclient.discovery import build
 
 logger = logging.getLogger(__name__)
 
+SCOPES = ["https://www.googleapis.com/auth/gmail.send"]
+_BASE = Path(__file__).parent
+
+
+def _get_service():
+    token_path = _BASE / "token.json"
+    creds = None
+    if token_path.exists():
+        creds = Credentials.from_authorized_user_file(str(token_path), SCOPES)
+        if not creds.valid:
+            if creds.refresh_token:
+                try:
+                    creds.refresh(Request())
+                except RefreshError:
+                    creds = _run_consent(token_path)
+            else:
+                creds = _run_consent(token_path)
+    else:
+        creds = _run_consent(token_path)
+    return build("gmail", "v1", credentials=creds)
+
+
+def _run_consent(token_path: Path) -> Credentials:
+    flow = InstalledAppFlow.from_client_secrets_file(str(_BASE / "credentials.json"), SCOPES)
+    flow.redirect_uri = "urn:ietf:wg:oauth:2.0:oob"
+    auth_url, _ = flow.authorization_url(prompt="consent")
+    print(f"\nAuthorize the app:\n{auth_url}\n")
+    code = input("Enter the authorization code: ")
+    flow.fetch_token(code=code)
+    creds = flow.credentials
+    token_path.write_text(creds.to_json(), encoding="utf-8")
+    return creds
+
 
 def send_digest(jobs: list[dict]) -> None:
-    sender = os.environ["SMTP_ADDRESS"]
-    password = os.environ["SMTP_PASSWORD"]
-    recipient = os.environ.get("RECIPIENT_EMAIL", sender)
+    recipient = os.environ.get("RECIPIENT_EMAIL", "")
+    if not recipient:
+        raise ValueError("RECIPIENT_EMAIL not set in environment")
 
-    msg = MIMEMultipart("alternative")
+    msg = EmailMessage()
     msg["Subject"] = f"Finance Jobs Digest — {date.today().isoformat()} ({len(jobs)} new)"
-    msg["From"] = sender
     msg["To"] = recipient
+    msg.set_content(_build_plain(jobs))
+    msg.add_alternative(_build_html(jobs), subtype="html")
 
-    msg.attach(MIMEText(_build_plain(jobs), "plain"))
-    msg.attach(MIMEText(_build_html(jobs), "html"))
-
-    with smtplib.SMTP("smtp-mail.outlook.com", 587) as smtp:
-        smtp.ehlo()
-        smtp.starttls()
-        smtp.login(sender, password)
-        smtp.sendmail(sender, recipient, msg.as_string())
-    logger.info(f"Sent digest with {len(jobs)} jobs to {recipient}")
+    service = _get_service()
+    raw = base64.urlsafe_b64encode(msg.as_bytes()).decode()
+    result = service.users().messages().send(userId="me", body={"raw": raw}).execute()
+    logger.info(f"Sent digest with {len(jobs)} jobs to {recipient} (id={result.get('id')})")
 
 
 def _build_plain(jobs: list[dict]) -> str:

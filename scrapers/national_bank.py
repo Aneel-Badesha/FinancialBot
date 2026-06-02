@@ -1,84 +1,53 @@
 import logging
-import re
-import time
+import xml.etree.ElementTree as ET
 
 import requests
-from bs4 import BeautifulSoup
+from scrapers.filters import is_target_role
 
 logger = logging.getLogger(__name__)
 
-# National Bank uses Oracle Taleo
-SEARCH_URL = "https://banquenationaleducanada.taleo.net/careersection/external/jobsearch.ftl"
-BASE_URL = "https://banquenationaleducanada.taleo.net"
-PAGE_SIZE = 25
+FEED_URL = "https://emplois.bnc.ca/en_CA/careers/searchjobs/feed/"
+PAGE_SIZE = 20
 
-ENTRY_LEVEL_KEYWORDS = [
-    "analyst", "associate", "graduate", "new grad", "entry",
-    "junior", "intern", "co-op", "coop", "rotational",
-    "early career", "campus",
-]
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; job-scraper/1.0)",
-    "Accept": "text/html,application/xhtml+xml",
-}
+HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; job-scraper/1.0)"}
 
 
 def scrape_national_bank() -> list[dict]:
     jobs = []
-    session = requests.Session()
-    session.get(SEARCH_URL, headers=HEADERS, timeout=15)
+    offset = 0
 
-    page = 1
     while True:
-        params = {
-            "lang": "en",
-            "startrow": str((page - 1) * PAGE_SIZE),
-        }
-        resp = session.get(SEARCH_URL, params=params, headers=HEADERS, timeout=15)
+        params = {"jobRecordsPerPage": PAGE_SIZE, "jobOffset": offset}
+        resp = requests.get(FEED_URL, params=params, headers=HEADERS, timeout=15)
         resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "lxml")
 
-        rows = soup.select("tr.listSectionContent")
-        if not rows:
-            rows = [r for r in soup.find_all("tr") if r.find("a", href=re.compile(r"jobdetail\.ftl"))]
+        root = ET.fromstring(resp.content)
+        channel = root.find("channel")
+        items = channel.findall("item") if channel is not None else []
 
-        found_any = False
-        for row in rows:
-            link_tag = row.find("a", href=re.compile(r"jobdetail\.ftl"))
-            if not link_tag:
+        if not items:
+            break
+
+        for item in items:
+            title = item.findtext("title", "")
+            link = item.findtext("link", "")
+            pub_date = item.findtext("pubDate", "")
+
+            if not is_target_role(title):
                 continue
-            found_any = True
 
-            title = link_tag.get_text(strip=True)
-            if not _is_entry_level(title):
-                continue
-
-            href = link_tag.get("href", "")
-            full_link = BASE_URL + href if href.startswith("/") else href
-            req_match = re.search(r"job=(\d+)", href)
-            req_id = req_match.group(1) if req_match else re.sub(r"[^a-zA-Z0-9]", "-", href)[-40:]
-
-            tds = row.find_all("td")
-            location = tds[1].get_text(strip=True) if len(tds) >= 2 else "Canada"
-
+            job_id = link.rstrip("/").split("/")[-1]
             jobs.append({
-                "id": f"nationalbank-{req_id}",
+                "id": f"nationalbank-{job_id}",
                 "company": "National Bank",
                 "title": title,
-                "location": location,
-                "link": full_link,
-                "posted": "",
+                "location": "Canada",
+                "link": link,
+                "posted": pub_date,
             })
 
-        if not found_any or not soup.find("a", string=re.compile(r"Next", re.I)):
+        if len(items) < PAGE_SIZE:
             break
-        page += 1
-        time.sleep(0.5)
+        offset += PAGE_SIZE
 
     return jobs
-
-
-def _is_entry_level(title: str) -> bool:
-    t = title.lower()
-    return any(kw in t for kw in ENTRY_LEVEL_KEYWORDS)

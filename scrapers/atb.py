@@ -2,19 +2,12 @@ import logging
 import time
 
 import requests
+from scrapers.filters import is_target_role
 
 logger = logging.getLogger(__name__)
 
-# ATB Financial uses Workable
 API_URL = "https://apply.workable.com/api/v3/accounts/atb-financial/jobs"
-BASE_URL = "https://apply.workable.com"
 PAGE_SIZE = 50
-
-ENTRY_LEVEL_KEYWORDS = [
-    "analyst", "associate", "graduate", "new grad", "entry",
-    "junior", "intern", "co-op", "coop", "rotational",
-    "early career", "campus",
-]
 
 HEADERS = {
     "Accept": "application/json",
@@ -28,7 +21,7 @@ def scrape_atb() -> list[dict]:
     token = None
 
     while True:
-        payload: dict = {"limit": PAGE_SIZE}
+        payload: dict = {"query": "", "location": [], "department": [], "worktype": [], "remote": [], "limit": PAGE_SIZE}
         if token:
             payload["token"] = token
 
@@ -38,7 +31,7 @@ def scrape_atb() -> list[dict]:
 
         for job in data.get("results", []):
             title = job.get("title", "")
-            if not _is_entry_level(title):
+            if not is_target_role(title):
                 continue
 
             job_id = job.get("shortcode", job.get("id", ""))
@@ -60,8 +53,3 @@ def scrape_atb() -> list[dict]:
         time.sleep(0.5)
 
     return jobs
-
-
-def _is_entry_level(title: str) -> bool:
-    t = title.lower()
-    return any(kw in t for kw in ENTRY_LEVEL_KEYWORDS)

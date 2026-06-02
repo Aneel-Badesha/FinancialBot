@@ -2,6 +2,7 @@ import logging
 import time
 
 import requests
+from scrapers.filters import is_target_role
 
 logger = logging.getLogger(__name__)
 
@@ -9,12 +10,6 @@ logger = logging.getLogger(__name__)
 API_URL = "https://api.smartrecruiters.com/v1/companies/DeloitteCA/postings"
 JOB_LINK_TEMPLATE = "https://careers.deloitte.ca/jobs/{job_id}"
 PAGE_SIZE = 100
-
-ENTRY_LEVEL_KEYWORDS = [
-    "analyst", "associate", "graduate", "new grad", "entry",
-    "junior", "intern", "co-op", "coop", "rotational",
-    "early career", "campus",
-]
 
 HEADERS = {
     "Accept": "application/json",
@@ -41,7 +36,7 @@ def scrape_deloitte() -> list[dict]:
 
         for posting in postings:
             title = posting.get("name", "")
-            if not _is_entry_level(title):
+            if not is_target_role(title):
                 continue
 
             job_id = posting.get("id", "")
@@ -66,7 +61,3 @@ def scrape_deloitte() -> list[dict]:
 
     return jobs
 
-
-def _is_entry_level(title: str) -> bool:
-    t = title.lower()
-    return any(kw in t for kw in ENTRY_LEVEL_KEYWORDS)
