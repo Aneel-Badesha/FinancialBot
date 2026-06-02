@@ -1,5 +1,6 @@
 import json
 import logging
+from datetime import datetime, timezone
 from pathlib import Path
 
 logger = logging.getLogger(__name__)
@@ -26,3 +27,16 @@ def filter_new_jobs(jobs: list[dict], seen_ids: set[str]) -> list[dict]:
 
 def add_to_seen(jobs: list[dict], seen_ids: set[str]) -> set[str]:
     return seen_ids | {j["id"] for j in jobs}
+
+
+JOBS_SITE_FILE = Path(__file__).parent / "docs" / "jobs.json"
+
+
+def save_jobs_for_site(jobs: list[dict]) -> None:
+    JOBS_SITE_FILE.parent.mkdir(exist_ok=True)
+    with JOBS_SITE_FILE.open("w") as f:
+        json.dump({
+            "updated": datetime.now(timezone.utc).isoformat(),
+            "jobs": jobs,
+        }, f, indent=2)
+    logger.info(f"Saved {len(jobs)} jobs to {JOBS_SITE_FILE}")

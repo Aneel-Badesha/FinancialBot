@@ -37,7 +37,7 @@ from scrapers import (
     scrape_sobeys,
     scrape_wealthsimple,
 )
-from storage import load_seen_ids, save_seen_ids, filter_new_jobs, add_to_seen
+from storage import load_seen_ids, save_seen_ids, filter_new_jobs, add_to_seen, save_jobs_for_site
 from emailer import send_digest
 
 logging.basicConfig(
@@ -105,6 +105,7 @@ def main():
 
     updated_seen = add_to_seen(all_jobs, seen_ids)
     save_seen_ids(updated_seen)
+    save_jobs_for_site(all_jobs)
 
 
 if __name__ == "__main__":

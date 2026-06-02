@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FinancialBot Job Board</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f4f6f9;
+      color: #1a1a2e;
+      min-height: 100vh;
+    }
+
+    header {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+      color: white;
+      padding: 2rem;
+      border-bottom: 3px solid #e94560;
+    }
+
+    header h1 { font-size: 1.8rem; font-weight: 700; letter-spacing: -0.5px; }
+    header h1 span { color: #e94560; }
+    header p { margin-top: 0.4rem; color: #a0aec0; font-size: 0.9rem; }
+
+    .container { max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem; }
+
+    /* Company shortcuts */
+    .section-title {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #718096;
+      margin-bottom: 1rem;
+    }
+
+    .company-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .company-chip {
+      display: inline-block;
+      padding: 0.4rem 0.9rem;
+      background: white;
+      border: 1px solid #e2e8f0;
+      border-radius: 9999px;
+      font-size: 0.8rem;
+      font-weight: 500;
+      color: #2d3748;
+      text-decoration: none;
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+
+    .company-chip:hover {
+      background: #e94560;
+      color: white;
+      border-color: #e94560;
+      transform: translateY(-1px);
+      box-shadow: 0 2px 8px rgba(233,69,96,0.25);
+    }
+
+    /* Jobs table */
+    .jobs-card {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+      overflow: hidden;
+    }
+
+    .jobs-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1.2rem 1.5rem;
+      border-bottom: 1px solid #edf2f7;
+    }
+
+    .jobs-count {
+      background: #ebf4ff;
+      color: #2b6cb0;
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.25rem 0.6rem;
+      border-radius: 9999px;
+    }
+
+    table { width: 100%; border-collapse: collapse; }
+
+    th {
+      text-align: left;
+      padding: 0.75rem 1rem;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      color: #718096;
+      background: #f7fafc;
+      border-bottom: 1px solid #edf2f7;
+    }
+
+    td {
+      padding: 0.85rem 1rem;
+      font-size: 0.875rem;
+      border-bottom: 1px solid #f0f4f8;
+      vertical-align: middle;
+    }
+
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #fafcff; }
+
+    .company-badge {
+      display: inline-block;
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      background: #edf2f7;
+      color: #4a5568;
+      white-space: nowrap;
+    }
+
+    .job-link {
+      color: #2b6cb0;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .job-link:hover { text-decoration: underline; color: #e94560; }
+
+    .posted-pill {
+      font-size: 0.72rem;
+      color: #718096;
+      white-space: nowrap;
+    }
+
+    .loading, .error {
+      padding: 3rem;
+      text-align: center;
+      color: #718096;
+      font-size: 0.9rem;
+    }
+    .error { color: #e53e3e; }
+
+    @media (max-width: 640px) {
+      th:nth-child(3), td:nth-child(3),
+      th:nth-child(4), td:nth-child(4) { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div style="max-width:1100px;margin:0 auto">
+    <h1>Financial<span>Bot</span> Job Board</h1>
+    <p id="meta">Loading latest jobs...</p>
+  </div>
+</header>
+
+<div class="container">
+
+  <div class="section-title">Company Portals</div>
+  <div class="company-grid" id="companies"></div>
+
+  <div class="section-title">Latest Jobs</div>
+  <div class="jobs-card">
+    <div class="jobs-header">
+      <span class="section-title" style="margin:0">All scraped jobs</span>
+      <span class="jobs-count" id="count">—</span>
+    </div>
+    <div id="jobs-body"><div class="loading">Loading jobs...</div></div>
+  </div>
+
+</div>
+
+<script>
+const COMPANIES = [
+  { name: "RBC",                url: "https://jobs.rbc.com/ca/en" },
+  { name: "TD",                 url: "https://jobs.td.com/en-CA/" },
+  { name: "CIBC",               url: "https://cibc.wd3.myworkdayjobs.com/en-US/search" },
+  { name: "BMO",                url: "https://bmo.wd3.myworkdayjobs.com/en-US/External" },
+  { name: "Scotiabank",         url: "https://jobs.scotiabank.com/" },
+  { name: "Capital One",        url: "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One" },
+  { name: "Deutsche Bank",      url: "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite" },
+  { name: "Enbridge",           url: "https://enbridge.wd3.myworkdayjobs.com/en-US/enbridge_careers" },
+  { name: "Brookfield",         url: "https://brookfield.wd5.myworkdayjobs.com/en-US/brookfield" },
+  { name: "Accenture",          url: "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers" },
+  { name: "Manulife",           url: "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs" },
+  { name: "Intact Financial",   url: "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc" },
+  { name: "CPP Investments",    url: "https://cppib.wd10.myworkdayjobs.com/en-US/cppinvestments" },
+  { name: "OTPP",               url: "https://otppb.wd3.myworkdayjobs.com/en-US/OntarioTeachers_Careers" },
+  { name: "CDPQ",               url: "https://cdpq.wd10.myworkdayjobs.com/en-US/CDPQ" },
+  { name: "PSP Investments",    url: "https://investpsp.wd3.myworkdayjobs.com/en-US/psp_careers" },
+  { name: "Morgan Stanley",     url: "https://ms.wd5.myworkdayjobs.com/en-US/External" },
+  { name: "Barclays",           url: "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays" },
+  { name: "Wells Fargo",        url: "https://wf.wd1.myworkdayjobs.com/en-US/WellsFargoJobs" },
+  { name: "BlackRock",          url: "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional" },
+  { name: "Fidelity Canada",    url: "https://fil.wd3.myworkdayjobs.com/en-US/fidelitycanada" },
+  { name: "BDO Canada",         url: "https://bdo.wd3.myworkdayjobs.com/en-US/bdo" },
+  { name: "Visa",               url: "https://visa.wd5.myworkdayjobs.com/en-US/visa" },
+  { name: "Mastercard",         url: "https://mastercard.wd1.myworkdayjobs.com/en-US/Campus" },
+  { name: "JPMorgan",           url: "https://careers.jpmorgan.com/us/en/students/programs" },
+  { name: "BNP Paribas",        url: "https://group.bnpparibas/en/careers" },
+  { name: "Deloitte",           url: "https://deloitte.com/ca/en/careers.html" },
+  { name: "EY",                 url: "https://careers.ey.com/ey/search/" },
+  { name: "BCG",                url: "https://careers.bcg.com/" },
+  { name: "PwC",                url: "https://www.pwc.com/ca/en/careers.html" },
+  { name: "KPMG",               url: "https://home.kpmg/ca/en/home/careers.html" },
+  { name: "Bell",               url: "https://jobs.bell.ca/ca/en" },
+  { name: "Canada Life",        url: "https://jobs.canadalife.com/" },
+  { name: "Fairfax Financial",  url: "https://www.fairfax.ca/careers/" },
+  { name: "Wealthsimple",       url: "https://jobs.lever.co/wealthsimple" },
+  { name: "George Weston",      url: "https://myview.wd3.myworkdayjobs.com/en-US/George_Weston" },
+  { name: "Loblaw",             url: "https://myview.wd3.myworkdayjobs.com/en-US/Loblaw-Digital_Careers_Carrieres" },
+];
+
+// Render company chips
+const grid = document.getElementById('companies');
+COMPANIES.forEach(c => {
+  const a = document.createElement('a');
+  a.className = 'company-chip';
+  a.href = c.url;
+  a.target = '_blank';
+  a.rel = 'noopener';
+  a.textContent = c.name;
+  grid.appendChild(a);
+});
+
+// Load jobs
+fetch('jobs.json')
+  .then(r => {
+    if (!r.ok) throw new Error('jobs.json not found');
+    return r.json();
+  })
+  .then(data => {
+    const jobs = data.jobs || [];
+    const updated = data.updated ? new Date(data.updated).toLocaleString('en-CA', {
+      dateStyle: 'medium', timeStyle: 'short'
+    }) : 'unknown';
+
+    document.getElementById('meta').textContent =
+      `Last updated: ${updated} · ${jobs.length} jobs`;
+    document.getElementById('count').textContent = `${jobs.length} jobs`;
+
+    if (jobs.length === 0) {
+      document.getElementById('jobs-body').innerHTML =
+        '<div class="loading">No jobs in latest run.</div>';
+      return;
+    }
+
+    const rows = jobs.map(j => `
+      <tr>
+        <td><span class="company-badge">${esc(j.company)}</span></td>
+        <td><a class="job-link" href="${esc(j.link)}" target="_blank" rel="noopener">${esc(j.title)}</a></td>
+        <td>${esc(j.location)}</td>
+        <td><span class="posted-pill">${esc(j.posted)}</span></td>
+      </tr>`).join('');
+
+    document.getElementById('jobs-body').innerHTML = `
+      <table>
+        <thead><tr>
+          <th>Company</th><th>Role</th><th>Location</th><th>Posted</th>
+        </tr></thead>
+        <tbody>${rows}</tbody>
+      </table>`;
+  })
+  .catch(err => {
+    document.getElementById('jobs-body').innerHTML =
+      `<div class="error">Could not load jobs: ${err.message}</div>`;
+    document.getElementById('meta').textContent = 'Could not load data';
+  });
+
+function esc(s) {
+  return String(s || '')
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+</script>
+</body>
+</html>
