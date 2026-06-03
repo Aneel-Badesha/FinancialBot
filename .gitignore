@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 *.pyo
 .pytest_cache/
+credentials.json
+token.json
+*.log
+.venv/
+seen_jobs.json
