@@ -112,7 +112,8 @@ def _build_html(jobs: list[dict]) -> str:
     </tbody>
   </table>
   <p style="color:#888;font-size:12px;margin-top:24px">
-    Automated digest from FinancialBot. Jobs filtered for Canada + entry-level keywords.
+    Automated digest from FinancialBot. Jobs filtered for Canada + entry-level keywords.<br>
+    <a href="https://aneel-badesha.github.io/FinancialBot" style="color:#1a0dab">View full job board →</a>
   </p>
 </body>
 </html>"""
