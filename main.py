@@ -1,6 +1,9 @@
 import logging
 import os
+import subprocess
 import sys
+from datetime import date
+from pathlib import Path
 
 # Load .env when running locally (no-op if file doesn't exist or python-dotenv not installed)
 try:
@@ -106,6 +109,27 @@ def main():
     updated_seen = add_to_seen(all_jobs, seen_ids)
     save_seen_ids(updated_seen)
     save_jobs_for_site(all_jobs)
+    _push_site()
+
+
+def _push_site():
+    repo = Path(__file__).parent
+    try:
+        subprocess.run(["git", "add", "docs/jobs.json"], cwd=repo, check=True)
+        result = subprocess.run(
+            ["git", "diff", "--cached", "--quiet"], cwd=repo
+        )
+        if result.returncode == 0:
+            logger.info("docs/jobs.json unchanged — skipping push")
+            return
+        subprocess.run(
+            ["git", "commit", "-m", f"Update jobs.json [{date.today().isoformat()}]"],
+            cwd=repo, check=True,
+        )
+        subprocess.run(["git", "push", "origin", "main"], cwd=repo, check=True)
+        logger.info("Pushed docs/jobs.json to GitHub")
+    except Exception as e:
+        logger.error(f"Failed to push site update: {e}")
 
 
 if __name__ == "__main__":
