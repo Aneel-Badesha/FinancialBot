@@ -14,11 +14,11 @@ from googleapiclient.discovery import build
 logger = logging.getLogger(__name__)
 
 SCOPES = ["https://www.googleapis.com/auth/gmail.send"]
-_BASE = Path(__file__).parent
+_CREDS_DIR = Path.home() / ".config" / "financialbot"
 
 
 def _get_service():
-    token_path = _BASE / "token.json"
+    token_path = _CREDS_DIR / "token.json"
     creds = None
     if token_path.exists():
         creds = Credentials.from_authorized_user_file(str(token_path), SCOPES)
@@ -36,7 +36,7 @@ def _get_service():
 
 
 def _run_consent(token_path: Path) -> Credentials:
-    flow = InstalledAppFlow.from_client_secrets_file(str(_BASE / "credentials.json"), SCOPES)
+    flow = InstalledAppFlow.from_client_secrets_file(str(_CREDS_DIR / "credentials.json"), SCOPES)
     flow.redirect_uri = "urn:ietf:wg:oauth:2.0:oob"
     auth_url, _ = flow.authorization_url(prompt="consent")
     print(f"\nAuthorize the app:\n{auth_url}\n")
