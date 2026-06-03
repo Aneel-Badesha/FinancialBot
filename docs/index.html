@@ -255,7 +255,15 @@ fetch('jobs.json')
     return r.json();
   })
   .then(data => {
-    const jobs = data.jobs || [];
+    const ORDER = ["posted today", "posted yesterday", "posted 1 day ago", "posted 2 days ago"];
+    const jobs = (data.jobs || []).sort((a, b) => {
+      const ai = ORDER.indexOf((a.posted || "").toLowerCase());
+      const bi = ORDER.indexOf((b.posted || "").toLowerCase());
+      if (ai !== -1 && bi !== -1) return ai - bi;
+      if (ai !== -1) return -1;
+      if (bi !== -1) return 1;
+      return (b.posted || "").localeCompare(a.posted || "");
+    });
     const updated = data.updated ? new Date(data.updated).toLocaleString('en-CA', {
       dateStyle: 'medium', timeStyle: 'short'
     }) : 'unknown';
