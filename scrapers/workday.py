@@ -45,7 +45,7 @@ BANKS = [
     {"company": "Accenture", "tenant": "accenture", "wd_instance": "wd103", "site": "AccentureCareers"},
     {"company": "George Weston", "tenant": "myview", "wd_instance": "wd3", "site": "George_Weston"},
     {"company": "Loblaw", "tenant": "myview", "wd_instance": "wd3", "site": "Loblaw-Digital_Careers_Carrieres"},
-    {"company": "Bank of America", "tenant": "bankofamerica", "wd_instance": "wd1", "site": "Global_Campus_Careers"},
+    # Bank of America uses TAL.net portal — see scrapers/bank_of_america.py
     # Insurance & financial services
     {"company": "Manulife", "tenant": "manulife", "wd_instance": "wd3", "site": "MFCJH_Jobs"},
     {"company": "Sun Life", "tenant": "sunlife", "wd_instance": "wd3", "site": "Sunlife"},

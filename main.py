@@ -39,6 +39,7 @@ from scrapers import (
     scrape_fairfax,
     scrape_sobeys,
     scrape_wealthsimple,
+    scrape_bank_of_america,
 )
 from storage import load_seen_ids, save_seen_ids, filter_new_jobs, add_to_seen, save_jobs_for_site
 from emailer import send_digest
@@ -75,6 +76,7 @@ SCRAPERS = [
     ("Fairfax Financial", scrape_fairfax),
     # ("Sobeys / Empire", scrape_sobeys),  # dead URL
     ("Wealthsimple", scrape_wealthsimple),
+    ("Bank of America", scrape_bank_of_america),
 ]
 
 
