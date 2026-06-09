@@ -1,13 +1,18 @@
+import re
+
 INCLUDE_KEYWORDS = [
     "analyst", "associate", "advisor", "rotational", "graduate",
     "new grad", "new graduate", "early career", "campus",
 ]
 
 SENIORITY_EXCLUSIONS = [
-    "senior", " sr ", "sr.", "lead ", "manager", "director",
+    "senior", "lead ", "manager", "director",
     "principal", "vp ", "vice president", "head of", "partner",
     "managing", "experienced", " ii ", " iii ", " iv ",
 ]
+
+# Matches "Sr" or "Sr." as a standalone word anywhere in the title
+_SR_PATTERN = re.compile(r'\bsr\.?\b', re.IGNORECASE)
 
 ROLE_EXCLUSIONS = [
     "teller", "cashier", "clerk", "hourly",
@@ -27,7 +32,7 @@ def is_target_role(title: str) -> bool:
     t = title.lower()
     if any(excl in t for excl in SENIORITY_EXCLUSIONS):
         return False
-    if t.endswith(" sr") or t.endswith(", sr"):
+    if _SR_PATTERN.search(title):
         return False
     if any(excl in t for excl in ROLE_EXCLUSIONS):
         return False
