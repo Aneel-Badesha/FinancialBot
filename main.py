@@ -104,7 +104,10 @@ def main():
     logger.info(f"New jobs (not previously seen): {len(new_jobs)}")
 
     if new_jobs:
-        send_digest(new_jobs)
+        try:
+            send_digest(new_jobs)
+        except Exception as e:
+            logger.error(f"Failed to send email digest: {e}")
     else:
         logger.info("No new jobs — skipping email")
 

@@ -19,19 +19,21 @@ _CREDS_DIR = Path.home() / ".config" / "financialbot"
 
 def _get_service():
     token_path = _CREDS_DIR / "token.json"
-    creds = None
-    if token_path.exists():
-        creds = Credentials.from_authorized_user_file(str(token_path), SCOPES)
-        if not creds.valid:
-            if creds.refresh_token:
-                try:
-                    creds.refresh(Request())
-                except RefreshError:
-                    creds = _run_consent(token_path)
-            else:
-                creds = _run_consent(token_path)
-    else:
-        creds = _run_consent(token_path)
+    if not token_path.exists():
+        raise RuntimeError(
+            f"No token found at {token_path}. Run: python -m financialbot.auth  "
+            f"(or call emailer._run_consent() interactively) to authorize."
+        )
+    creds = Credentials.from_authorized_user_file(str(token_path), SCOPES)
+    if not creds.valid:
+        if creds.refresh_token:
+            creds.refresh(Request())
+            token_path.write_text(creds.to_json(), encoding="utf-8")
+        else:
+            raise RuntimeError(
+                f"Token at {token_path} has no refresh_token and cannot be renewed headlessly. "
+                f"Delete {token_path} and re-run the interactive auth flow."
+            )
     return build("gmail", "v1", credentials=creds)
 
 
