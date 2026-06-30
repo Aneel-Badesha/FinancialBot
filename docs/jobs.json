@@ -1,52 +1,20 @@
 {
-  "updated": "2026-06-29T21:33:40.115731+00:00",
+  "updated": "2026-06-30T21:33:55.667759+00:00",
   "jobs": [
     {
-      "id": "workday-cibc-job/Toronto-ON/Analyst--FIU-STR-Team_2613269-1",
-      "company": "CIBC",
-      "title": "Analyst, FIU STR Team",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--FIU-STR-Team_2613269-1",
+      "id": "workday-td-job/Toronto-Ontario/IT-Support-Analyst--TD-Securities_R_1495643",
+      "company": "TD",
+      "title": "IT Support Analyst, TD Securities",
+      "location": "Toronto, Ontario",
+      "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/IT-Support-Analyst--TD-Securities_R_1495643",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2613840",
-      "company": "CIBC",
-      "title": "Client Associate (IR licensed) CIBC Wood Gundy",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2613840",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Montral-QC/Private-Wealth-Advisor-Bilingual_2611661",
-      "company": "CIBC",
-      "title": "Private Wealth Advisor-Bilingual",
-      "location": "Montr\u00e9al, QC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Private-Wealth-Advisor-Bilingual_2611661",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Oakville-ON/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2610644",
-      "company": "CIBC",
-      "title": "Client Associate (IR Licensed) CIBC Wood Gundy",
-      "location": "Oakville, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Oakville-ON/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2610644",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Toronto-ON/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2612746",
-      "company": "CIBC",
-      "title": "Client Associate (IR Licensed) CIBC Wood Gundy",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2612746",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Toronto-ON/Associate--Global-Investment-Banking--EIT-_2514561",
-      "company": "CIBC",
-      "title": "Associate, Global Investment Banking (Energy, Infrastructure, & Transition)",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Global-Investment-Banking--EIT-_2514561",
+      "id": "workday-td-job/Madoc-Ontario/Customer-Experience-Associate_R_1496344",
+      "company": "TD",
+      "title": "Customer Experience Associate",
+      "location": "Madoc, Ontario",
+      "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Madoc-Ontario/Customer-Experience-Associate_R_1496344",
       "posted": "Posted Today"
     },
     {
@@ -58,27 +26,19 @@
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/Toronto-ON-CAN/Real-Estate-Analyst_R260017774",
-      "company": "BMO",
-      "title": "Real Estate Analyst",
-      "location": "Toronto, ON, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Real-Estate-Analyst_R260017774",
+      "id": "workday-cppib-job/Toronto/Associate--Business-Intelligence_JR00596",
+      "company": "CPP Investments",
+      "title": "Associate, Business Intelligence",
+      "location": "Toronto",
+      "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Associate--Business-Intelligence_JR00596",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/MONTREAL-QC-CAN/Analyst--Associate--Investment-Banking---Montreal_R260010184",
-      "company": "BMO",
-      "title": "Analyst/ Associate, Investment Banking - Montreal",
-      "location": "MONTREAL, QC, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Analyst--Associate--Investment-Banking---Montreal_R260010184",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-bmo-job/Laval-QC-CAN/Credit-Analyst---Business-Banking_R260016607",
-      "company": "BMO",
-      "title": "Credit Analyst - Business Banking",
-      "location": "Laval, QC, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Laval-QC-CAN/Credit-Analyst---Business-Banking_R260016607",
+      "id": "workday-cppib-job/Toronto/Analyst--External-Funds-Operations--12-month-contract-with-benefits-_JR00588",
+      "company": "CPP Investments",
+      "title": "Analyst, External Funds Operations (12-month contract with benefits)",
+      "location": "Toronto",
+      "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--External-Funds-Operations--12-month-contract-with-benefits-_JR00588",
       "posted": "Posted Today"
     },
     {
@@ -87,7 +47,7 @@
       "title": "Business Analyst, Financial Management and Reporting (FMR)",
       "location": "Toronto, Canada",
       "link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Business-Analyst--Financial-Management-and-Reporting--FMR-_6937",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-cdpq-job/Montreal/Analyste--Encaisse_R04870-1",
@@ -95,6 +55,14 @@
       "title": "Analyste, Encaisse",
       "location": "Montreal",
       "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Encaisse_R04870-1",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-investpsp-job/Montreal/Analyst---Corporate-Functions-Solutions-Delivery--Temporary---18-months-_R4838",
+      "company": "PSP Investments",
+      "title": "Analyst , Corporate Functions Solutions Delivery (Temporary \u2013 18 months)",
+      "location": "Montreal",
+      "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Analyst---Corporate-Functions-Solutions-Delivery--Temporary---18-months-_R4838",
       "posted": "Posted Today"
     },
     {
@@ -120,6 +88,14 @@
       "location": "Montreal, QC, CA",
       "link": "https://jobs.scotiabank.com/job/Montreal-Wealth-Management-Associate-Program-MD-Financial-%28Quebec%29-January-2027-QC/603211517/",
       "posted": "Jun 5, 2026"
+    },
+    {
+      "id": "canadalife-Advisor-Support-Associate-ON-1410028833-",
+      "company": "Canada Life",
+      "title": "FSC - Advisor Support Associate",
+      "location": "Canada",
+      "link": "https://jobs.canadalife.com/job/Canada-FSC-Advisor-Support-Associate-ON/1410028833/",
+      "posted": ""
     },
     {
       "id": "canadalife-inancial-Advisor-Edmonton-AB-1398427433-",
