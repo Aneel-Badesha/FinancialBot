@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T21:33:55.905262+00:00",
+  "updated": "2026-07-02T21:34:29.638196+00:00",
   "jobs": [
     {
       "id": "workday-td-job/Toronto-Ontario/IT-Support-Analyst--TD-Securities_R_1495643",
@@ -7,7 +7,39 @@
       "title": "IT Support Analyst, TD Securities",
       "location": "Toronto, Ontario",
       "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/IT-Support-Analyst--TD-Securities_R_1495643",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
+    },
+    {
+      "id": "workday-td-job/Oshawa-Ontario/Customer-Experience-Associate_R_1497630",
+      "company": "TD",
+      "title": "Customer Experience Associate",
+      "location": "Oshawa, Ontario",
+      "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Oshawa-Ontario/Customer-Experience-Associate_R_1497630",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Edmonton-AB/Financial-Advisor---CIRO-ID_2610984",
+      "company": "CIBC",
+      "title": "Financial Advisor - CIRO-ID",
+      "location": "Edmonton, AB",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Edmonton-AB/Financial-Advisor---CIRO-ID_2610984",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/London-ON/Associate-Investment-Advisor-CIBC-Wood-Gundy_2610153",
+      "company": "CIBC",
+      "title": "Associate Investment Advisor CIBC Wood Gundy (Commission only)",
+      "location": "London, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/London-ON/Associate-Investment-Advisor-CIBC-Wood-Gundy_2610153",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Vancouver-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2612951",
+      "company": "CIBC",
+      "title": "Client Associate (IR Licensed) CIBC Wood Gundy",
+      "location": "Vancouver, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2612951",
+      "posted": "Posted Today"
     },
     {
       "id": "workday-capitalone-job/Toronto-ON/Associate-Coordinator--Creative-Solutions--12-month-Contract-_R245359-1",
@@ -15,7 +47,15 @@
       "title": "Associate Coordinator, Creative Solutions (12 month Contract)",
       "location": "Toronto, ON",
       "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate-Coordinator--Creative-Solutions--12-month-Contract-_R245359-1",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
+    },
+    {
+      "id": "workday-enbridge-job/Toronto-ON-CAN/Advisor-Asset-Performance_69063-1",
+      "company": "Enbridge",
+      "title": "Advisor Asset Management [Power]",
+      "location": "Toronto, ON, CAN",
+      "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Toronto-ON-CAN/Advisor-Asset-Performance_69063-1",
+      "posted": "Posted Today"
     },
     {
       "id": "workday-cppib-job/Toronto/Associate--Business-Intelligence_JR00596",
@@ -23,7 +63,7 @@
       "title": "Associate, Business Intelligence",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Associate--Business-Intelligence_JR00596",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-cppib-job/Toronto/Analyst--External-Funds-Operations--12-month-contract-with-benefits-_JR00588",
@@ -31,23 +71,15 @@
       "title": "Analyst, External Funds Operations (12-month contract with benefits)",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--External-Funds-Operations--12-month-contract-with-benefits-_JR00588",
-      "posted": "Posted Yesterday"
-    },
-    {
-      "id": "workday-otppb-job/Toronto-Canada/Business-Analyst--Financial-Management-and-Reporting--FMR-_6937",
-      "company": "OTPP",
-      "title": "Business Analyst, Financial Management and Reporting (FMR)",
-      "location": "Toronto, Canada",
-      "link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Business-Analyst--Financial-Management-and-Reporting--FMR-_6937",
       "posted": "Posted 2 Days Ago"
     },
     {
-      "id": "workday-cdpq-job/Montreal/Analyste--Encaisse_R04870-1",
+      "id": "workday-cdpq-job/Montreal/Analyste--Immobilier_R04981",
       "company": "CDPQ",
-      "title": "Analyste, Encaisse",
+      "title": "Analyste, Immobilier",
       "location": "Montreal",
-      "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Encaisse_R04870-1",
-      "posted": "Posted 2 Days Ago"
+      "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Immobilier_R04981",
+      "posted": "Posted Today"
     },
     {
       "id": "workday-investpsp-job/Montreal/Analyst---Corporate-Functions-Solutions-Delivery--Temporary---18-months-_R4838",
@@ -55,7 +87,7 @@
       "title": "Analyst , Corporate Functions Solutions Delivery (Temporary \u2013 18 months)",
       "location": "Montreal",
       "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Analyst---Corporate-Functions-Solutions-Delivery--Temporary---18-months-_R4838",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "scotiabank-603658817",
@@ -87,14 +119,6 @@
       "title": "FSC - Advisor Support Associate",
       "location": "Canada",
       "link": "https://jobs.canadalife.com/job/Canada-FSC-Advisor-Support-Associate-ON/1410028833/",
-      "posted": ""
-    },
-    {
-      "id": "canadalife-inancial-Advisor-Edmonton-AB-1398427433-",
-      "company": "Canada Life",
-      "title": "Financial Advisor - Edmonton",
-      "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Edmonton-Financial-Advisor-Edmonton-AB/1398427433/",
       "posted": ""
     }
   ]
