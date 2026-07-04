@@ -1,13 +1,29 @@
 {
-  "updated": "2026-07-03T21:33:49.525245+00:00",
+  "updated": "2026-07-04T21:33:44.558855+00:00",
   "jobs": [
     {
-      "id": "workday-td-job/Toronto-Ontario/Data-Associate_R_1494371",
+      "id": "workday-td-job/Richmond-British-Columbia/Customer-Experience-Associate_R_1497212",
       "company": "TD",
-      "title": "Data Associate",
-      "location": "Toronto, Ontario",
-      "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Associate_R_1494371",
+      "title": "Customer Experience Associate",
+      "location": "Richmond, British Columbia",
+      "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Richmond-British-Columbia/Customer-Experience-Associate_R_1497212",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-cibc-job/Montral-QC/Financial-Advisor---CIRO-MFD-AMF_2613104",
+      "company": "CIBC",
+      "title": "Financial Advisor - CIRO-MFD/AMF",
+      "location": "Montr\u00e9al, QC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Financial-Advisor---CIRO-MFD-AMF_2613104",
       "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Toronto-ON/Associate--Marketing-Client-Strategy_2614043",
+      "company": "CIBC",
+      "title": "Associate, Marketing Client Strategy",
+      "location": "Toronto, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Marketing-Client-Strategy_2614043",
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-cibc-job/Ottawa-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2611797",
@@ -15,15 +31,7 @@
       "title": "Client Associate (IR licensed) CIBC Wood Gundy",
       "location": "Ottawa, ON",
       "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Ottawa-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2611797",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Vancouver-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2610901",
-      "company": "CIBC",
-      "title": "Client Associate (IR Licensed) CIBC Wood Gundy",
-      "location": "Vancouver, BC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2610901",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-capitalone-job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R243795",
@@ -31,7 +39,7 @@
       "title": "Associate, Software Engineer, New Grad Card Expansion",
       "location": "Toronto, ON",
       "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R243795",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-bmo-job/St-Hyacinthe-QC-CAN/Commercial-Credit-Analyst--New-or-Recent-Graduate---Saint-Hyacinthe_R260018831",
@@ -39,7 +47,7 @@
       "title": "Commercial Credit Analyst (New or Recent Graduate), Saint-Hyacinthe",
       "location": "St-Hyacinthe, QC, CAN",
       "link": "https://bmo.wd3.myworkdayjobs.com/External/job/St-Hyacinthe-QC-CAN/Commercial-Credit-Analyst--New-or-Recent-Graduate---Saint-Hyacinthe_R260018831",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-bmo-job/MONTREAL-QC-CAN/Analyst--Broker-Management_R260017747",
@@ -47,7 +55,7 @@
       "title": "Analyst, Broker Management",
       "location": "MONTREAL, QC, CAN",
       "link": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Analyst--Broker-Management_R260017747",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-bmo-job/Toronto-ON-CAN/Compliance-Analyst---Contract_R260019908",
@@ -55,7 +63,7 @@
       "title": "Compliance Analyst \u2013 Contract",
       "location": "Toronto, ON, CAN",
       "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Compliance-Analyst---Contract_R260019908",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-cdpq-job/Montreal/Analyste--Immobilier_R04981",
@@ -63,7 +71,7 @@
       "title": "Analyste, Immobilier",
       "location": "Montreal",
       "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Immobilier_R04981",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-fil-job/Toronto-Office/Managed-Accounts-Portfolio-Services-Group-Analyst_J68905",
@@ -71,7 +79,23 @@
       "title": "Analyst, Managed Accounts Portfolio Services Group",
       "location": "Toronto Office",
       "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Managed-Accounts-Portfolio-Services-Group-Analyst_J68905",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-circlek-job/Store-4707046-Scarborough-ME/Food-Service-Deli-Associate--Full-or-Part-Time_R504849-1",
+      "company": "Couche-Tard",
+      "title": "Food Service/Deli Associate, Full or Part Time",
+      "location": "Store 4707046 Scarborough ME",
+      "link": "https://circlek.wd3.myworkdayjobs.com/CircleKStoreJobs/job/Store-4707046-Scarborough-ME/Food-Service-Deli-Associate--Full-or-Part-Time_R504849-1",
       "posted": "Posted Today"
+    },
+    {
+      "id": "scotiabank-603211517",
+      "company": "Scotiabank",
+      "title": "Wealth Management Associate Program - MD Financial (Quebec) - January 2027",
+      "location": "Montreal, QC, CA",
+      "link": "https://jobs.scotiabank.com/job/Montreal-Wealth-Management-Associate-Program-MD-Financial-%28Quebec%29-January-2027-QC/603211517/",
+      "posted": "Jul 4, 2026"
     },
     {
       "id": "scotiabank-603658817",
@@ -88,14 +112,6 @@
       "location": "Mississauga, ON, CA",
       "link": "https://jobs.scotiabank.com/job/Mississauga-Wealth-Management-Associate-Program-Scotia-Jarislowsky-Fraser-%28Mississauga%29-January-2027-ON/603571317/",
       "posted": "Jun 17, 2026"
-    },
-    {
-      "id": "scotiabank-603211517",
-      "company": "Scotiabank",
-      "title": "Wealth Management Associate Program - MD Financial (Quebec) - January 2027",
-      "location": "Montreal, QC, CA",
-      "link": "https://jobs.scotiabank.com/job/Montreal-Wealth-Management-Associate-Program-MD-Financial-%28Quebec%29-January-2027-QC/603211517/",
-      "posted": "Jun 5, 2026"
     },
     {
       "id": "canadalife--Sault-Ste--Marie-ON-P6A-2K6-1400902833-",
