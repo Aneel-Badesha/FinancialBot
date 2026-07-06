@@ -1,69 +1,109 @@
 {
-  "updated": "2026-07-05T21:33:43.529168+00:00",
+  "updated": "2026-07-06T21:33:53.485890+00:00",
   "jobs": [
     {
-      "id": "workday-cibc-job/Ottawa-ON/Financial-Advisor-CIRO-MFD--Urban-_2613049",
+      "id": "workday-cibc-job/Toronto-ON/Financial-Advisor-CIRO-ID--Urban-_2614063",
       "company": "CIBC",
-      "title": "Financial Advisor CIRO-MFD (Urban)",
-      "location": "Ottawa, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Ottawa-ON/Financial-Advisor-CIRO-MFD--Urban-_2613049",
+      "title": "Financial Advisor CIRO-ID (Urban)",
+      "location": "Toronto, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Financial-Advisor-CIRO-ID--Urban-_2614063",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Montral-QC/Financial-Advisor---CIRO-MFD-AMF_2613104",
+      "id": "workday-cibc-job/Calgary-AB/Associate--Cash-Management_2613775",
       "company": "CIBC",
-      "title": "Financial Advisor - CIRO-MFD/AMF",
+      "title": "Associate, Cash Management",
+      "location": "Calgary, AB",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Calgary-AB/Associate--Cash-Management_2613775",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Montral-QC/Associ-e--en-Services-Financiers--Services-Bancaires-aux-PME-pour-le-Qubec---Bilingue_2614079-1",
+      "company": "CIBC",
+      "title": "Financial Services Associate, Business Banking  for Quebec - Bilingual",
       "location": "Montr\u00e9al, QC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Financial-Advisor---CIRO-MFD-AMF_2613104",
-      "posted": "Posted Yesterday"
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Associ-e--en-Services-Financiers--Services-Bancaires-aux-PME-pour-le-Qubec---Bilingue_2614079-1",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/Associate--Marketing-Client-Strategy_2614043",
-      "company": "CIBC",
-      "title": "Associate, Marketing Client Strategy",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Marketing-Client-Strategy_2614043",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "id": "workday-cibc-job/Ottawa-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2611797",
+      "id": "workday-cibc-job/Surrey-BC/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2611545",
       "company": "CIBC",
       "title": "Client Associate (IR licensed) CIBC Wood Gundy",
-      "location": "Ottawa, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Ottawa-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2611797",
-      "posted": "Posted 2 Days Ago"
+      "location": "Surrey, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Surrey-BC/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2611545",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/St-Hyacinthe-QC-CAN/Commercial-Credit-Analyst--New-or-Recent-Graduate---Saint-Hyacinthe_R260018831",
+      "id": "workday-cibc-job/Montral-QC/Investment-Advisor-Assistant-Bilingual_2522556",
+      "company": "CIBC",
+      "title": "Investment Advisor Assistant-Bilingual",
+      "location": "Montr\u00e9al, QC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Investment-Advisor-Assistant-Bilingual_2522556",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Edmonton-AB/Financial-Advisor-IIROC_2613574",
+      "company": "CIBC",
+      "title": "Financial Advisor IIROC",
+      "location": "Edmonton, AB",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Edmonton-AB/Financial-Advisor-IIROC_2613574",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/VILLE-DE-QUEBEC-QC-CAN/Commercial-Credit-Analyst--New-or-Recent-Graduate---Quebec-City_R260018823-2",
       "company": "BMO",
-      "title": "Commercial Credit Analyst (New or Recent Graduate), Saint-Hyacinthe",
-      "location": "St-Hyacinthe, QC, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/St-Hyacinthe-QC-CAN/Commercial-Credit-Analyst--New-or-Recent-Graduate---Saint-Hyacinthe_R260018831",
-      "posted": "Posted 2 Days Ago"
+      "title": "Commercial Credit Analyst (New or Recent Graduate), Quebec City",
+      "location": "VILLE DE QUEBEC, QC, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/VILLE-DE-QUEBEC-QC-CAN/Commercial-Credit-Analyst--New-or-Recent-Graduate---Quebec-City_R260018823-2",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/MONTREAL-QC-CAN/Analyst--Broker-Management_R260017747",
-      "company": "BMO",
-      "title": "Analyst, Broker Management",
-      "location": "MONTREAL, QC, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Analyst--Broker-Management_R260017747",
-      "posted": "Posted 2 Days Ago"
+      "id": "workday-manulife-job/Toronto-Ontario/National-Accounts---Platforms-Associate--Manulife-Investments_JR26070066-2",
+      "company": "Manulife",
+      "title": "National Accounts & Platforms Associate, Manulife Investments",
+      "location": "Toronto, Ontario",
+      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/National-Accounts---Platforms-Associate--Manulife-Investments_JR26070066-2",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/Toronto-ON-CAN/Compliance-Analyst---Contract_R260019908",
-      "company": "BMO",
-      "title": "Compliance Analyst \u2013 Contract",
-      "location": "Toronto, ON, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Compliance-Analyst---Contract_R260019908",
-      "posted": "Posted 2 Days Ago"
+      "id": "workday-manulife-job/Montreal-Quebec/Field-Supervision-Analyst_JR26031144-1",
+      "company": "Manulife",
+      "title": "Field Supervision Analyst",
+      "location": "Montreal, Quebec",
+      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Field-Supervision-Analyst_JR26031144-1",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-fil-job/Toronto-Office/Managed-Accounts-Portfolio-Services-Group-Analyst_J68905",
-      "company": "Fidelity Canada",
-      "title": "Analyst, Managed Accounts Portfolio Services Group",
-      "location": "Toronto Office",
-      "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Managed-Accounts-Portfolio-Services-Group-Analyst_J68905",
-      "posted": "Posted 2 Days Ago"
+      "id": "workday-cppib-job/Toronto/Associate--Portfolio-Strategy--Private-Equity_JR00612",
+      "company": "CPP Investments",
+      "title": "Associate, Private Equity Portfolio Strategy",
+      "location": "Toronto",
+      "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Associate--Portfolio-Strategy--Private-Equity_JR00612",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-investpsp-job/Montreal/Advisor--Structural-Forces---Geopolitical-Insights_R4835-1",
+      "company": "PSP Investments",
+      "title": "Advisor, Geopolitics Analytics",
+      "location": "Montreal",
+      "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Advisor--Structural-Forces---Geopolitical-Insights_R4835-1",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-investpsp-job/Montreal/Advisor--Global-Government-Affairs_R4839",
+      "company": "PSP Investments",
+      "title": "Advisor, Global Government Affairs",
+      "location": "Montreal",
+      "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Advisor--Global-Government-Affairs_R4839",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bdo-job/Toronto---Bay-St/Consultant--Construction-Advisory---Dispute-Services_JR6539",
+      "company": "BDO Canada",
+      "title": "Consultant, Construction Advisory & Dispute Services",
+      "location": "Toronto - Bay St",
+      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Consultant--Construction-Advisory---Dispute-Services_JR6539",
+      "posted": "Posted Today"
     },
     {
       "id": "scotiabank-603211517",
@@ -111,14 +151,6 @@
       "title": "Business Systems Analyst (Student Position)",
       "location": "Canada",
       "link": "https://jobs.canadalife.com/job/Toronto-Business-Systems-Analyst-%28Student-Position%29-ON/1411442133/",
-      "posted": ""
-    },
-    {
-      "id": "canadalife-Advisor-Support-Associate-ON-1410028833-",
-      "company": "Canada Life",
-      "title": "FSC - Advisor Support Associate",
-      "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Canada-FSC-Advisor-Support-Associate-ON/1410028833/",
       "posted": ""
     }
   ]
