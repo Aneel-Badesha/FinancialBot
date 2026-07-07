@@ -1,76 +1,44 @@
 {
-  "updated": "2026-07-06T21:33:53.485890+00:00",
+  "updated": "2026-07-07T21:33:58.592847+00:00",
   "jobs": [
     {
-      "id": "workday-cibc-job/Toronto-ON/Financial-Advisor-CIRO-ID--Urban-_2614063",
+      "id": "workday-cibc-job/Edmonton-AB/Financial-Advisor-MFDA_2612855",
+      "company": "CIBC",
+      "title": "Financial Advisor MFDA",
+      "location": "Edmonton, AB",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Edmonton-AB/Financial-Advisor-MFDA_2612855",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Victoria-BC/Associate--Commercial-Banking_2613543",
+      "company": "CIBC",
+      "title": "Associate, Commercial Banking",
+      "location": "Victoria, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Victoria-BC/Associate--Commercial-Banking_2613543",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Mississauga-ON/Financial-Advisor-CIRO-ID--Urban-_2614206",
       "company": "CIBC",
       "title": "Financial Advisor CIRO-ID (Urban)",
+      "location": "Mississauga, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Mississauga-ON/Financial-Advisor-CIRO-ID--Urban-_2614206",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-capitalone-job/Toronto-ON/Elevated-X-Capital-One---Associate--Process-Management-New-Grad-2027_R244877",
+      "company": "Capital One",
+      "title": "Elevated X Capital One - Associate, Process Management New Grad 2027",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Financial-Advisor-CIRO-ID--Urban-_2614063",
+      "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Elevated-X-Capital-One---Associate--Process-Management-New-Grad-2027_R244877",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Calgary-AB/Associate--Cash-Management_2613775",
-      "company": "CIBC",
-      "title": "Associate, Cash Management",
-      "location": "Calgary, AB",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Calgary-AB/Associate--Cash-Management_2613775",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Montral-QC/Associ-e--en-Services-Financiers--Services-Bancaires-aux-PME-pour-le-Qubec---Bilingue_2614079-1",
-      "company": "CIBC",
-      "title": "Financial Services Associate, Business Banking  for Quebec - Bilingual",
-      "location": "Montr\u00e9al, QC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Associ-e--en-Services-Financiers--Services-Bancaires-aux-PME-pour-le-Qubec---Bilingue_2614079-1",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Surrey-BC/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2611545",
-      "company": "CIBC",
-      "title": "Client Associate (IR licensed) CIBC Wood Gundy",
-      "location": "Surrey, BC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Surrey-BC/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2611545",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Montral-QC/Investment-Advisor-Assistant-Bilingual_2522556",
-      "company": "CIBC",
-      "title": "Investment Advisor Assistant-Bilingual",
-      "location": "Montr\u00e9al, QC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Investment-Advisor-Assistant-Bilingual_2522556",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Edmonton-AB/Financial-Advisor-IIROC_2613574",
-      "company": "CIBC",
-      "title": "Financial Advisor IIROC",
-      "location": "Edmonton, AB",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Edmonton-AB/Financial-Advisor-IIROC_2613574",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-bmo-job/VILLE-DE-QUEBEC-QC-CAN/Commercial-Credit-Analyst--New-or-Recent-Graduate---Quebec-City_R260018823-2",
-      "company": "BMO",
-      "title": "Commercial Credit Analyst (New or Recent Graduate), Quebec City",
-      "location": "VILLE DE QUEBEC, QC, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/VILLE-DE-QUEBEC-QC-CAN/Commercial-Credit-Analyst--New-or-Recent-Graduate---Quebec-City_R260018823-2",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-manulife-job/Toronto-Ontario/National-Accounts---Platforms-Associate--Manulife-Investments_JR26070066-2",
+      "id": "workday-manulife-job/Toronto-Ontario/Data-Analyst_JR26061655",
       "company": "Manulife",
-      "title": "National Accounts & Platforms Associate, Manulife Investments",
+      "title": "Data Analyst",
       "location": "Toronto, Ontario",
-      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/National-Accounts---Platforms-Associate--Manulife-Investments_JR26070066-2",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-manulife-job/Montreal-Quebec/Field-Supervision-Analyst_JR26031144-1",
-      "company": "Manulife",
-      "title": "Field Supervision Analyst",
-      "location": "Montreal, Quebec",
-      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Field-Supervision-Analyst_JR26031144-1",
+      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Data-Analyst_JR26061655",
       "posted": "Posted Today"
     },
     {
@@ -79,6 +47,14 @@
       "title": "Associate, Private Equity Portfolio Strategy",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Associate--Portfolio-Strategy--Private-Equity_JR00612",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-investpsp-job/Montreal/Advisor--Access-and-Information-Governance_R4865",
+      "company": "PSP Investments",
+      "title": "Advisor, Access and Information Governance",
+      "location": "Montreal",
+      "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Advisor--Access-and-Information-Governance_R4865",
       "posted": "Posted Today"
     },
     {
@@ -87,7 +63,7 @@
       "title": "Advisor, Geopolitics Analytics",
       "location": "Montreal",
       "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Advisor--Structural-Forces---Geopolitical-Insights_R4835-1",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-investpsp-job/Montreal/Advisor--Global-Government-Affairs_R4839",
@@ -95,6 +71,14 @@
       "title": "Advisor, Global Government Affairs",
       "location": "Montreal",
       "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Advisor--Global-Government-Affairs_R4839",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-fil-job/Toronto-Office/Advisor-Service-Centre-Representative_J67748",
+      "company": "Fidelity Canada",
+      "title": "Advisor Service Centre Representative",
+      "location": "Toronto Office",
+      "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Advisor-Service-Centre-Representative_J67748",
       "posted": "Posted Today"
     },
     {
@@ -103,7 +87,7 @@
       "title": "Consultant, Construction Advisory & Dispute Services",
       "location": "Toronto - Bay St",
       "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Consultant--Construction-Advisory---Dispute-Services_JR6539",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "scotiabank-603211517",
@@ -128,6 +112,22 @@
       "location": "Mississauga, ON, CA",
       "link": "https://jobs.scotiabank.com/job/Mississauga-Wealth-Management-Associate-Program-Scotia-Jarislowsky-Fraser-%28Mississauga%29-January-2027-ON/603571317/",
       "posted": "Jun 17, 2026"
+    },
+    {
+      "id": "canadalife-alyst-Small-Group-Renewal-ON-1412047233-",
+      "company": "Canada Life",
+      "title": "Underwriting Analyst - Small Group Renewal",
+      "location": "Canada",
+      "link": "https://jobs.canadalife.com/job/London-Underwriting-Analyst-Small-Group-Renewal-ON/1412047233/",
+      "posted": ""
+    },
+    {
+      "id": "canadalife-ntative-18-Month-Contract-ON-1412523233-",
+      "company": "Canada Life",
+      "title": "Advisor Service Representative - 18 Month Contract",
+      "location": "Canada",
+      "link": "https://jobs.canadalife.com/job/London-Advisor-Service-Representative-18-Month-Contract-ON/1412523233/",
+      "posted": ""
     },
     {
       "id": "canadalife--Sault-Ste--Marie-ON-P6A-2K6-1400902833-",
