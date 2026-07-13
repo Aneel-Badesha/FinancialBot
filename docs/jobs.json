@@ -1,77 +1,45 @@
 {
-  "updated": "2026-07-12T21:34:02.827586+00:00",
+  "updated": "2026-07-13T21:34:29.790682+00:00",
   "jobs": [
     {
-      "id": "workday-cibc-job/Toronto-ON/Associate--Business-Management---Global-Markets_2614546",
+      "id": "workday-cibc-job/Edmonton-AB/Senior-Financial-Advisor--CIRO--ID_2607957",
       "company": "CIBC",
-      "title": "Associate, Business Management - Global Markets",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Business-Management---Global-Markets_2614546",
-      "posted": "Posted 2 Days Ago"
+      "title": "Financial Advisor- CIRO- ID",
+      "location": "Edmonton, AB",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Edmonton-AB/Senior-Financial-Advisor--CIRO--ID_2607957",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/Client-Associate--RR-Licensed--CIBC-Wood-Gundy_2604762",
+      "id": "workday-cibc-job/Montral-QC/Associate--Real-Estate-Finance---Commercial-Banking---Montreal---Bilingual_2612901",
       "company": "CIBC",
-      "title": "Client Associate (IR Licensed) CIBC Wood Gundy",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Client-Associate--RR-Licensed--CIBC-Wood-Gundy_2604762",
-      "posted": "Posted 2 Days Ago"
+      "title": "Associate, Real Estate Finance - Commercial Banking - Montreal - Bilingual",
+      "location": "Montr\u00e9al, QC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Associate--Real-Estate-Finance---Commercial-Banking---Montreal---Bilingual_2612901",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2612746",
+      "id": "workday-cibc-job/Toronto-ON/IT-Administration-Analyst_2611267-1",
       "company": "CIBC",
-      "title": "Client Associate (IR Licensed) CIBC Wood Gundy",
+      "title": "IT Administration Analyst",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2612746",
-      "posted": "Posted 2 Days Ago"
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/IT-Administration-Analyst_2611267-1",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2614522",
+      "id": "workday-cibc-job/Toronto-ON/Associate--Institutional-Equity-Research--Various-Sectors-_2614578",
       "company": "CIBC",
-      "title": "Client Associate (IR licensed) CIBC Wood Gundy",
+      "title": "Associate, Institutional Equity Research (Various Sectors)",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2614522",
-      "posted": "Posted 2 Days Ago"
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Institutional-Equity-Research--Various-Sectors-_2614578",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Vancouver-BC/Client-Associate_2524224",
-      "company": "CIBC",
-      "title": "Client Associate (IR licensed) CIBC Wood Gundy",
-      "location": "Vancouver, BC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Client-Associate_2524224",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "id": "workday-capitalone-job/Toronto-ON/Associate--Process-Management--New-Grad-2026_R223120",
-      "company": "Capital One",
-      "title": "Associate, Process Management- New Grad 2026",
-      "location": "Toronto, ON",
-      "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Process-Management--New-Grad-2026_R223120",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "id": "workday-bmo-job/Vancouver-BC-CAN/Client-Service-Associate_R260020487",
-      "company": "BMO",
-      "title": "Client Service Associate",
-      "location": "Vancouver, BC, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Vancouver-BC-CAN/Client-Service-Associate_R260020487",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "id": "workday-bmo-job/Toronto-ON-CAN/Private-Banking-Associate--Private-Wealth_R260020448",
-      "company": "BMO",
-      "title": "Private Banking Associate, Private Wealth",
-      "location": "Toronto, ON, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Private-Banking-Associate--Private-Wealth_R260020448",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "id": "workday-bdo-job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Technical-Support-Analyst_JR6572",
-      "company": "BDO Canada",
-      "title": "Technical Support Analyst",
-      "location": "Montreal - 1000 Rue De La Gaucheti\u00e8re Ouest",
-      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Technical-Support-Analyst_JR6572",
-      "posted": "Posted 2 Days Ago"
+      "id": "workday-cdpq-job/Montreal/Analyste--Gestion-fondamentale-systmatique_R04976-1",
+      "company": "CDPQ",
+      "title": "Analyste, Gestion fondamentale syst\u00e9matique",
+      "location": "Montreal",
+      "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Gestion-fondamentale-systmatique_R04976-1",
+      "posted": "Posted Today"
     },
     {
       "id": "scotiabank-603211517",
@@ -96,6 +64,14 @@
       "location": "Mississauga, ON, CA",
       "link": "https://jobs.scotiabank.com/job/Mississauga-Wealth-Management-Associate-Program-Scotia-Jarislowsky-Fraser-%28Mississauga%29-January-2027-ON/603571317/",
       "posted": "Jun 17, 2026"
+    },
+    {
+      "id": "canadalife--Payment-Recovery-Analyst-MB-1414544333-",
+      "company": "Canada Life",
+      "title": "Payment Recovery Analyst",
+      "location": "Canada",
+      "link": "https://jobs.canadalife.com/job/Winnipeg-Payment-Recovery-Analyst-MB/1414544333/",
+      "posted": ""
     },
     {
       "id": "canadalife-Service-Support-Associate-MB-1414004833-",
