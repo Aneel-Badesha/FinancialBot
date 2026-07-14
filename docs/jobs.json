@@ -1,36 +1,76 @@
 {
-  "updated": "2026-07-13T21:34:29.790682+00:00",
+  "updated": "2026-07-14T21:34:10.792664+00:00",
   "jobs": [
     {
-      "id": "workday-cibc-job/Edmonton-AB/Senior-Financial-Advisor--CIRO--ID_2607957",
+      "id": "workday-cibc-job/Toronto-ON/Financial-Advisor-CIRO-MFD--Urban---Secondment-_2611048",
       "company": "CIBC",
-      "title": "Financial Advisor- CIRO- ID",
-      "location": "Edmonton, AB",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Edmonton-AB/Senior-Financial-Advisor--CIRO--ID_2607957",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Montral-QC/Associate--Real-Estate-Finance---Commercial-Banking---Montreal---Bilingual_2612901",
-      "company": "CIBC",
-      "title": "Associate, Real Estate Finance - Commercial Banking - Montreal - Bilingual",
-      "location": "Montr\u00e9al, QC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Associate--Real-Estate-Finance---Commercial-Banking---Montreal---Bilingual_2612901",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Toronto-ON/IT-Administration-Analyst_2611267-1",
-      "company": "CIBC",
-      "title": "IT Administration Analyst",
+      "title": "Financial Advisor CIRO-MFD (Urban)",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/IT-Administration-Analyst_2611267-1",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Financial-Advisor-CIRO-MFD--Urban---Secondment-_2611048",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/Associate--Institutional-Equity-Research--Various-Sectors-_2614578",
+      "id": "workday-cibc-job/Toronto-ON/Client-Associate--Wood-Gundy_2614725",
       "company": "CIBC",
-      "title": "Associate, Institutional Equity Research (Various Sectors)",
+      "title": "Client Associate, Wood Gundy",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Institutional-Equity-Research--Various-Sectors-_2614578",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Client-Associate--Wood-Gundy_2614725",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Toronto-ON/Associate--Client-Data---Process-Automation--12-Months-Contract-Secondment-_2614727",
+      "company": "CIBC",
+      "title": "Associate, Client Data & Process Automation (12 Months Contract/Secondment)",
+      "location": "Toronto, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Client-Data---Process-Automation--12-Months-Contract-Secondment-_2614727",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Toronto-ON/Test-Analyst--IT-Quality-Engineering_2614647",
+      "company": "CIBC",
+      "title": "Test Analyst, IT Quality Engineering",
+      "location": "Toronto, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Test-Analyst--IT-Quality-Engineering_2614647",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-capitalone-job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R246921",
+      "company": "Capital One",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "location": "Toronto, ON",
+      "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R246921",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Toronto-ON-CAN/Servicing-Analyst_R260016501",
+      "company": "BMO",
+      "title": "Servicing Analyst",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Servicing-Analyst_R260016501",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Toronto-ON-CAN/Client-Service-Associate_R260020771",
+      "company": "BMO",
+      "title": "Client Service Associate",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Client-Service-Associate_R260020771",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Toronto-ON-CAN/Compliance-Analyst---Contract_R260019908",
+      "company": "BMO",
+      "title": "Compliance Analyst \u2013 Contract",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Compliance-Analyst---Contract_R260019908",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-manulife-job/Toronto-Ontario/Data-Analyst_JR26061655",
+      "company": "Manulife",
+      "title": "Data Analyst",
+      "location": "Toronto, Ontario",
+      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Data-Analyst_JR26061655",
       "posted": "Posted Today"
     },
     {
@@ -39,7 +79,31 @@
       "title": "Analyste, Gestion fondamentale syst\u00e9matique",
       "location": "Montreal",
       "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Gestion-fondamentale-systmatique_R04976-1",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-investpsp-job/Montreal/Associ--Gestion-d-actifs-Fonds-de-croissance-du-Canada---Associate--Canada-Growth-Fund-Investment-Management_R4582",
+      "company": "PSP Investments",
+      "title": "Associate, Canada Growth Fund Investment Management",
+      "location": "Montreal",
+      "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Associ--Gestion-d-actifs-Fonds-de-croissance-du-Canada---Associate--Canada-Growth-Fund-Investment-Management_R4582",
       "posted": "Posted Today"
+    },
+    {
+      "id": "scotiabank-603132617",
+      "company": "Scotiabank",
+      "title": "Wealth Management Associate Program - ScotiaMcLeod (Atlantic Canada) - January 2027",
+      "location": "St John's, PE, CA",
+      "link": "https://jobs.scotiabank.com/job/St-John&apos;s-Wealth-Management-Associate-Program-ScotiaMcLeod-%28Atlantic-Canada%29-January-2027-PE/603132617/",
+      "posted": "Jul 14, 2026"
+    },
+    {
+      "id": "scotiabank-603126317",
+      "company": "Scotiabank",
+      "title": "Wealth Management Associate Program - Scotia Jarislowsky Fraser (Eastern Canada) - January 2027",
+      "location": "St John's, NB, CA",
+      "link": "https://jobs.scotiabank.com/job/St-John&apos;s-Wealth-Management-Associate-Program-Scotia-Jarislowsky-Fraser-%28Eastern-Canada%29-January-2027-NB/603126317/",
+      "posted": "Jul 14, 2026"
     },
     {
       "id": "scotiabank-603211517",
