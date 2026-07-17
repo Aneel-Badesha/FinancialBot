@@ -1,28 +1,52 @@
 {
-  "updated": "2026-07-16T21:34:08.667232+00:00",
+  "updated": "2026-07-17T21:34:07.252877+00:00",
   "jobs": [
     {
-      "id": "workday-cibc-job/Toronto-ON/Financial-Advisor-CIRO-MFD--Urban---Secondment-_2611048",
+      "id": "workday-cibc-job/Ottawa-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2611797",
       "company": "CIBC",
-      "title": "Financial Advisor CIRO-MFD (Urban)",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Financial-Advisor-CIRO-MFD--Urban---Secondment-_2611048",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Edmonton-AB/Private-Banking-Associate--18-month-Secondment-_2613257",
-      "company": "CIBC",
-      "title": "Private Banking Associate (18-month Secondment)",
-      "location": "Edmonton, AB",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Edmonton-AB/Private-Banking-Associate--18-month-Secondment-_2613257",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Ottawa-ON/Investment-Associate_2614771",
-      "company": "CIBC",
-      "title": "Investment Associate",
+      "title": "Client Associate (IR licensed) CIBC Wood Gundy",
       "location": "Ottawa, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Ottawa-ON/Investment-Associate_2614771",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Ottawa-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2611797",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Mississauga-ON/Financial-Advisor-CIRO-MFD_2613430",
+      "company": "CIBC",
+      "title": "Financial Advisor CIRO-MFD",
+      "location": "Mississauga, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Mississauga-ON/Financial-Advisor-CIRO-MFD_2613430",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Kelowna-BC/Financial-Advisor---CIRO-MFD-AMF_2614907",
+      "company": "CIBC",
+      "title": "Financial Advisor - CIRO-MFD/AMF",
+      "location": "Kelowna, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Kelowna-BC/Financial-Advisor---CIRO-MFD-AMF_2614907",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Toronto-ON/Analyst--Global-Investment-Banking--Mining-_2615053",
+      "company": "CIBC",
+      "title": "Analyst, Global Investment Banking (Mining)",
+      "location": "Toronto, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Global-Investment-Banking--Mining-_2615053",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Toronto-ON/Associate--Business-Management---ASG_2605162",
+      "company": "CIBC",
+      "title": "Associate, Business Management - Payments",
+      "location": "Toronto, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Business-Management---ASG_2605162",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Toronto-ON/Career-Programs-Virtual-Networking-Event--July-29th-2026--12-30--1-30-PM--Graduate-Leadership-Development-Program--GLDP----Technology-Leadership-Advancement-Program--TLAP-_2615067",
+      "company": "CIBC",
+      "title": "Career Programs Virtual Networking Event, July 29th 2026 @12:30 -1:30 PM  Graduate Leadership Development Program (GLDP) & Technology Leadership Advancement Program (TLAP)",
+      "location": "Toronto, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Career-Programs-Virtual-Networking-Event--July-29th-2026--12-30--1-30-PM--Graduate-Leadership-Development-Program--GLDP----Technology-Leadership-Advancement-Program--TLAP-_2615067",
       "posted": "Posted Today"
     },
     {
@@ -31,6 +55,46 @@
       "title": "Associate, Human Resource Operations",
       "location": "Toronto, ON",
       "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Human-Resource-Operations_R247110-1",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-bmo-job/Toronto-ON-CAN/Associate--Credit-Alternatives--Global-Asset-Management_R260020457",
+      "company": "BMO",
+      "title": "Associate, Credit Alternatives, Global Asset Management",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Credit-Alternatives--Global-Asset-Management_R260020457",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/MONTREAL-QC-CAN/Associ-e--services-bancaires--Ventes--Gestion-prive_R260021199",
+      "company": "BMO",
+      "title": "Private Banking Associate, Private Wealth",
+      "location": "MONTREAL, QC, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Associ-e--services-bancaires--Ventes--Gestion-prive_R260021199",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Windsor-ON-CAN/Investment-Advisory-Support_R260016698",
+      "company": "BMO",
+      "title": "Investment Advisory Support",
+      "location": "Windsor, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Windsor-ON-CAN/Investment-Advisory-Support_R260016698",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-enbridge-job/Calgary-AB-CAN/Advisor--IT-End-User-Services_71949",
+      "company": "Enbridge",
+      "title": "Advisor, IT End User Services",
+      "location": "Calgary, AB, CAN",
+      "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Advisor--IT-End-User-Services_71949",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-enbridge-job/Gatineau-QC-CAN/Analyste--support--l-entreprise---Analyst--Business-Support_72110",
+      "company": "Enbridge",
+      "title": "Analyste, support \u00e0 l\u2019entreprise / Analyst, Business Support",
+      "location": "Gatineau, QC, CAN",
+      "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Gatineau-QC-CAN/Analyste--support--l-entreprise---Analyst--Business-Support_72110",
       "posted": "Posted Today"
     },
     {
@@ -39,7 +103,7 @@
       "title": "Advisor Records & GIS",
       "location": "North York, ON, CAN",
       "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Advisor-Records---GIS_72054-1",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-manulife-job/Montreal-Quebec/Client-Reporting-Analyst_JR26070454",
@@ -47,7 +111,7 @@
       "title": "Client Reporting Analyst",
       "location": "Montreal, Quebec",
       "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Client-Reporting-Analyst_JR26070454",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-cdpq-job/Montreal/Analyste--Comptabilit-et-performance-financire-_R04999",
@@ -55,7 +119,7 @@
       "title": "Analyste, Comptabilit\u00e9 et performance financi\u00e8re \u00e0",
       "location": "Montreal",
       "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Comptabilit-et-performance-financire-_R04999",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-cdpq-job/Montreal/Premier--re--analyste---Solutions-numriques-et-analytique---Registre-marchs-liquides--Murex-_R04983",
@@ -63,15 +127,15 @@
       "title": "Premier(-\u00e8re) analyste*, Solutions num\u00e9riques et analytique - Registre march\u00e9s liquides (Murex)",
       "location": "Montreal",
       "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Premier--re--analyste---Solutions-numriques-et-analytique---Registre-marchs-liquides--Murex-_R04983",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
-      "id": "workday-investpsp-job/Montreal/Associ--Gestion-d-actifs-Fonds-de-croissance-du-Canada---Associate--Canada-Growth-Fund-Investment-Management_R4582",
-      "company": "PSP Investments",
-      "title": "Associate, Canada Growth Fund Investment Management",
-      "location": "Montreal",
-      "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Associ--Gestion-d-actifs-Fonds-de-croissance-du-Canada---Associate--Canada-Growth-Fund-Investment-Management_R4582",
-      "posted": "Posted 2 Days Ago"
+      "id": "workday-fil-job/Vancouver-Office/Wealth-Associate_J62735",
+      "company": "Fidelity Canada",
+      "title": "Wealth Associate",
+      "location": "Vancouver Office",
+      "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Vancouver-Office/Wealth-Associate_J62735",
+      "posted": "Posted Today"
     },
     {
       "id": "workday-bdo-job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Campus-Recruitment-Specialist_JR6602",
@@ -79,7 +143,7 @@
       "title": "Campus Recruitment Specialist",
       "location": "Montreal - 1000 Rue De La Gaucheti\u00e8re Ouest",
       "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Campus-Recruitment-Specialist_JR6602",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-bdo-job/Oakville/Technical-Support-Analyst_JR6596-1",
@@ -87,7 +151,7 @@
       "title": "Technical Support Analyst",
       "location": "Oakville",
       "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Oakville/Technical-Support-Analyst_JR6596-1",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "scotiabank-604368717",
@@ -98,19 +162,19 @@
       "posted": "Jul 15, 2026"
     },
     {
-      "id": "scotiabank-603132617",
-      "company": "Scotiabank",
-      "title": "Wealth Management Associate Program - ScotiaMcLeod (Atlantic Canada) - January 2027",
-      "location": "St John's, PE, CA",
-      "link": "https://jobs.scotiabank.com/job/St-John&apos;s-Wealth-Management-Associate-Program-ScotiaMcLeod-%28Atlantic-Canada%29-January-2027-PE/603132617/",
-      "posted": "Jul 14, 2026"
-    },
-    {
       "id": "scotiabank-603126317",
       "company": "Scotiabank",
       "title": "Wealth Management Associate Program - Scotia Jarislowsky Fraser (Eastern Canada) - January 2027",
       "location": "St John's, NB, CA",
       "link": "https://jobs.scotiabank.com/job/St-John&apos;s-Wealth-Management-Associate-Program-Scotia-Jarislowsky-Fraser-%28Eastern-Canada%29-January-2027-NB/603126317/",
+      "posted": "Jul 14, 2026"
+    },
+    {
+      "id": "scotiabank-603132617",
+      "company": "Scotiabank",
+      "title": "Wealth Management Associate Program - ScotiaMcLeod (Atlantic Canada) - January 2027",
+      "location": "St John's, PE, CA",
+      "link": "https://jobs.scotiabank.com/job/St-John&apos;s-Wealth-Management-Associate-Program-ScotiaMcLeod-%28Atlantic-Canada%29-January-2027-PE/603132617/",
       "posted": "Jul 14, 2026"
     },
     {
@@ -122,11 +186,11 @@
       "posted": "Jul 4, 2026"
     },
     {
-      "id": "canadalife--Payment-Recovery-Analyst-MB-1414544333-",
+      "id": "canadalife--job-Toronto-Data-Analyst-ON-1416440333-",
       "company": "Canada Life",
-      "title": "Payment Recovery Analyst",
+      "title": "Data Analyst",
       "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Winnipeg-Payment-Recovery-Analyst-MB/1414544333/",
+      "link": "https://jobs.canadalife.com/job/Toronto-Data-Analyst-ON/1416440333/",
       "posted": ""
     }
   ]
