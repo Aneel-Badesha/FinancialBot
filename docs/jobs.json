@@ -1,28 +1,52 @@
 {
-  "updated": "2026-07-22T21:35:04.018861+00:00",
+  "updated": "2026-07-23T21:34:25.328098+00:00",
   "jobs": [
     {
-      "id": "workday-cibc-job/Vancouver-BC/Private-Banking-Associate_2614777",
+      "id": "workday-cibc-job/Vancouver-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2610901",
       "company": "CIBC",
-      "title": "Private Banking Associate",
+      "title": "Client Associate (IR Licensed) CIBC Wood Gundy",
       "location": "Vancouver, BC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Private-Banking-Associate_2614777",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2610901",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/QA-Analyst--Quality-Assurance_2614258",
+      "id": "workday-cibc-job/Mississauga-ON/Associate-Financial-Advisor---Mississauga-Market_2615458",
       "company": "CIBC",
-      "title": "QA Analyst, Quality Assurance",
+      "title": "Associate Financial Advisor - Mississauga Market",
+      "location": "Mississauga, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Mississauga-ON/Associate-Financial-Advisor---Mississauga-Market_2615458",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Toronto-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2614522",
+      "company": "CIBC",
+      "title": "Client Associate (IR licensed) CIBC Wood Gundy",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/QA-Analyst--Quality-Assurance_2614258",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2614522",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Ottawa-ON/Client-Associate--IR-Licensed--Bilingual-CIBC-Wood-Gundy_2610616",
+      "id": "workday-cibc-job/Vancouver-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2612951",
       "company": "CIBC",
-      "title": "Client Associate (IR Licensed) Bilingual CIBC Wood Gundy",
-      "location": "Ottawa, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Ottawa-ON/Client-Associate--IR-Licensed--Bilingual-CIBC-Wood-Gundy_2610616",
+      "title": "Client Associate (IR Licensed) CIBC Wood Gundy",
+      "location": "Vancouver, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2612951",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Vancouver-BC/Client-Associate--IR-Licensed--Mandarin-Speaking-CIBC-Wood-Gundy_2612850",
+      "company": "CIBC",
+      "title": "Client Associate (IR Licensed) Mandarin Speaking CIBC Wood Gundy",
+      "location": "Vancouver, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Client-Associate--IR-Licensed--Mandarin-Speaking-CIBC-Wood-Gundy_2612850",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Vancouver-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2615432",
+      "company": "CIBC",
+      "title": "Client Associate (IR Licensed) CIBC Wood Gundy",
+      "location": "Vancouver, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2615432",
       "posted": "Posted Today"
     },
     {
@@ -31,47 +55,39 @@
       "title": "Associate, Financial Analyst",
       "location": "Toronto, ON",
       "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Financial-Analyst_R235475",
-      "posted": "Posted Yesterday"
-    },
-    {
-      "id": "workday-capitalone-job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-      "company": "Capital One",
-      "title": "Associate, Software Engineer, New Grad Card Expansion",
-      "location": "Toronto, ON",
-      "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
       "posted": "Posted 2 Days Ago"
     },
     {
-      "id": "workday-bmo-job/Toronto-ON-CAN/Associate--Structured-Products-Strategies-Group_R260017397",
+      "id": "workday-bmo-job/Toronto-ON-CAN/Analyst--Financial-Governance---Reporting_R260021533",
       "company": "BMO",
-      "title": "Associate, Structured Products Strategies Group",
+      "title": "Analyst, Financial Governance & Reporting",
       "location": "Toronto, ON, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Structured-Products-Strategies-Group_R260017397",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Financial-Governance---Reporting_R260021533",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/Vancouver-BC-CAN/Executive-Assistant---Regional-Operations-Associate_R260021712",
-      "company": "BMO",
-      "title": "Executive Assistant & Regional Operations Associate",
-      "location": "Vancouver, BC, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Vancouver-BC-CAN/Executive-Assistant---Regional-Operations-Associate_R260021712",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-bmo-job/Vancouver-BC-CAN/Client-Service-Associate_R260021721",
+      "id": "workday-bmo-job/Vancouver-BC-CAN/Client-Service-Associate_R260021758",
       "company": "BMO",
       "title": "Client Service Associate",
       "location": "Vancouver, BC, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Vancouver-BC-CAN/Client-Service-Associate_R260021721",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Vancouver-BC-CAN/Client-Service-Associate_R260021758",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-enbridge-job/Edmonton-AB-CAN/Measurement-Advisor_72140-1",
-      "company": "Enbridge",
-      "title": "Measurement Advisor",
-      "location": "Edmonton, AB, CAN",
-      "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Edmonton-AB-CAN/Measurement-Advisor_72140-1",
-      "posted": "Posted 2 Days Ago"
+      "id": "workday-bmo-job/Toronto-ON-CAN/Mortgage-Specialist-Associate_R260021727",
+      "company": "BMO",
+      "title": "Mortgage Specialist Associate",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Mortgage-Specialist-Associate_R260021727",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/REMOTETELETRAVAIL-ON-CAN/Process-Analyst---FIXED-TERM_R260021590",
+      "company": "BMO",
+      "title": "Process Analyst - FIXED TERM",
+      "location": "REMOTE/TELETRAVAIL, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Process-Analyst---FIXED-TERM_R260021590",
+      "posted": "Posted Today"
     },
     {
       "id": "workday-cppib-job/Toronto/Associate--Technology---Operations-Business-Management--Strategy---Operating-Office_JR00504",
@@ -79,23 +95,7 @@
       "title": "Associate, Technology & Operations Business Management, Strategy & Operating Office",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Associate--Technology---Operations-Business-Management--Strategy---Operating-Office_JR00504",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cdpq-job/Montreal/Analyste---Financement-en-infrastructures_R05000",
-      "company": "CDPQ",
-      "title": "Analyste*, Financement en infrastructures",
-      "location": "Montreal",
-      "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste---Financement-en-infrastructures_R05000",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "id": "workday-ms-job/Montreal-Canada/Business-Analyst---HR-Data---Intelligence---Director--Hybrid-_PT-JR040502-1",
-      "company": "Morgan Stanley",
-      "title": "Business Analyst \u2013 HR Data & Intelligence (Hybrid)",
-      "location": "Montreal, Canada",
-      "link": "https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Business-Analyst---HR-Data---Intelligence---Director--Hybrid-_PT-JR040502-1",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-fil-job/Montreal-Office/Adjoint-ou-adjointe-bilingue--Gestion-de-patrimoine---Wealth-Associate-Bilingual_J68398",
@@ -103,7 +103,7 @@
       "title": "Adjoint ou adjointe bilingue, Gestion de patrimoine / Wealth Associate Bilingual",
       "location": "Montreal Office",
       "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Montreal-Office/Adjoint-ou-adjointe-bilingue--Gestion-de-patrimoine---Wealth-Associate-Bilingual_J68398",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-fil-job/Calgary-Office/Investly-Business-Development-Associate---Calgary_J66965-1",
@@ -111,7 +111,7 @@
       "title": "Investly Business Development Associate - Calgary",
       "location": "Calgary Office",
       "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Calgary-Office/Investly-Business-Development-Associate---Calgary_J66965-1",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "scotiabank-604582517",
