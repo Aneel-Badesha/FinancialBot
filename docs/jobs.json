@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T21:34:06.790939+00:00",
+  "updated": "2026-08-11T21:34:04.745160+00:00",
   "jobs": [
     {
       "id": "workday-cibc-job/Oakville-ON/Private-Banking-Associate_2616717",
@@ -10,43 +10,35 @@
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/London-ON/Client-Associate--IR-licensed--Wood-Gundy_2616494",
+      "id": "workday-cibc-job/London-ON/Associate-Investment-Advisor--commission-only-_2610820",
       "company": "CIBC",
-      "title": "Client Associate (IR licensed) Wood Gundy",
+      "title": "Associate Investment Advisor (commission only) CIBC Wood Gundy",
       "location": "London, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/London-ON/Client-Associate--IR-licensed--Wood-Gundy_2616494",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/London-ON/Associate-Investment-Advisor--commission-only-_2610820",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/Associate--Institutional-Equity-Research---Industrials-Sector-_2616654",
+      "id": "workday-cibc-job/Toronto-ON/Associate-I--Prime-Services-Support_2616230",
       "company": "CIBC",
-      "title": "Associate, Institutional Equity Research ( Industrials Sector)",
+      "title": "Associate I, Prime Services Support",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Institutional-Equity-Research---Industrials-Sector-_2616654",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-I--Prime-Services-Support_2616230",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/Associate--Graduate-Leadership-Development-Program--GLDP_2616325-1",
-      "company": "CIBC",
-      "title": "Associate, Graduate Leadership Development Program -GLDP",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Graduate-Leadership-Development-Program--GLDP_2616325-1",
+      "id": "workday-bmo-job/Toronto-ON-CAN/Project-Delivery-Analyst_R260023433",
+      "company": "BMO",
+      "title": "Project Delivery Analyst",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Project-Delivery-Analyst_R260023433",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-manulife-job/Toronto-Ontario/Business-Analyst---Customer-Data-Platform--CDP-_JR26070634-1",
-      "company": "Manulife",
-      "title": "Business Analyst - Customer Data Platform (CDP)",
-      "location": "Toronto, Ontario",
-      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Business-Analyst---Customer-Data-Platform--CDP-_JR26070634-1",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-intactfc-job/Montral-Quebec-CAN/Analyste-d-affaires-TI-II--Intact-Lab--poste-temporaire-de-1-an-_R154876",
-      "company": "Intact Financial",
-      "title": "IT Business Analyst II, Intact Lab (1 year temporary mandate)",
-      "location": "Montr\u00e9al, Quebec, CAN",
-      "link": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Analyste-d-affaires-TI-II--Intact-Lab--poste-temporaire-de-1-an-_R154876",
+      "id": "workday-enbridge-job/Calgary-AB-CAN/Advisor-Project-Accounting_72242-1",
+      "company": "Enbridge",
+      "title": "Advisor Project Accounting",
+      "location": "Calgary, AB, CAN",
+      "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Advisor-Project-Accounting_72242-1",
       "posted": "Posted Today"
     },
     {
@@ -55,7 +47,7 @@
       "title": "Analyst, External Funds Operations",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--External-Funds-Operations_JR00712",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-cppib-job/Toronto/Analyst--Sustainable-Energies---Infrastructure-Credit_JR00721",
@@ -63,7 +55,7 @@
       "title": "Analyst, Sustainable Energies & Infrastructure Credit",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--Sustainable-Energies---Infrastructure-Credit_JR00721",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-cppib-job/Toronto/Manager--Performance--10-month-contract-_JR00522",
@@ -71,7 +63,7 @@
       "title": "Associate, Performance (12-month contract)",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Manager--Performance--10-month-contract-_JR00522",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-otppb-job/Toronto-Canada/Investment-Analyst--Infrastructure---Natural-Resources--Agriculture---Mining-_7188",
@@ -79,7 +71,39 @@
       "title": "Investment Analyst, Infrastructure & Natural Resources (Agriculture & Mining)",
       "location": "Toronto, Canada",
       "link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Analyst--Infrastructure---Natural-Resources--Agriculture---Mining-_7188",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-barclays-job/Calgary-888-3rd-Street-SW/Investment-Banking--Associate_JR-0000124562-1",
+      "company": "Barclays",
+      "title": "Investment Banking, Associate",
+      "location": "Calgary, 888 3rd Street SW",
+      "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Calgary-888-3rd-Street-SW/Investment-Banking--Associate_JR-0000124562-1",
       "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bdo-job/Edmonton---103-St/Junior-Accountant--Assurance---Edmonton---September-2027--New-Grad-_JR5884",
+      "company": "BDO Canada",
+      "title": "Junior Accountant, Assurance \u2013 Edmonton \u2013 September 2027 (New Grad)",
+      "location": "Edmonton - 103 St",
+      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Edmonton---103-St/Junior-Accountant--Assurance---Edmonton---September-2027--New-Grad-_JR5884",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-bdo-job/Calgary---8th-Ave-SW/New-Grad--Junior-Accountant--Assurance---Calgary--January-2027-_JR6036",
+      "company": "BDO Canada",
+      "title": "New Grad: Junior Accountant, Assurance - Calgary (January 2027)",
+      "location": "Calgary - 8th Ave SW",
+      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/New-Grad--Junior-Accountant--Assurance---Calgary--January-2027-_JR6036",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-bdo-job/Calgary---8th-Ave-SW/New-Grad--Junior-Accountant--Assurance---Calgary--September-2027-_JR6037",
+      "company": "BDO Canada",
+      "title": "New Grad: Junior Accountant, Assurance - Calgary (September 2027)",
+      "location": "Calgary - 8th Ave SW",
+      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/New-Grad--Junior-Accountant--Assurance---Calgary--September-2027-_JR6037",
+      "posted": "Posted Yesterday"
     },
     {
       "id": "scotiabank-604770517",
@@ -98,11 +122,11 @@
       "posted": "Jul 22, 2026"
     },
     {
-      "id": "canadalife-stment-Analyst-Great-West-ON-1293018101-",
+      "id": "canadalife--Business-Analyst-ON-N6A-4K1-1425370933-",
       "company": "Canada Life",
-      "title": "Investment Analyst | Great West",
+      "title": "Business Analyst",
       "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Toronto-Investment-Analyst-Great-West-ON/1293018101/",
+      "link": "https://jobs.canadalife.com/job/London-Ontario-Business-Analyst-ON-N6A-4K1/1425370933/",
       "posted": ""
     }
   ]
