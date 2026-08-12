@@ -1,36 +1,100 @@
 {
-  "updated": "2026-08-11T21:34:04.745160+00:00",
+  "updated": "2026-08-12T21:34:38.582142+00:00",
   "jobs": [
     {
-      "id": "workday-cibc-job/Oakville-ON/Private-Banking-Associate_2616717",
+      "id": "workday-cibc-job/Halifax-NS/Associate-Financial-Advisor_2616826",
       "company": "CIBC",
-      "title": "Private Banking Associate",
-      "location": "Oakville, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Oakville-ON/Private-Banking-Associate_2616717",
+      "title": "Associate Financial Advisor",
+      "location": "Halifax, NS",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Halifax-NS/Associate-Financial-Advisor_2616826",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/London-ON/Associate-Investment-Advisor--commission-only-_2610820",
+      "id": "workday-cibc-job/Toronto-ON/QA-Analyst_2615627-1",
       "company": "CIBC",
-      "title": "Associate Investment Advisor (commission only) CIBC Wood Gundy",
-      "location": "London, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/London-ON/Associate-Investment-Advisor--commission-only-_2610820",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Toronto-ON/Associate-I--Prime-Services-Support_2616230",
-      "company": "CIBC",
-      "title": "Associate I, Prime Services Support",
+      "title": "QA Analyst",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-I--Prime-Services-Support_2616230",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/QA-Analyst_2615627-1",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/Toronto-ON-CAN/Project-Delivery-Analyst_R260023433",
+      "id": "workday-cibc-job/Vancouver-BC/Business-Development-Associate-CIBC-Wood-Gundy_2601348",
+      "company": "CIBC",
+      "title": "Business Development Associate (6 month contract) CIBC Wood Gundy",
+      "location": "Vancouver, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Business-Development-Associate-CIBC-Wood-Gundy_2601348",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Winnipeg-MB/Client-Associate--IR-licensed--Wood-Gundy_2615915",
+      "company": "CIBC",
+      "title": "Client Associate (IR licensed) Wood Gundy",
+      "location": "Winnipeg, MB",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Winnipeg-MB/Client-Associate--IR-licensed--Wood-Gundy_2615915",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Surrey-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2523504",
+      "company": "CIBC",
+      "title": "Client Associate (IR Licensed) CIBC Wood Gundy",
+      "location": "Surrey, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Surrey-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2523504",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Surrey-BC/Client-Associate--IR-licensed---CIBC-Wood-Gundy_2615480",
+      "company": "CIBC",
+      "title": "Client Associate (IR licensed)  CIBC Wood Gundy",
+      "location": "Surrey, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Surrey-BC/Client-Associate--IR-licensed---CIBC-Wood-Gundy_2615480",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Toronto-ON/Business-Systems-Analyst---Automation---Simplii-Financial_2615449",
+      "company": "CIBC",
+      "title": "Business Systems Analyst - Automation - Simplii Financial",
+      "location": "Toronto, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Systems-Analyst---Automation---Simplii-Financial_2615449",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Montral-QC/Analyst--Credit-Card-Fraud-Investigations---Bilingual_2611032-1",
+      "company": "CIBC",
+      "title": "Analyst, Credit Card Fraud Investigations - Bilingual",
+      "location": "Montr\u00e9al, QC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Analyst--Credit-Card-Fraud-Investigations---Bilingual_2611032-1",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Calgary-AB/Financial-Advisor---CIRO-ID_2616359",
+      "company": "CIBC",
+      "title": "Financial Advisor - CIRO-ID",
+      "location": "Calgary, AB",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Calgary-AB/Financial-Advisor---CIRO-ID_2616359",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-capitalone-job/Toronto-ON/Associate--Strategy-Analyst---New-Grad-2027_R242577-1",
+      "company": "Capital One",
+      "title": "Associate, Strategy Analyst - New Grad 2027",
+      "location": "Toronto, ON",
+      "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Strategy-Analyst---New-Grad-2027_R242577-1",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Toronto-ON-CAN/Client-Service-Associate_R260020771",
       "company": "BMO",
-      "title": "Project Delivery Analyst",
+      "title": "Client Service Associate",
       "location": "Toronto, ON, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Project-Delivery-Analyst_R260023433",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Client-Service-Associate_R260020771",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Toronto-ON-CAN/Specialist--Capital-Markets-Model-Validation---New-or-Recent-Graduate-Opportunity_R260023073",
+      "company": "BMO",
+      "title": "Specialist, Capital Markets Model Validation - New or Recent Graduate Opportunity",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Specialist--Capital-Markets-Model-Validation---New-or-Recent-Graduate-Opportunity_R260023073",
       "posted": "Posted Today"
     },
     {
@@ -39,6 +103,22 @@
       "title": "Advisor Project Accounting",
       "location": "Calgary, AB, CAN",
       "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Advisor-Project-Accounting_72242-1",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-manulife-job/Waterloo-Ontario/Analyst--GWAM---GA-Operational-Resilience_JR26071134",
+      "company": "Manulife",
+      "title": "Analyst, GWAM & GA Operational Resilience",
+      "location": "Waterloo, Ontario",
+      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Analyst--GWAM---GA-Operational-Resilience_JR26071134",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-intactfc-job/Montral-Quebec-CAN/Brand-Planning-and-Reporting-Advisor--12-Month-Contract---Maternity-Cover--_R155159-1",
+      "company": "Intact Financial",
+      "title": "Brand Planning and Reporting Advisor (12-Month Contract \u2013 Maternity Cover )",
+      "location": "Montr\u00e9al, Quebec, CAN",
+      "link": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Brand-Planning-and-Reporting-Advisor--12-Month-Contract---Maternity-Cover--_R155159-1",
       "posted": "Posted Today"
     },
     {
@@ -47,7 +127,7 @@
       "title": "Analyst, External Funds Operations",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--External-Funds-Operations_JR00712",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-cppib-job/Toronto/Analyst--Sustainable-Energies---Infrastructure-Credit_JR00721",
@@ -55,7 +135,7 @@
       "title": "Analyst, Sustainable Energies & Infrastructure Credit",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--Sustainable-Energies---Infrastructure-Credit_JR00721",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-cppib-job/Toronto/Manager--Performance--10-month-contract-_JR00522",
@@ -63,7 +143,7 @@
       "title": "Associate, Performance (12-month contract)",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Manager--Performance--10-month-contract-_JR00522",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-otppb-job/Toronto-Canada/Investment-Analyst--Infrastructure---Natural-Resources--Agriculture---Mining-_7188",
@@ -71,7 +151,7 @@
       "title": "Investment Analyst, Infrastructure & Natural Resources (Agriculture & Mining)",
       "location": "Toronto, Canada",
       "link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Analyst--Infrastructure---Natural-Resources--Agriculture---Mining-_7188",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-barclays-job/Calgary-888-3rd-Street-SW/Investment-Banking--Associate_JR-0000124562-1",
@@ -79,6 +159,14 @@
       "title": "Investment Banking, Associate",
       "location": "Calgary, 888 3rd Street SW",
       "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Calgary-888-3rd-Street-SW/Investment-Banking--Associate_JR-0000124562-1",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-fil-job/Toronto-Office/Digital-Product-Analyst--Marketing-Automation_J69975",
+      "company": "Fidelity Canada",
+      "title": "Digital Product Analyst, Marketing Automation",
+      "location": "Toronto Office",
+      "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Digital-Product-Analyst--Marketing-Automation_J69975",
       "posted": "Posted Today"
     },
     {
@@ -87,7 +175,7 @@
       "title": "Junior Accountant, Assurance \u2013 Edmonton \u2013 September 2027 (New Grad)",
       "location": "Edmonton - 103 St",
       "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Edmonton---103-St/Junior-Accountant--Assurance---Edmonton---September-2027--New-Grad-_JR5884",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-bdo-job/Calgary---8th-Ave-SW/New-Grad--Junior-Accountant--Assurance---Calgary--January-2027-_JR6036",
@@ -95,7 +183,7 @@
       "title": "New Grad: Junior Accountant, Assurance - Calgary (January 2027)",
       "location": "Calgary - 8th Ave SW",
       "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/New-Grad--Junior-Accountant--Assurance---Calgary--January-2027-_JR6036",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-bdo-job/Calgary---8th-Ave-SW/New-Grad--Junior-Accountant--Assurance---Calgary--September-2027-_JR6037",
@@ -103,7 +191,7 @@
       "title": "New Grad: Junior Accountant, Assurance - Calgary (September 2027)",
       "location": "Calgary - 8th Ave SW",
       "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/New-Grad--Junior-Accountant--Assurance---Calgary--September-2027-_JR6037",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "scotiabank-604770517",
