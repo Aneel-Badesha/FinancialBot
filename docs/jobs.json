@@ -1,60 +1,60 @@
 {
-  "updated": "2026-08-20T21:34:09.126337+00:00",
+  "updated": "2026-08-21T21:34:09.088342+00:00",
   "jobs": [
     {
-      "id": "workday-cibc-job/Calgary-AB/Analyst--Global-Investment-Banking_2617276-1",
+      "id": "workday-cibc-job/Montral-QC/Administrative-Associate--Wood-Gundy-Bilingual_2615616",
       "company": "CIBC",
-      "title": "Analyst, Global Investment Banking",
-      "location": "Calgary, AB",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Calgary-AB/Analyst--Global-Investment-Banking_2617276-1",
+      "title": "Administrative Associate, Wood Gundy-Bilingual",
+      "location": "Montr\u00e9al, QC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Administrative-Associate--Wood-Gundy-Bilingual_2615616",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/Account-Open-Analyst_2617143",
+      "id": "workday-cibc-job/Montral-QC/Associate--Commercial-Banking-Associate-Program---Montreal---Bilingual_2617175",
       "company": "CIBC",
-      "title": "Account Open Analyst",
+      "title": "Associate, Commercial Banking Associate Program - Montreal - Bilingual",
+      "location": "Montr\u00e9al, QC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Associate--Commercial-Banking-Associate-Program---Montreal---Bilingual_2617175",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-capitalone-job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247336",
+      "company": "Capital One",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Account-Open-Analyst_2617143",
+      "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247336",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/Associate--Real-Estate-Finance_2616925",
-      "company": "CIBC",
-      "title": "Associate, Real Estate Finance",
+      "id": "workday-capitalone-job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "company": "Capital One",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Real-Estate-Finance_2616925",
+      "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/London-ON/Client-Associate--12-month-contract--CIBC-Wood-Gundy_2616707",
-      "company": "CIBC",
-      "title": "Client Associate (12 month contract) CIBC Wood Gundy",
-      "location": "London, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/London-ON/Client-Associate--12-month-contract--CIBC-Wood-Gundy_2616707",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Toronto-ON/Financial-Services-Associate--Business-Banking_2611879",
-      "company": "CIBC",
-      "title": "Financial Services Associate, Business Banking",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Financial-Services-Associate--Business-Banking_2611879",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Vancouver-BC/Associate-Financial-Advisor_2617342",
-      "company": "CIBC",
-      "title": "Associate Financial Advisor",
-      "location": "Vancouver, BC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Associate-Financial-Advisor_2617342",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-bmo-job/Toronto-ON-CAN/Servicing-Analyst_R260023341",
+      "id": "workday-bmo-job/MONTREAL-QC-CAN/Associate--Asset-Based-Lending_R260024617",
       "company": "BMO",
-      "title": "Servicing Analyst",
-      "location": "Toronto, ON, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Servicing-Analyst_R260023341",
+      "title": "Associate, Asset-Based Lending",
+      "location": "MONTREAL, QC, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Associate--Asset-Based-Lending_R260024617",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Halifax-NS-CAN/AI-Transformation-Analyst----Commercial-Banking-_R260021231-1",
+      "company": "BMO",
+      "title": "AI Transformation Analyst, Commercial Banking (New or Recent Graduate)",
+      "location": "Halifax, NS, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Halifax-NS-CAN/AI-Transformation-Analyst----Commercial-Banking-_R260021231-1",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Calgary-AB-CAN/Private-Banking-Associate_R260019825",
+      "company": "BMO",
+      "title": "Private Banking Associate",
+      "location": "Calgary, AB, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Calgary-AB-CAN/Private-Banking-Associate_R260019825",
       "posted": "Posted Today"
     },
     {
@@ -63,7 +63,7 @@
       "title": "Communications Analyst I",
       "location": "North York, ON, CAN",
       "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Communications-Analyst-I_72453-1",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-manulife-job/CAN-Ontario-Toronto-250-Bloor-Street-East/Licensed-Insurance-Advisor_JR26071324-2",
@@ -71,7 +71,7 @@
       "title": "Licensed Insurance Advisor",
       "location": "CAN, Ontario, Toronto, 250 Bloor Street East",
       "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/CAN-Ontario-Toronto-250-Bloor-Street-East/Licensed-Insurance-Advisor_JR26071324-2",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-intactfc-job/Vancouver-British-Columbia-CAN/Associate--Sales-and-Customer-Service--Evergreen-_R155335",
@@ -79,6 +79,22 @@
       "title": "Associate, Sales and Customer Service (Evergreen)",
       "location": "Vancouver, British Columbia, CAN",
       "link": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Vancouver-British-Columbia-CAN/Associate--Sales-and-Customer-Service--Evergreen-_R155335",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-cppib-job/Toronto/Analyst--Early-Investor-Program--September-2027-_JR00769",
+      "company": "CPP Investments",
+      "title": "Analyst, Early Investor Program (September 2027)",
+      "location": "Toronto",
+      "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--Early-Investor-Program--September-2027-_JR00769",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cppib-job/Toronto/Rotational-Analyst--CPA-Program--September-2027-_JR00770-1",
+      "company": "CPP Investments",
+      "title": "Rotational Analyst, CPA Program (September 2027)",
+      "location": "Toronto",
+      "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Rotational-Analyst--CPA-Program--September-2027-_JR00770-1",
       "posted": "Posted Today"
     },
     {
@@ -87,23 +103,7 @@
       "title": "Analyst, Sustainable Energies & Infrastructure Credit",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--Sustainable-Energies---Infrastructure-Credit_JR00721",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cppib-job/Toronto/Analyst--Credit-Asset-Management_JR00755",
-      "company": "CPP Investments",
-      "title": "Analyst, Real Estate Credit",
-      "location": "Toronto",
-      "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--Credit-Asset-Management_JR00755",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "id": "workday-cdpq-job/Montreal/Analyste--Divulgation-financire---Comptabilit_R05021",
-      "company": "CDPQ",
-      "title": "Analyste, Divulgation financi\u00e8re \u2013 Comptabilit\u00e9*",
-      "location": "Montreal",
-      "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Divulgation-financire---Comptabilit_R05021",
-      "posted": "Posted 2 Days Ago"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-investpsp-job/Montreal/Associate--Real-Estate-Investments_R4602-1",
@@ -111,7 +111,7 @@
       "title": "Associate, Real Estate Investments",
       "location": "Montreal",
       "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Associate--Real-Estate-Investments_R4602-1",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-barclays-job/Calgary-888-3rd-Street-SW/Investment-Banking--Analyst_JR-0000124563-1",
@@ -119,7 +119,23 @@
       "title": "Investment Banking, Analyst",
       "location": "Calgary, 888 3rd Street SW",
       "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Calgary-888-3rd-Street-SW/Investment-Banking--Analyst_JR-0000124563-1",
-      "posted": "Posted Yesterday"
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-fil-job/Toronto-Office/Automation-Analyst_J68672-1",
+      "company": "Fidelity Canada",
+      "title": "Automation Analyst",
+      "location": "Toronto Office",
+      "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Automation-Analyst_J68672-1",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-fil-job/Toronto-Office/Machine-Learning-Analyst_J68515",
+      "company": "Fidelity Canada",
+      "title": "Machine Learning Analyst",
+      "location": "Toronto Office",
+      "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Machine-Learning-Analyst_J68515",
+      "posted": "Posted Today"
     },
     {
       "id": "workday-fil-job/Mississauga-Office/Data-Analyst-and-Reporting-Tools-Developer_J70253-1",
@@ -127,7 +143,15 @@
       "title": "Data Analyst and Reporting Tools Developer",
       "location": "Mississauga Office",
       "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Mississauga-Office/Data-Analyst-and-Reporting-Tools-Developer_J70253-1",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
+    },
+    {
+      "id": "jpmorgan-210758326",
+      "company": "JPMorgan",
+      "title": "Alternative Fund Services - Fund Accounting - Associate",
+      "location": "Toronto, ON, Canada",
+      "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758326",
+      "posted": "2026-08-21"
     },
     {
       "id": "canadalife-ocess-Improvement-Analyst-ON-1428401933-",
@@ -159,30 +183,6 @@
       "title": "IT Business Systems Analyst",
       "location": "Canada",
       "link": "https://jobs.canadalife.com/job/London-IT-Business-Systems-Analyst-ON/1428037133/",
-      "posted": ""
-    },
-    {
-      "id": "canadalife-alyst-2C-Bond-Investments-MB-1427626533-",
-      "company": "Canada Life",
-      "title": "Analyst, Bond Investments",
-      "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Winnipeg-Analyst%2C-Bond-Investments-MB/1427626533/",
-      "posted": ""
-    },
-    {
-      "id": "canadalife--Group-Benefits-Analyst-Brit-1427192533-",
-      "company": "Canada Life",
-      "title": "Group Benefits Analyst",
-      "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Vancouver-Group-Benefits-Analyst-Brit/1427192533/",
-      "posted": ""
-    },
-    {
-      "id": "canadalife-rity-Awareness---Training-ON-1427180433-",
-      "company": "Canada Life",
-      "title": "Information Security Analyst - Security Awareness & Training",
-      "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Toronto-Information-Security-Analyst-Security-Awareness-&-Training-ON/1427180433/",
       "posted": ""
     }
   ]
