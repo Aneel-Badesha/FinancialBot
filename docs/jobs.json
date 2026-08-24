@@ -1,77 +1,85 @@
 {
-  "updated": "2026-08-23T21:33:57.773324+00:00",
+  "updated": "2026-08-24T21:34:09.950390+00:00",
   "jobs": [
     {
-      "id": "workday-cibc-job/Montral-QC/Administrative-Associate--Wood-Gundy-Bilingual_2615616",
+      "id": "workday-cibc-job/West-Vancouver-BC/Financial-Advisor---CIRO-MFD-AMF--Urban-_2617562",
       "company": "CIBC",
-      "title": "Administrative Associate, Wood Gundy-Bilingual",
-      "location": "Montr\u00e9al, QC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Administrative-Associate--Wood-Gundy-Bilingual_2615616",
-      "posted": "Posted 2 Days Ago"
+      "title": "Financial Advisor - CIRO MFD/AMF (Urban)",
+      "location": "West Vancouver, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/West-Vancouver-BC/Financial-Advisor---CIRO-MFD-AMF--Urban-_2617562",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-capitalone-job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247336",
-      "company": "Capital One",
-      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "id": "workday-cibc-job/Halifax-NS/Client-Associate--Wood-Gundy_2607660",
+      "company": "CIBC",
+      "title": "Client Associate, Wood Gundy",
+      "location": "Halifax, NS",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Halifax-NS/Client-Associate--Wood-Gundy_2607660",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Toronto-ON/Private-Banking-Associate_2616609",
+      "company": "CIBC",
+      "title": "Private Banking Associate",
       "location": "Toronto, ON",
-      "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247336",
-      "posted": "Posted 2 Days Ago"
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Private-Banking-Associate_2616609",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-capitalone-job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-      "company": "Capital One",
-      "title": "Associate, Software Engineer, New Grad Card Expansion",
-      "location": "Toronto, ON",
-      "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-      "posted": "Posted 2 Days Ago"
+      "id": "workday-bmo-job/Toronto-ON-CAN/Associate--Commodity-and-Metals-Setttlement_R260022484-1",
+      "company": "BMO",
+      "title": "Associate, Commodity and Metals Settlement",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Commodity-and-Metals-Setttlement_R260022484-1",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/MONTREAL-QC-CAN/Associate--Asset-Based-Lending_R260024617",
+      "id": "workday-bmo-job/Toronto-ON-CAN/BMO-Capital-Markets-New-Grad-2027-Corporate-Banking-Analyst--Toronto---Diversified_R260024939-1",
+      "company": "BMO",
+      "title": "BMO Capital Markets New Grad 2027 Corporate Banking Analyst, Toronto \u2013 Diversified",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-New-Grad-2027-Corporate-Banking-Analyst--Toronto---Diversified_R260024939-1",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Toronto-ON-CAN/Analyst--Mid-Market-Strategy---Operations_R260024052",
+      "company": "BMO",
+      "title": "Analyst, Mid-Market Strategy & Operations",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Mid-Market-Strategy---Operations_R260024052",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Toronto-ON-CAN/Associate--Asset-Based-Lending_R260024691",
       "company": "BMO",
       "title": "Associate, Asset-Based Lending",
-      "location": "MONTREAL, QC, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Associate--Asset-Based-Lending_R260024617",
-      "posted": "Posted 2 Days Ago"
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Asset-Based-Lending_R260024691",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-cppib-job/Toronto/Analyst--Early-Investor-Program--September-2027-_JR00769",
-      "company": "CPP Investments",
-      "title": "Analyst, Early Investor Program (September 2027)",
-      "location": "Toronto",
-      "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--Early-Investor-Program--September-2027-_JR00769",
-      "posted": "Posted 2 Days Ago"
+      "id": "workday-manulife-job/Toronto-Ontario/Jr-Investment-Analyst_JR26051747",
+      "company": "Manulife",
+      "title": "Jr. Investment Analyst",
+      "location": "Toronto, Ontario",
+      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Jr-Investment-Analyst_JR26051747",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-cppib-job/Toronto/Rotational-Analyst--CPA-Program--September-2027-_JR00770-1",
-      "company": "CPP Investments",
-      "title": "Rotational Analyst, CPA Program (September 2027)",
-      "location": "Toronto",
-      "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Rotational-Analyst--CPA-Program--September-2027-_JR00770-1",
-      "posted": "Posted 2 Days Ago"
+      "id": "workday-otppb-job/Toronto-Canada/Investment-Associate--Risk---Models--18-months-contract-_7213",
+      "company": "OTPP",
+      "title": "Investment Associate, Risk - Models (18-months contract)",
+      "location": "Toronto, Canada",
+      "link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Associate--Risk---Models--18-months-contract-_7213",
+      "posted": "Posted Today"
     },
     {
-      "id": "workday-barclays-job/Calgary-888-3rd-Street-SW/Investment-Banking--Analyst_JR-0000124563-1",
-      "company": "Barclays",
-      "title": "Investment Banking, Analyst",
-      "location": "Calgary, 888 3rd Street SW",
-      "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Calgary-888-3rd-Street-SW/Investment-Banking--Analyst_JR-0000124563-1",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "id": "workday-fil-job/Toronto-Office/Automation-Analyst_J68672-1",
-      "company": "Fidelity Canada",
-      "title": "Automation Analyst",
-      "location": "Toronto Office",
-      "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Automation-Analyst_J68672-1",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "id": "workday-fil-job/Toronto-Office/Machine-Learning-Analyst_J68515",
-      "company": "Fidelity Canada",
-      "title": "Machine Learning Analyst",
-      "location": "Toronto Office",
-      "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Machine-Learning-Analyst_J68515",
-      "posted": "Posted 2 Days Ago"
+      "id": "workday-bdo-job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Executive-Assistant--Advisory--12-Months-Contract-_JR6627",
+      "company": "BDO Canada",
+      "title": "Executive Assistant, Advisory (18-Months Contract)",
+      "location": "Montreal - 1000 Rue De La Gaucheti\u00e8re Ouest",
+      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Executive-Assistant--Advisory--12-Months-Contract-_JR6627",
+      "posted": "Posted Today"
     },
     {
       "id": "canadalife-inancial-Advisor-Edmonton-AB-1398427433-",
@@ -87,14 +95,6 @@
       "title": "Process Improvement Analyst",
       "location": "Canada",
       "link": "https://jobs.canadalife.com/job/Toronto-Process-Improvement-Analyst-ON/1428401933/",
-      "posted": ""
-    },
-    {
-      "id": "canadalife-ata-and-Analytics-ON-N2P-2G5-1428487433-",
-      "company": "Canada Life",
-      "title": "Analyst, Finance Data and Analytics",
-      "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Kitchener-Ontario-Analyst%2C-Finance-Data-and-Analytics-ON-N2P-2G5/1428487433/",
       "posted": ""
     }
   ]
