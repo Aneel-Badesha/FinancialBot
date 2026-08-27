@@ -1,13 +1,29 @@
 {
-  "updated": "2026-08-26T21:34:40.109389+00:00",
+  "updated": "2026-08-27T21:34:10.274377+00:00",
   "jobs": [
+    {
+      "id": "workday-rbc-job/MISSISSAUGA-Ontario-Canada/XMLNAME-2027-CFO--Winter-Insurance-Financial-Analyst--8-12-Months-_R-0000185388",
+      "company": "RBC",
+      "title": "2027 CFO, Winter Insurance Financial Analyst (8-12 Months)",
+      "location": "MISSISSAUGA, Ontario, Canada",
+      "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2027-CFO--Winter-Insurance-Financial-Analyst--8-12-Months-_R-0000185388",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-rbc-job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Global-AML-Metrics-Reporting-Analyst--4-Months-_R-0000185608-1",
+      "company": "RBC",
+      "title": "2027 Winter - GRM, Global AML Metrics Reporting Analyst (4 Months)",
+      "location": "TORONTO, Ontario, Canada",
+      "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Global-AML-Metrics-Reporting-Analyst--4-Months-_R-0000185608-1",
+      "posted": "Posted Today"
+    },
     {
       "id": "workday-rbc-job/MISSISSAUGA-Ontario-Canada/XMLNAME-2027-Winter---GRMI--Valuation-Actuarial-Analyst--4-16-months-_R-0000185895-1",
       "company": "RBC",
       "title": "2027 Winter - GRMI, Valuation Actuarial Analyst (4-16 months)",
       "location": "MISSISSAUGA, Ontario, Canada",
       "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2027-Winter---GRMI--Valuation-Actuarial-Analyst--4-16-months-_R-0000185895-1",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-td-job/Toronto-Ontario/Business-Systems-Analyst-III_R_1506905",
@@ -18,100 +34,116 @@
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Surrey-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2523504",
+      "id": "workday-cibc-job/Calgary-AB/Financial-Advisor--CIRO--MFDA-AMF_2617717",
       "company": "CIBC",
-      "title": "Client Associate (IR Licensed) CIBC Wood Gundy",
-      "location": "Surrey, BC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Surrey-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2523504",
+      "title": "Financial Advisor- CIRO- MFDA/AMF",
+      "location": "Calgary, AB",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Calgary-AB/Financial-Advisor--CIRO--MFDA-AMF_2617717",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Vancouver-BC/Associate-Financial-Advisor_2617133-1",
+      "id": "workday-cibc-job/Toronto-ON/Associate--Asset-Based-Lending--Corporate-Finance_2616460",
       "company": "CIBC",
-      "title": "Associate Financial Advisor",
-      "location": "Vancouver, BC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Associate-Financial-Advisor_2617133-1",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Toronto-ON/Business-Operations-Analyst---Bilingual_2617517",
-      "company": "CIBC",
-      "title": "Business Operations Analyst - Bilingual",
+      "title": "Associate, Asset Based Lending, Corporate Finance",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Business-Operations-Analyst---Bilingual_2617517",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Asset-Based-Lending--Corporate-Finance_2616460",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Saskatoon-SK/Client-Associate--IR-licensed--Wood-Gundy_2616738-1",
+      "id": "workday-cibc-job/Ottawa-ON/Financial-Advisor-CIRO-MFD_2617699",
+      "company": "CIBC",
+      "title": "Financial Advisor CIRO-MFD",
+      "location": "Ottawa, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Ottawa-ON/Financial-Advisor-CIRO-MFD_2617699",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Winnipeg-MB/Client-Associate--IR-licensed--Wood-Gundy_2615915",
       "company": "CIBC",
       "title": "Client Associate (IR licensed) Wood Gundy",
-      "location": "Saskatoon, SK",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Saskatoon-SK/Client-Associate--IR-licensed--Wood-Gundy_2616738-1",
+      "location": "Winnipeg, MB",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Winnipeg-MB/Client-Associate--IR-licensed--Wood-Gundy_2615915",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Montral-QC/Analyst--Client-Onboarding---Service---Bilingual_2617703-1",
-      "company": "CIBC",
-      "title": "Analyst, Client Onboarding & Service - Bilingual",
-      "location": "Montr\u00e9al, QC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Analyst--Client-Onboarding---Service---Bilingual_2617703-1",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Toronto-ON/Financial-Analyst--General-Accounting_2617585-1",
-      "company": "CIBC",
-      "title": "Financial Analyst, General Accounting",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Financial-Analyst--General-Accounting_2617585-1",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-bmo-job/Toronto-ON-CAN/Analyst-Associate--Corporate-Banking---FIG_R260021711",
+      "id": "workday-bmo-job/Toronto-ON-CAN/QA-Analyst_R260024369",
       "company": "BMO",
-      "title": "Associate, Corporate Banking - FIG",
+      "title": "QA Analyst",
       "location": "Toronto, ON, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst-Associate--Corporate-Banking---FIG_R260021711",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/QA-Analyst_R260024369",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/MONTREAL-QC-CAN/Personal-Banker-Associate_R260021738",
+      "id": "workday-bmo-job/Toronto-ON-CAN/Investment-Banking-Analyst--Technology_R260025058",
       "company": "BMO",
-      "title": "Personal Banker Associate",
-      "location": "MONTREAL, QC, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Personal-Banker-Associate_R260021738",
+      "title": "Investment Banking Analyst, Technology",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Investment-Banking-Analyst--Technology_R260025058",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-manulife-job/Montreal-Quebec/Licensed-Sales-Assistant_JR25110671-1",
+      "id": "workday-bmo-job/Toronto-ON-CAN/Investment-Banking-Associate--Technology_R260025055",
+      "company": "BMO",
+      "title": "Investment Banking Associate, Technology",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Investment-Banking-Associate--Technology_R260025055",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Vancouver-BC-CAN/Client-Service-Associate_R260021557",
+      "company": "BMO",
+      "title": "Client Service Associate",
+      "location": "Vancouver, BC, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Vancouver-BC-CAN/Client-Service-Associate_R260021557",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-enbridge-job/North-York-ON-CAN/Communications-Analyst-I_72453-1",
+      "company": "Enbridge",
+      "title": "Communications Analyst I",
+      "location": "North York, ON, CAN",
+      "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Communications-Analyst-I_72453-1",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-enbridge-job/Gatineau-QC-CAN/Conseiller-Financier---Advisor-Finance_72637-1",
+      "company": "Enbridge",
+      "title": "Conseiller Financier / Advisor Finance",
+      "location": "Gatineau, QC, CAN",
+      "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Gatineau-QC-CAN/Conseiller-Financier---Advisor-Finance_72637-1",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-manulife-job/CAN-Nova-Scotia-Halifax-2727-Joseph-Howe-Drive/Licensed-Insurance-Advisor_JR26071324-2",
       "company": "Manulife",
-      "title": "Wealth Management Administrative Associate (CSC or CSC in Progress)",
-      "location": "Montreal, Quebec",
-      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/Licensed-Sales-Assistant_JR25110671-1",
+      "title": "Licensed Insurance Advisor",
+      "location": "CAN, Nova Scotia, Halifax, 2727 Joseph Howe Drive",
+      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/CAN-Nova-Scotia-Halifax-2727-Joseph-Howe-Drive/Licensed-Insurance-Advisor_JR26071324-2",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-otppb-job/Toronto-Canada/Investment-Associate--Risk---Models--18-months-contract-_7213",
-      "company": "OTPP",
-      "title": "Investment Associate, Risk - Models (18-months contract)",
-      "location": "Toronto, Canada",
-      "link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Associate--Risk---Models--18-months-contract-_7213",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "id": "workday-ms-job/Montreal-Canada/Business-Analyst---HR-Data---Intelligence---Director--Hybrid-_PT-JR040502-1",
-      "company": "Morgan Stanley",
-      "title": "Technical Business Analyst \u2013 HRIS Workday (Hybrid)",
-      "location": "Montreal, Canada",
-      "link": "https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Business-Analyst---HR-Data---Intelligence---Director--Hybrid-_PT-JR040502-1",
+      "id": "workday-intactfc-job/Calgary-Alberta-CAN/IT-Technical-Advisor-II_R155444",
+      "company": "Intact Financial",
+      "title": "IT Technical Advisor II",
+      "location": "Calgary, Alberta, CAN",
+      "link": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Calgary-Alberta-CAN/IT-Technical-Advisor-II_R155444",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bdo-job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Executive-Assistant--Advisory--12-Months-Contract-_JR6627",
-      "company": "BDO Canada",
-      "title": "Executive Assistant, Advisory (18-Months Contract)",
-      "location": "Montreal - 1000 Rue De La Gaucheti\u00e8re Ouest",
-      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Montreal---1000-Rue-De-La-Gauchetire-Ouest/Executive-Assistant--Advisory--12-Months-Contract-_JR6627",
-      "posted": "Posted 2 Days Ago"
+      "id": "workday-fil-job/Toronto-Office/Interaction-Quality-Analyst_J70209",
+      "company": "Fidelity Canada",
+      "title": "Interaction Quality Analyst",
+      "location": "Toronto Office",
+      "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Interaction-Quality-Analyst_J70209",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "canadalife-ment-Milton-2C-ON-ON-L9T-1P9-1419878033-",
+      "company": "Canada Life",
+      "title": "Client Service Associate, Wealth Management - Milton, ON",
+      "location": "Canada",
+      "link": "https://jobs.canadalife.com/job/Milton-Ontario-Client-Service-Associate%2C-Wealth-Management-Milton%2C-ON-ON-L9T-1P9/1419878033/",
+      "posted": ""
     },
     {
       "id": "canadalife-Associate--28bilingual-29-ON-1430470833-",
@@ -122,11 +154,27 @@
       "posted": ""
     },
     {
+      "id": "canadalife-nt-St--Catharines-ON-L2N-1J7-1383815633-",
+      "company": "Canada Life",
+      "title": "Client Service Associate, Wealth Management - St. Catharines",
+      "location": "Canada",
+      "link": "https://jobs.canadalife.com/job/St_-Catharines-Ontario-Client-Service-Associate%2C-Wealth-Management-St_-Catharines-ON-L2N-1J7/1383815633/",
+      "posted": ""
+    },
+    {
       "id": "canadalife-g-ISEMC--28SOC-29-Analyst-MB-1429854733-",
       "company": "Canada Life",
       "title": "ISEMC (SOC) Analyst",
       "location": "Canada",
       "link": "https://jobs.canadalife.com/job/Winnipeg-ISEMC-%28SOC%29-Analyst-MB/1429854733/",
+      "posted": ""
+    },
+    {
+      "id": "canadalife-12-month-contract-ON-N4K-2H9-1429823633-",
+      "company": "Canada Life",
+      "title": "Client Service Associate, Wealth Management - Owen Sound, 12-month contract",
+      "location": "Canada",
+      "link": "https://jobs.canadalife.com/job/Owen-Sound-Ontario-Client-Service-Associate%2C-Wealth-Management-Owen-Sound%2C-12-month-contract-ON-N4K-2H9/1429823633/",
       "posted": ""
     }
   ]
