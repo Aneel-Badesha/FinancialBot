@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T21:34:30.620562+00:00",
+  "updated": "2026-08-29T21:34:04.327353+00:00",
   "jobs": [
     {
       "id": "workday-rbc-job/MISSISSAUGA-Ontario-Canada/XMLNAME-2027-CFO--Winter-Insurance-Financial-Analyst--8-12-Months-_R-0000185388",
@@ -7,7 +7,7 @@
       "title": "2027 CFO, Winter Insurance Financial Analyst (8-12 Months)",
       "location": "MISSISSAUGA, Ontario, Canada",
       "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2027-CFO--Winter-Insurance-Financial-Analyst--8-12-Months-_R-0000185388",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-rbc-job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Global-AML-Metrics-Reporting-Analyst--4-Months-_R-0000185608-1",
@@ -15,14 +15,6 @@
       "title": "2027 Winter - GRM, Global AML Metrics Reporting Analyst (4 Months)",
       "location": "TORONTO, Ontario, Canada",
       "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Global-AML-Metrics-Reporting-Analyst--4-Months-_R-0000185608-1",
-      "posted": "Posted Yesterday"
-    },
-    {
-      "id": "workday-rbc-job/MISSISSAUGA-Ontario-Canada/XMLNAME-2027-Winter---GRMI--Valuation-Actuarial-Analyst--4-16-months-_R-0000185895-1",
-      "company": "RBC",
-      "title": "2027 Winter - GRMI, Valuation Actuarial Analyst (4-16 months)",
-      "location": "MISSISSAUGA, Ontario, Canada",
-      "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2027-Winter---GRMI--Valuation-Actuarial-Analyst--4-16-months-_R-0000185895-1",
       "posted": "Posted 2 Days Ago"
     },
     {
@@ -31,7 +23,7 @@
       "title": "Business Systems Analyst III",
       "location": "Toronto, Ontario",
       "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Systems-Analyst-III_R_1506905",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-cibc-job/Richmond-Hill-ON/Financial-Advisor-CIRO-ID--Urban-_2614946",
@@ -39,7 +31,15 @@
       "title": "Financial Advisor CIRO-ID (Urban)",
       "location": "Richmond Hill, ON",
       "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Richmond-Hill-ON/Financial-Advisor-CIRO-ID--Urban-_2614946",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-bmo-job/Toronto-ON-CAN/Vendor-Management-Analyst--Enterprise-Procurement_R260024486-1",
+      "company": "BMO",
+      "title": "Vendor Management Analyst, Enterprise Procurement",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Vendor-Management-Analyst--Enterprise-Procurement_R260024486-1",
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-bmo-job/Oakville-ON-CAN/Associate--Private-Wealth_R260014583",
@@ -47,7 +47,7 @@
       "title": "Associate, Private Wealth",
       "location": "Oakville, ON, CAN",
       "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Oakville-ON-CAN/Associate--Private-Wealth_R260014583",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-bmo-job/Toronto-ON-CAN/Associate--Corporate-Actions_R260025517-1",
@@ -55,15 +55,7 @@
       "title": "Associate, Corporate Actions",
       "location": "Toronto, ON, CAN",
       "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Corporate-Actions_R260025517-1",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-bmo-job/Toronto-ON-CAN/Associate--Global-Markets-Business-Control_R260021435",
-      "company": "BMO",
-      "title": "Associate, Global Markets Business Control",
-      "location": "Toronto, ON, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Global-Markets-Business-Control_R260021435",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-enbridge-job/Gatineau-QC-CAN/Conseiller-Financier---Advisor-Finance_72637-1",
@@ -71,7 +63,7 @@
       "title": "Conseiller Financier / Advisor Finance",
       "location": "Gatineau, QC, CAN",
       "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Gatineau-QC-CAN/Conseiller-Financier---Advisor-Finance_72637-1",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-intactfc-job/Calgary-Alberta-CAN/IT-Technical-Advisor-II_R155444",
@@ -79,7 +71,7 @@
       "title": "IT Technical Advisor II",
       "location": "Calgary, Alberta, CAN",
       "link": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Calgary-Alberta-CAN/IT-Technical-Advisor-II_R155444",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-otppb-job/Toronto-Canada/Associate--Infrastructure---Natural-Resources---Metals---Mining_7225-1",
@@ -87,7 +79,7 @@
       "title": "Associate, Infrastructure & Natural Resources - Metals & Mining",
       "location": "Toronto, Canada",
       "link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Associate--Infrastructure---Natural-Resources---Metals---Mining_7225-1",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-barclays-job/Calgary-888-3rd-Street-SW/Investment-Banking--Analyst_JR-0000124563-1",
@@ -95,7 +87,7 @@
       "title": "Investment Banking, Analyst",
       "location": "Calgary, 888 3rd Street SW",
       "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Calgary-888-3rd-Street-SW/Investment-Banking--Analyst_JR-0000124563-1",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-fil-job/Toronto-Office/Interaction-Quality-Analyst_J70209",
@@ -103,7 +95,7 @@
       "title": "Interaction Quality Analyst",
       "location": "Toronto Office",
       "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Toronto-Office/Interaction-Quality-Analyst_J70209",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "canadalife-ment-Milton-2C-ON-ON-L9T-1P9-1419878033-",
