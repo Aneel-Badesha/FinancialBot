@@ -1,68 +1,172 @@
 {
-  "updated": "2026-08-31T21:34:16.175190+00:00",
+  "updated": "2026-09-01T21:34:41.350349+00:00",
   "jobs": [
     {
-      "id": "workday-cibc-job/Vancouver-BC/Financial-Advisor-CIRO---MFD-AMF_2616358",
-      "company": "CIBC",
-      "title": "Financial Advisor CIRO - MFD/AMF",
-      "location": "Vancouver, BC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Financial-Advisor-CIRO---MFD-AMF_2616358",
+      "id": "workday-rbc-job/MISSISSAUGA-Ontario-Canada/XMLNAME-2027-Winter---GRMI--Valuation-Actuarial-Analyst--4-16-months-_R-0000185895-1",
+      "company": "RBC",
+      "title": "2027 Winter - GRMI, Valuation Actuarial Analyst (4-8 Months)",
+      "location": "MISSISSAUGA, Ontario, Canada",
+      "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2027-Winter---GRMI--Valuation-Actuarial-Analyst--4-16-months-_R-0000185895-1",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/Senior-Analyst--Business-Performance---Simplii-Financial_2617638",
+      "id": "workday-rbc-job/TORONTO-Ontario-Canada/XMLNAME-2027-CAE--Winter-Audit-Planning---Reporting-Analyst--4-months-_R-0000186567",
+      "company": "RBC",
+      "title": "2027 CAE, Winter Audit Planning & Reporting Analyst (4 months)",
+      "location": "TORONTO, Ontario, Canada",
+      "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CAE--Winter-Audit-Planning---Reporting-Analyst--4-months-_R-0000186567",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-rbc-job/TORONTO-Ontario-Canada/XMLNAME-2027-CAE--Winter-Business-Analyst--Delivery-Excellence--4-months-_R-0000186512",
+      "company": "RBC",
+      "title": "2027 CAE, Winter Business Analyst, Delivery Excellence (4 months)",
+      "location": "TORONTO, Ontario, Canada",
+      "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CAE--Winter-Business-Analyst--Delivery-Excellence--4-months-_R-0000186512",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-rbc-job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Market-Risk-Analyst--4-Months-_R-0000184304-1",
+      "company": "RBC",
+      "title": "2027 Winter - GRM, Market Risk Analyst (4 Months)",
+      "location": "TORONTO, Ontario, Canada",
+      "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Market-Risk-Analyst--4-Months-_R-0000184304-1",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-td-job/Markham-Ontario/Claims-Advisor-I_R_1508683",
+      "company": "TD",
+      "title": "Claims Advisor I",
+      "location": "Markham, Ontario",
+      "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Markham-Ontario/Claims-Advisor-I_R_1508683",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-td-job/Saint-John-New-Brunswick/Claims-Advisor-I_R_1508665",
+      "company": "TD",
+      "title": "Claims Advisor I",
+      "location": "Saint John, New Brunswick",
+      "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Saint-John-New-Brunswick/Claims-Advisor-I_R_1508665",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-td-job/Ottawa-Ontario/Bilingual-Claims-Advisor-I_R_1508414-1",
+      "company": "TD",
+      "title": "Bilingual Claims Advisor I",
+      "location": "Ottawa, Ontario",
+      "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Ottawa-Ontario/Bilingual-Claims-Advisor-I_R_1508414-1",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Guelph-ON/Associate-Financial-Advisor_2617966",
       "company": "CIBC",
-      "title": "Associate, Strategy and Business Optimization - Simplii Financial",
+      "title": "Associate Financial Advisor",
+      "location": "Guelph, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Guelph-ON/Associate-Financial-Advisor_2617966",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Toronto-ON/Associate--Data-Science---Global-Transaction-Banking_2617995",
+      "company": "CIBC",
+      "title": "Associate, Data Science - Global Transaction Banking",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Senior-Analyst--Business-Performance---Simplii-Financial_2617638",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Data-Science---Global-Transaction-Banking_2617995",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Burnaby-BC/Financial-Advisor---CIRO-ID----Mandarin-_2617828",
+      "id": "workday-cibc-job/London-ON/Investment-Advisor_2618001",
       "company": "CIBC",
-      "title": "Financial Advisor - CIRO-ID - (Mandarin)",
-      "location": "Burnaby, BC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Burnaby-BC/Financial-Advisor---CIRO-ID----Mandarin-_2617828",
+      "title": "Investment Advisor",
+      "location": "London, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/London-ON/Investment-Advisor_2618001",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Edmonton-AB/Client-Associate--IR-licensed--Wood-Gundy_2616892",
+      "id": "workday-cibc-job/Vancouver-BC/Client-Associate_2524224",
       "company": "CIBC",
-      "title": "Client Associate (IR licensed) Wood Gundy",
-      "location": "Edmonton, AB",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Edmonton-AB/Client-Associate--IR-licensed--Wood-Gundy_2616892",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Toronto-ON/Financial-Services-Associate--Business-Banking_2617701",
-      "company": "CIBC",
-      "title": "Financial Services Associate, Business Banking",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Financial-Services-Associate--Business-Banking_2617701",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Vancouver-BC/Client-Associate--IR-Licensed--Mandarin-Speaking-CIBC-Wood-Gundy_2612850",
-      "company": "CIBC",
-      "title": "Client Associate (IR Licensed) Mandarin Speaking CIBC Wood Gundy",
+      "title": "Client Associate (IR licensed) CIBC Wood Gundy",
       "location": "Vancouver, BC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Client-Associate--IR-Licensed--Mandarin-Speaking-CIBC-Wood-Gundy_2612850",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Client-Associate_2524224",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Mississauga-ON/Client-Associate--RR-licensed--Wood-Gundy_2615730",
+      "id": "workday-cibc-job/Halifax-NS/Client-Associate--Wood-Gundy_2607660",
       "company": "CIBC",
-      "title": "Client Associate (RR licensed) Wood Gundy",
-      "location": "Mississauga, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Mississauga-ON/Client-Associate--RR-licensed--Wood-Gundy_2615730",
+      "title": "Client Associate, Wood Gundy",
+      "location": "Halifax, NS",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Halifax-NS/Client-Associate--Wood-Gundy_2607660",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/Calgary-AB-CAN/Client-Service-Associate_R260019629",
+      "id": "workday-capitalone-job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "company": "Capital One",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "location": "Toronto, ON",
+      "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Toronto-ON-CAN/BMO-Capital-Markets-New-Grad-2027-Corporate-Banking-Analyst--Toronto---Diversified_R260024939-1",
       "company": "BMO",
-      "title": "Client Service Associate",
+      "title": "BMO Capital Markets New Grad 2027 Corporate Banking Analyst, Toronto \u2013 Diversified",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-New-Grad-2027-Corporate-Banking-Analyst--Toronto---Diversified_R260024939-1",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Toronto-ON-CAN/Business-Analyst---Process-Improvement-Consultant_R260024722",
+      "company": "BMO",
+      "title": "Business Analyst & Process Improvement, Supplier Relationship Management",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Business-Analyst---Process-Improvement-Consultant_R260024722",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-enbridge-job/Calgary-AB-CAN/Advisor-Financial-Reporting_72426-1",
+      "company": "Enbridge",
+      "title": "Advisor Financial Reporting",
       "location": "Calgary, AB, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Calgary-AB-CAN/Client-Service-Associate_R260019629",
+      "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Advisor-Financial-Reporting_72426-1",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-myview-job/22-St-Clair-Avenue-East-Toronto-ON/Analyst--CPA-Candidate--September-2027-_R2000669228",
+      "company": "George Weston",
+      "title": "Analyst, CPA Candidate (September 2027)",
+      "location": "22 St. Clair Avenue East, Toronto, ON",
+      "link": "https://myview.wd3.myworkdayjobs.com/George_Weston/job/22-St-Clair-Avenue-East-Toronto-ON/Analyst--CPA-Candidate--September-2027-_R2000669228",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-manulife-job/Montreal-Quebec/GRO---Data-Analyst_JR26061468",
+      "company": "Manulife",
+      "title": "GRO - Data Analyst",
+      "location": "Montreal, Quebec",
+      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/GRO---Data-Analyst_JR26061468",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-manulife-job/Toronto-Ontario/GRO---Data-Analyst_JR26061467",
+      "company": "Manulife",
+      "title": "GRO - Data Analyst",
+      "location": "Toronto, Ontario",
+      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/GRO---Data-Analyst_JR26061467",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-manulife-job/Halifax-Nova-Scotia/GRO---Operations-Analyst_JR26061464",
+      "company": "Manulife",
+      "title": "GRO - Operations Analyst",
+      "location": "Halifax, Nova Scotia",
+      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Halifax-Nova-Scotia/GRO---Operations-Analyst_JR26061464",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-manulife-job/Montreal-Quebec/GRO---Operations-Analyst_JR26061462",
+      "company": "Manulife",
+      "title": "GRO - Operations Analyst",
+      "location": "Montreal, Quebec",
+      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/GRO---Operations-Analyst_JR26061462",
       "posted": "Posted Today"
     },
     {
@@ -79,7 +183,7 @@
       "title": "Analyst, Secondaries",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--Secondaries_JR00687",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-otppb-job/Toronto-Canada/Associate-Systems-Analyst--12-month-contract-_7215",
@@ -87,38 +191,30 @@
       "title": "Associate Systems Analyst (12 month contract)",
       "location": "Toronto, Canada",
       "link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Associate-Systems-Analyst--12-month-contract-_7215",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-barclays-job/Calgary-888-3rd-Street-SW/Investment-Banking--Associate_JR-0000124562-1",
+      "company": "Barclays",
+      "title": "Investment Banking, Associate",
+      "location": "Calgary, 888 3rd Street SW",
+      "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Calgary-888-3rd-Street-SW/Investment-Banking--Associate_JR-0000124562-1",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-ms-job/Montreal-Canada/Finance-Associate---Financial-Planning---Analysis--Hybrid-_PT-JR041993-1",
-      "company": "Morgan Stanley",
-      "title": "Finance Associate - Financial Planning & Analysis (Hybrid)",
-      "location": "Montreal, Canada",
-      "link": "https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/Finance-Associate---Financial-Planning---Analysis--Hybrid-_PT-JR041993-1",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "canadalife-ary-Full-Time-Contract-29-ON-1432051533-",
+      "id": "canadalife-innipeg-Actuarial-Analyst-MB-1432516333-",
       "company": "Canada Life",
-      "title": "Financial Risk Analyst (Temporary Full-Time Contract)",
+      "title": "Actuarial Analyst",
       "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Toronto-Financial-Risk-Analyst-%28Temporary-Full-Time-Contract%29-ON/1432051533/",
+      "link": "https://jobs.canadalife.com/job/Winnipeg-Actuarial-Analyst-MB/1432516333/",
       "posted": ""
     },
     {
-      "id": "canadalife-ince-Albert-2C-SK-SK-S6V-4P3-1400881133-",
+      "id": "canadalife-me-Contract-29-Great-West-ON-1432051533-",
       "company": "Canada Life",
-      "title": "Financial Advisor - Prince Albert, SK",
+      "title": "Financial Risk Analyst (Temporary Full-Time Contract) | Great West",
       "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Prince-Albert-Saskatchewan-Financial-Advisor-Prince-Albert%2C-SK-SK-S6V-4P3/1400881133/",
-      "posted": ""
-    },
-    {
-      "id": "canadalife--Sault-Ste--Marie-ON-P6A-2K6-1400902833-",
-      "company": "Canada Life",
-      "title": "Wealth Advisor - Sault Ste. Marie",
-      "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Sault-Ste-Marie-Ontario-Wealth-Advisor-Sault-Ste_-Marie-ON-P6A-2K6/1400902833/",
+      "link": "https://jobs.canadalife.com/job/Toronto-Financial-Risk-Analyst-%28Temporary-Full-Time-Contract%29-Great-West-ON/1432051533/",
       "posted": ""
     },
     {
@@ -126,7 +222,7 @@
       "company": "Bank of America",
       "title": "Canada | Toronto | Global Payment Solutions Summer Analyst | 2027",
       "location": "Toronto",
-      "link": "https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-36/xf-302aae8dfb25/wid-1/candidate/so/pm/1/pl/1/opp/14812-Canada-Toronto-Global-Payment-Solutions-Summer-Analyst-2027/en-GB",
+      "link": "https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-36/xf-8504b4ecb4dd/wid-1/candidate/so/pm/1/pl/1/opp/14812-Canada-Toronto-Global-Payment-Solutions-Summer-Analyst-2027/en-GB",
       "posted": ""
     }
   ]
