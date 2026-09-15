@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T21:34:24.096525+00:00",
+  "updated": "2026-09-15T21:34:17.184169+00:00",
   "jobs": [
     {
       "id": "workday-rbc-job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO--Winter-Financial-Analyst--ALM-Macro-Hedging--4-Months-_R-0000187051",
@@ -7,62 +7,70 @@
       "title": "2027 CFO, Winter Financial Analyst, ALM Macro Hedging (4 Months)",
       "location": "TORONTO, Ontario, Canada",
       "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO--Winter-Financial-Analyst--ALM-Macro-Hedging--4-Months-_R-0000187051",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Toronto-ON/Analyst--Client-Services--6-Months-Term-Secondment-_2618653",
-      "company": "CIBC",
-      "title": "Analyst, Client Services (6 Months Term/Secondment)",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Client-Services--6-Months-Term-Secondment-_2618653",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Toronto-ON/Technical-Analyst_2617629",
-      "company": "CIBC",
-      "title": "Technical Analyst",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Technical-Analyst_2617629",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Vancouver-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2617746",
-      "company": "CIBC",
-      "title": "Client Associate (IR Licensed) CIBC Wood Gundy",
-      "location": "Vancouver, BC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Client-Associate--IR-Licensed--CIBC-Wood-Gundy_2617746",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Brampton-ON/Associate-Financial-Advisor_2618593",
-      "company": "CIBC",
-      "title": "Associate Financial Advisor",
-      "location": "Brampton, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Brampton-ON/Associate-Financial-Advisor_2618593",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-cibc-job/Halifax-NS/Mortgage-Solutions-Advisor_2618650",
       "company": "CIBC",
-      "title": "Mortgage Solutions Advisor (12 Month Contract)",
+      "title": "Mortgage Solutions Advisor",
       "location": "Halifax, NS",
       "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Halifax-NS/Mortgage-Solutions-Advisor_2618650",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/MONTREAL-QC-CAN/Associate--Operations---Deposits-and-Payments_R260026382",
-      "company": "BMO",
-      "title": "Associate, Operations \u2013 Deposits and Payments",
-      "location": "MONTREAL, QC, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Associate--Operations---Deposits-and-Payments_R260026382",
+      "id": "workday-cibc-job/Vancouver-BC/Client-Associate--IR-Licensed--Mandarin-Speaking-CIBC-Wood-Gundy_2612850",
+      "company": "CIBC",
+      "title": "Client Associate (IR Licensed) Mandarin Speaking CIBC Wood Gundy",
+      "location": "Vancouver, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Client-Associate--IR-Licensed--Mandarin-Speaking-CIBC-Wood-Gundy_2612850",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/Toronto-ON-CAN/Fixed-Income-Trading-Analyst_R260024556",
+      "id": "workday-cibc-job/Toronto-ON/Associate--Data-Science---Global-Transaction-Banking_2617995",
+      "company": "CIBC",
+      "title": "Associate, Data Science - Global Transaction Banking",
+      "location": "Toronto, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Data-Science---Global-Transaction-Banking_2617995",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Oakville-ON-CAN/Client-Service-Associate_R260019807",
       "company": "BMO",
-      "title": "Fixed Income Trading Analyst",
+      "title": "Client Service Associate, Private Wealth",
+      "location": "Oakville, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Oakville-ON-CAN/Client-Service-Associate_R260019807",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Toronto-ON-CAN/Associate--Retail-Equity-Trading--Private-Wealth_R260026108",
+      "company": "BMO",
+      "title": "Associate, Retail Equity Trading, Private Wealth",
       "location": "Toronto, ON, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Fixed-Income-Trading-Analyst_R260024556",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Retail-Equity-Trading--Private-Wealth_R260026108",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/MONTREAL-QC-CAN/Investment-Associate--Nesbitt-Burns_R260019107",
+      "company": "BMO",
+      "title": "Investment Associate,  Wealth Management, Nesbitt Burns",
+      "location": "MONTREAL, QC, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Investment-Associate--Nesbitt-Burns_R260019107",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bmo-job/Calgary-AB-CAN/Client-Service-Associate_R260026567",
+      "company": "BMO",
+      "title": "Client Service Associate",
+      "location": "Calgary, AB, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Calgary-AB-CAN/Client-Service-Associate_R260026567",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-manulife-job/CAN-Ontario---Full-Time-Remote/Private-Lending-Associate_JR26081649-1",
+      "company": "Manulife",
+      "title": "Private Lending Associate",
+      "location": "CAN, Ontario - Full Time Remote",
+      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/CAN-Ontario---Full-Time-Remote/Private-Lending-Associate_JR26081649-1",
       "posted": "Posted Today"
     },
     {
@@ -71,7 +79,7 @@
       "title": "GRO - Data Analyst",
       "location": "Montreal, Quebec",
       "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/GRO---Data-Analyst_JR26061468",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-manulife-job/Montreal-Quebec/GRO---Operations-Analyst_JR26061462",
@@ -79,7 +87,7 @@
       "title": "GRO - Operations Analyst",
       "location": "Montreal, Quebec",
       "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/GRO---Operations-Analyst_JR26061462",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-otppb-job/Toronto-Canada/Investment-Analyst--Infrastructure---Natural-Resources_7248",
@@ -87,14 +95,22 @@
       "title": "Investment Analyst, Infrastructure & Natural Resources",
       "location": "Toronto, Canada",
       "link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Analyst--Infrastructure---Natural-Resources_7248",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
-      "id": "workday-ms-job/Montreal-Canada/RFI-Risk-Analyst_PT-JR042411-1",
-      "company": "Morgan Stanley",
-      "title": "RFI Risk Analyst",
-      "location": "Montreal, Canada",
-      "link": "https://ms.wd5.myworkdayjobs.com/External/job/Montreal-Canada/RFI-Risk-Analyst_PT-JR042411-1",
+      "id": "workday-barclays-job/Calgary-888-3rd-Street-SW/Investment-Banking--Associate_JR-0000124562-1",
+      "company": "Barclays",
+      "title": "Investment Banking, Associate",
+      "location": "Calgary, 888 3rd Street SW",
+      "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Calgary-888-3rd-Street-SW/Investment-Banking--Associate_JR-0000124562-1",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-fil-job/Vancouver-Office/Associate-Full-Stack-Developer-FCC_J71191",
+      "company": "Fidelity Canada",
+      "title": "Associate Full Stack Developer FCC",
+      "location": "Vancouver Office",
+      "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Vancouver-Office/Associate-Full-Stack-Developer-FCC_J71191",
       "posted": "Posted Today"
     },
     {
@@ -103,14 +119,14 @@
       "title": "\u00c9tudiant/ \u00c9tudiante, Ventes aux conseillers Montr\u00e9al/ Student, Advisor Sales Montreal (Winter 2027)",
       "location": "Montreal Office",
       "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Montreal-Office/tudiant--tudiante--Ventes-aux-conseillers-Montral--Student--Advisor-Sales-Montreal--Winter-2027-_J71701",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
-      "id": "workday-bdo-job/Vancouver/New-Grad--Junior-Accountant--Canadian-Tax-Services--Fall-2027--Vancouver_JR7054",
+      "id": "workday-bdo-job/Toronto---Wellington-St/Associate--M-A-and-Capital-Markets_JR7076",
       "company": "BDO Canada",
-      "title": "New Grad: Junior Accountant, Canadian Tax Services (Fall 2027) Vancouver",
-      "location": "Vancouver",
-      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Vancouver/New-Grad--Junior-Accountant--Canadian-Tax-Services--Fall-2027--Vancouver_JR7054",
+      "title": "Associate, M&A and Capital Markets",
+      "location": "Toronto - Wellington St",
+      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Associate--M-A-and-Capital-Markets_JR7076",
       "posted": "Posted Today"
     },
     {
@@ -122,11 +138,11 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605921117",
+      "id": "scotiabank-605897517",
       "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
-      "location": "Langley, BC, CA",
-      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -138,11 +154,11 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605921117",
+      "id": "scotiabank-605897517",
       "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
-      "location": "Langley, BC, CA",
-      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -154,11 +170,11 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605921117",
+      "id": "scotiabank-605897517",
       "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
-      "location": "Langley, BC, CA",
-      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -170,11 +186,11 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605921117",
+      "id": "scotiabank-605897517",
       "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
-      "location": "Langley, BC, CA",
-      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -186,14 +202,6 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605921117",
-      "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
-      "location": "Langley, BC, CA",
-      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
-      "posted": "Sep 8, 2026"
-    },
-    {
       "id": "scotiabank-605897517",
       "company": "Scotiabank",
       "title": "GBM - Client Insights & Analytics - New Grad",
@@ -202,76 +210,12 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605921117",
-      "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
-      "location": "Langley, BC, CA",
-      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-605897517",
-      "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-605921117",
-      "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
-      "location": "Langley, BC, CA",
-      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-605897517",
-      "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-605921117",
-      "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
-      "location": "Langley, BC, CA",
-      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-605897517",
-      "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-605921117",
-      "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
-      "location": "Langley, BC, CA",
-      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-605897517",
-      "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-605921117",
-      "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
-      "location": "Langley, BC, CA",
-      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
-      "posted": "Sep 8, 2026"
+      "id": "canadalife-ld-Compensation-Associate-ON-1437315833-",
+      "company": "Canada Life",
+      "title": "Field Compensation Associate",
+      "location": "Canada",
+      "link": "https://jobs.canadalife.com/job/Canada-Field-Compensation-Associate-ON/1437315833/",
+      "posted": ""
     },
     {
       "id": "canadalife-Service-Support-Associate-ON-1436853133-",
@@ -279,22 +223,6 @@
       "title": "Service Support Associate",
       "location": "Canada",
       "link": "https://jobs.canadalife.com/job/Toronto-Service-Support-Associate-ON/1436853133/",
-      "posted": ""
-    },
-    {
-      "id": "canadalife-Support-Associate-ON-N8W-5K8-1436372133-",
-      "company": "Canada Life",
-      "title": "Sales Support Associate",
-      "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Windsor-Ontario-Sales-Support-Associate-ON-N8W-5K8/1436372133/",
-      "posted": ""
-    },
-    {
-      "id": "canadalife--job-London-Data-Analyst-ON-1436379033-",
-      "company": "Canada Life",
-      "title": "Data Analyst",
-      "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/London-Data-Analyst-ON/1436379033/",
       "posted": ""
     }
   ]
