@@ -1,93 +1,93 @@
 {
-  "updated": "2026-09-15T21:34:17.184169+00:00",
+  "updated": "2026-09-16T21:34:25.428487+00:00",
   "jobs": [
+    {
+      "id": "workday-rbc-job/TORONTO-Ontario-Canada/XMLNAME-2027-Investor-Services--PEY-Data-Analyst----12-16-months-_R-0000188126",
+      "company": "RBC",
+      "title": "2027 Investor Services, PEY Data Analyst   (12-16 months)",
+      "location": "TORONTO, Ontario, Canada",
+      "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Investor-Services--PEY-Data-Analyst----12-16-months-_R-0000188126",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-rbc-job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2027-Capital-Markets--COO-Group---Winter-Analyst--Asset-Servicing--4-months-_R-0000187043-1",
+      "company": "RBC",
+      "title": "2027 Capital Markets, COO Group - Winter Analyst, Asset Servicing (4 months)",
+      "location": "HALIFAX, Nova Scotia, Canada",
+      "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2027-Capital-Markets--COO-Group---Winter-Analyst--Asset-Servicing--4-months-_R-0000187043-1",
+      "posted": "Posted Today"
+    },
     {
       "id": "workday-rbc-job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO--Winter-Financial-Analyst--ALM-Macro-Hedging--4-Months-_R-0000187051",
       "company": "RBC",
       "title": "2027 CFO, Winter Financial Analyst, ALM Macro Hedging (4 Months)",
       "location": "TORONTO, Ontario, Canada",
       "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO--Winter-Financial-Analyst--ALM-Macro-Hedging--4-Months-_R-0000187051",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
-      "id": "workday-cibc-job/Halifax-NS/Mortgage-Solutions-Advisor_2618650",
+      "id": "workday-cibc-job/Vancouver-BC/Client-Associate_2524224",
       "company": "CIBC",
-      "title": "Mortgage Solutions Advisor",
-      "location": "Halifax, NS",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Halifax-NS/Mortgage-Solutions-Advisor_2618650",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Vancouver-BC/Client-Associate--IR-Licensed--Mandarin-Speaking-CIBC-Wood-Gundy_2612850",
-      "company": "CIBC",
-      "title": "Client Associate (IR Licensed) Mandarin Speaking CIBC Wood Gundy",
+      "title": "Client Associate (IR licensed) CIBC Wood Gundy",
       "location": "Vancouver, BC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Client-Associate--IR-Licensed--Mandarin-Speaking-CIBC-Wood-Gundy_2612850",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Client-Associate_2524224",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/Associate--Data-Science---Global-Transaction-Banking_2617995",
+      "id": "workday-cibc-job/Vancouver-BC/Associate-Fianacial-Advisor_2618203",
       "company": "CIBC",
-      "title": "Associate, Data Science - Global Transaction Banking",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Data-Science---Global-Transaction-Banking_2617995",
+      "title": "Associate Financial Advisor",
+      "location": "Vancouver, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Associate-Fianacial-Advisor_2618203",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/Oakville-ON-CAN/Client-Service-Associate_R260019807",
-      "company": "BMO",
-      "title": "Client Service Associate, Private Wealth",
-      "location": "Oakville, ON, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Oakville-ON-CAN/Client-Service-Associate_R260019807",
+      "id": "workday-cibc-job/Burlington-ON/Client-Associate--RR-licensed--Wood-Gundy_2619033",
+      "company": "CIBC",
+      "title": "Client Associate (RR licensed) Wood Gundy",
+      "location": "Burlington, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Burlington-ON/Client-Associate--RR-licensed--Wood-Gundy_2619033",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/Toronto-ON-CAN/Associate--Retail-Equity-Trading--Private-Wealth_R260026108",
+      "id": "workday-bmo-job/Toronto-ON-CAN/Service-Representative--New-or-Recent-Graduate----1-Year-Contract_R260026246",
       "company": "BMO",
-      "title": "Associate, Retail Equity Trading, Private Wealth",
+      "title": "Service Representative (New or Recent Graduate) - 1 Year Contract",
       "location": "Toronto, ON, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Retail-Equity-Trading--Private-Wealth_R260026108",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Service-Representative--New-or-Recent-Graduate----1-Year-Contract_R260026246",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/MONTREAL-QC-CAN/Investment-Associate--Nesbitt-Burns_R260019107",
+      "id": "workday-bmo-job/Toronto-ON-CAN/Associate--Data-Scientist_R250030939",
       "company": "BMO",
-      "title": "Investment Associate,  Wealth Management, Nesbitt Burns",
-      "location": "MONTREAL, QC, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Investment-Associate--Nesbitt-Burns_R260019107",
+      "title": "Associate, Data Scientist",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Data-Scientist_R250030939",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/Calgary-AB-CAN/Client-Service-Associate_R260026567",
+      "id": "workday-bmo-job/Calgary-AB-CAN/Associate_R260026770",
       "company": "BMO",
-      "title": "Client Service Associate",
+      "title": "Associate",
       "location": "Calgary, AB, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Calgary-AB-CAN/Client-Service-Associate_R260026567",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Calgary-AB-CAN/Associate_R260026770",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-manulife-job/CAN-Ontario---Full-Time-Remote/Private-Lending-Associate_JR26081649-1",
-      "company": "Manulife",
-      "title": "Private Lending Associate",
-      "location": "CAN, Ontario - Full Time Remote",
-      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/CAN-Ontario---Full-Time-Remote/Private-Lending-Associate_JR26081649-1",
+      "id": "workday-bmo-job/Toronto-ON-CAN/Analyst--Data-Scientist_R260026946",
+      "company": "BMO",
+      "title": "Analyst, Data Scientist",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Data-Scientist_R260026946",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-manulife-job/Montreal-Quebec/GRO---Data-Analyst_JR26061468",
-      "company": "Manulife",
-      "title": "GRO - Data Analyst",
-      "location": "Montreal, Quebec",
-      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/GRO---Data-Analyst_JR26061468",
-      "posted": "Posted Yesterday"
-    },
-    {
-      "id": "workday-manulife-job/Montreal-Quebec/GRO---Operations-Analyst_JR26061462",
-      "company": "Manulife",
-      "title": "GRO - Operations Analyst",
-      "location": "Montreal, Quebec",
-      "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Montreal-Quebec/GRO---Operations-Analyst_JR26061462",
-      "posted": "Posted Yesterday"
+      "id": "workday-enbridge-job/Calgary-AB-CAN/Business-Analyst-Specialist-I---Marketing---Risk-Management_70890-1",
+      "company": "Enbridge",
+      "title": "Business Analyst Specialist I - Marketing & Risk Management",
+      "location": "Calgary, AB, CAN",
+      "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Business-Analyst-Specialist-I---Marketing---Risk-Management_70890-1",
+      "posted": "Posted Today"
     },
     {
       "id": "workday-otppb-job/Toronto-Canada/Investment-Analyst--Infrastructure---Natural-Resources_7248",
@@ -95,6 +95,22 @@
       "title": "Investment Analyst, Infrastructure & Natural Resources",
       "location": "Toronto, Canada",
       "link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Analyst--Infrastructure---Natural-Resources_7248",
+      "posted": "Posted 2 Days Ago"
+    },
+    {
+      "id": "workday-investpsp-job/Montreal/Advisor--Public-Markets-Solutions--Trade-Support-Operations---TSO-_R4974",
+      "company": "PSP Investments",
+      "title": "Advisor, Public Markets Solutions (Trade Support Operations - TSO)",
+      "location": "Montreal",
+      "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Advisor--Public-Markets-Solutions--Trade-Support-Operations---TSO-_R4974",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-investpsp-job/Montreal/Advisor--Public-Markets-Solutions_R4975",
+      "company": "PSP Investments",
+      "title": "Advisor, Public Markets Solutions",
+      "location": "Montreal",
+      "link": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Advisor--Public-Markets-Solutions_R4975",
       "posted": "Posted Yesterday"
     },
     {
@@ -103,7 +119,7 @@
       "title": "Investment Banking, Associate",
       "location": "Calgary, 888 3rd Street SW",
       "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Calgary-888-3rd-Street-SW/Investment-Banking--Associate_JR-0000124562-1",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-fil-job/Vancouver-Office/Associate-Full-Stack-Developer-FCC_J71191",
@@ -111,7 +127,7 @@
       "title": "Associate Full Stack Developer FCC",
       "location": "Vancouver Office",
       "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Vancouver-Office/Associate-Full-Stack-Developer-FCC_J71191",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-fil-job/Montreal-Office/tudiant--tudiante--Ventes-aux-conseillers-Montral--Student--Advisor-Sales-Montreal--Winter-2027-_J71701",
@@ -119,14 +135,22 @@
       "title": "\u00c9tudiant/ \u00c9tudiante, Ventes aux conseillers Montr\u00e9al/ Student, Advisor Sales Montreal (Winter 2027)",
       "location": "Montreal Office",
       "link": "https://fil.wd3.myworkdayjobs.com/fidelitycanada/job/Montreal-Office/tudiant--tudiante--Ventes-aux-conseillers-Montral--Student--Advisor-Sales-Montreal--Winter-2027-_J71701",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
-      "id": "workday-bdo-job/Toronto---Wellington-St/Associate--M-A-and-Capital-Markets_JR7076",
+      "id": "workday-bdo-job/Calgary---8th-Ave-SW/Manager--Valuations---Modelling_JR7010",
+      "company": "BDO Canada",
+      "title": "Financial Analyst, Valuations & Modelling",
+      "location": "Calgary - 8th Ave SW",
+      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Manager--Valuations---Modelling_JR7010",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-bdo-job/Toronto---Bay-St/Associate--M-A-and-Capital-Markets_JR7076",
       "company": "BDO Canada",
       "title": "Associate, M&A and Capital Markets",
-      "location": "Toronto - Wellington St",
-      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Wellington-St/Associate--M-A-and-Capital-Markets_JR7076",
+      "location": "Toronto - Bay St",
+      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Associate--M-A-and-Capital-Markets_JR7076",
       "posted": "Posted Today"
     },
     {
