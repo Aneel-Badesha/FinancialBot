@@ -1,29 +1,13 @@
 {
-  "updated": "2026-09-18T21:34:35.629652+00:00",
+  "updated": "2026-09-19T21:34:15.383879+00:00",
   "jobs": [
-    {
-      "id": "workday-rbc-job/TORONTO-Ontario-Canada/XMLNAME-2027-Investor-Services--PEY-Data-Analyst----12-16-months-_R-0000188126",
-      "company": "RBC",
-      "title": "2027 Investor Services, PEY Data Analyst   (12-16 months)",
-      "location": "TORONTO, Ontario, Canada",
-      "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Investor-Services--PEY-Data-Analyst----12-16-months-_R-0000188126",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "id": "workday-rbc-job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2027-Capital-Markets--COO-Group---Winter-Analyst--Asset-Servicing--4-months-_R-0000187043-1",
-      "company": "RBC",
-      "title": "2027 Capital Markets, COO Group - Winter Analyst, Asset Servicing (4 months)",
-      "location": "HALIFAX, Nova Scotia, Canada",
-      "link": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2027-Capital-Markets--COO-Group---Winter-Analyst--Asset-Servicing--4-months-_R-0000187043-1",
-      "posted": "Posted 2 Days Ago"
-    },
     {
       "id": "workday-td-job/Markham-Ontario/Claims-Advisor-I_R_1508683",
       "company": "TD",
       "title": "Bilingual Claims Advisor I",
       "location": "Markham, Ontario",
       "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Markham-Ontario/Claims-Advisor-I_R_1508683",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-td-job/Mississauga-Ontario/Global-Security-Analyst-ll--IRC---Bilingual--French-English-_R_1491375",
@@ -31,7 +15,7 @@
       "title": "Global Security Analyst ll, IRC - Bilingual (French/English)",
       "location": "Mississauga, Ontario",
       "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Global-Security-Analyst-ll--IRC---Bilingual--French-English-_R_1491375",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-cibc-job/Calgary-AB/Client-Associate--IR-licensed--Wood-Gundy_2618272",
@@ -39,7 +23,7 @@
       "title": "Client Associate (IR licensed) Wood Gundy",
       "location": "Calgary, AB",
       "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Calgary-AB/Client-Associate--IR-licensed--Wood-Gundy_2618272",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-bmo-job/Toronto-ON-CAN/Analyst--Global-Markets-Corporate-Banking_R260027057",
@@ -47,7 +31,7 @@
       "title": "Analyst, Global Markets Corporate Banking",
       "location": "Toronto, ON, CAN",
       "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Global-Markets-Corporate-Banking_R260027057",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-bmo-job/REMOTETELETRAVAIL-ON-CAN/Digital-Support-Analyst_R260026619-1",
@@ -55,7 +39,7 @@
       "title": "Digital Support Analyst",
       "location": "REMOTE/TELETRAVAIL, ON, CAN",
       "link": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Digital-Support-Analyst_R260026619-1",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-enbridge-job/Calgary-AB-CAN/Advisor-OpEx-and-Joint-Venture-Accounting_73104-1",
@@ -63,7 +47,7 @@
       "title": "Advisor OpEx and Joint Venture Accounting",
       "location": "Calgary, AB, CAN",
       "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Advisor-OpEx-and-Joint-Venture-Accounting_73104-1",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-manulife-job/Toronto-Ontario/Business-Analyst--Member-Engagement_JR26081847-1",
@@ -71,7 +55,7 @@
       "title": "Business Analyst, Member Engagement",
       "location": "Toronto, Ontario",
       "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Business-Analyst--Member-Engagement_JR26081847-1",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-intactfc-job/Vancouver-British-Columbia-CAN/Security-Analyst-I---Pen-Tests_R155752",
@@ -79,7 +63,7 @@
       "title": "Security Analyst I - Pen Tests",
       "location": "Vancouver, British Columbia, CAN",
       "link": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Vancouver-British-Columbia-CAN/Security-Analyst-I---Pen-Tests_R155752",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-cdpq-job/Montreal/Analyste--Analytique-de-portefeuille_R05128",
@@ -87,25 +71,17 @@
       "title": "Analyste, Solutions num\u00e9riques et Analytique March\u00e9s priv\u00e9s",
       "location": "Montreal",
       "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Analytique-de-portefeuille_R05128",
+      "posted": "Posted 2 Days Ago"
+    },
+    {
+      "id": "workday-bdo-job/Ottawa---Kent-St/New-Grad---Business-Analysis---Quality-Assurance--January-2027-_JR7096",
+      "company": "BDO Canada",
+      "title": "New Grad - Business Analysis & Quality Assurance (January 2027)",
+      "location": "Ottawa - Kent St",
+      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Ottawa---Kent-St/New-Grad---Business-Analysis---Quality-Assurance--January-2027-_JR7096",
       "posted": "Posted Yesterday"
     },
     {
-      "id": "workday-bdo-job/Calgary---8th-Ave-SW/Manager--Valuations---Modelling_JR7010",
-      "company": "BDO Canada",
-      "title": "Financial Analyst, Valuations & Modelling",
-      "location": "Calgary - 8th Ave SW",
-      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Calgary---8th-Ave-SW/Manager--Valuations---Modelling_JR7010",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "id": "workday-bdo-job/Toronto---Bay-St/Associate--M-A-and-Capital-Markets_JR7076",
-      "company": "BDO Canada",
-      "title": "Associate, M&A and Capital Markets",
-      "location": "Toronto - Bay St",
-      "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Toronto---Bay-St/Associate--M-A-and-Capital-Markets_JR7076",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
       "id": "scotiabank-606215217",
       "company": "Scotiabank",
       "title": "Analyst, Investment Banking Sponsors",
@@ -119,14 +95,6 @@
       "title": "GBM - Client Insights & Analytics - New Grad",
       "location": "Toronto, ON, CA",
       "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-605920417",
-      "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Development Program - Agriculture - June 2027 - Saskatoon",
-      "location": "Saskatoon, SK, CA",
-      "link": "https://jobs.scotiabank.com/job/Saskatoon-ACCELERATE-Commercial-Banking-New-Graduate-Development-Program-Agriculture-June-2027-Saskatoon-SK/605920417/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -146,11 +114,19 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605920417",
+      "id": "scotiabank-606215217",
       "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Development Program - Agriculture - June 2027 - Saskatoon",
-      "location": "Saskatoon, SK, CA",
-      "link": "https://jobs.scotiabank.com/job/Saskatoon-ACCELERATE-Commercial-Banking-New-Graduate-Development-Program-Agriculture-June-2027-Saskatoon-SK/605920417/",
+      "title": "Analyst, Investment Banking Sponsors",
+      "location": "New York City, NY, US",
+      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
+      "posted": "Sep 17, 2026"
+    },
+    {
+      "id": "scotiabank-605897517",
+      "company": "Scotiabank",
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -170,11 +146,19 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605920417",
+      "id": "scotiabank-606215217",
       "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Development Program - Agriculture - June 2027 - Saskatoon",
-      "location": "Saskatoon, SK, CA",
-      "link": "https://jobs.scotiabank.com/job/Saskatoon-ACCELERATE-Commercial-Banking-New-Graduate-Development-Program-Agriculture-June-2027-Saskatoon-SK/605920417/",
+      "title": "Analyst, Investment Banking Sponsors",
+      "location": "New York City, NY, US",
+      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
+      "posted": "Sep 17, 2026"
+    },
+    {
+      "id": "scotiabank-605897517",
+      "company": "Scotiabank",
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -194,11 +178,19 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605920417",
+      "id": "scotiabank-606215217",
       "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Development Program - Agriculture - June 2027 - Saskatoon",
-      "location": "Saskatoon, SK, CA",
-      "link": "https://jobs.scotiabank.com/job/Saskatoon-ACCELERATE-Commercial-Banking-New-Graduate-Development-Program-Agriculture-June-2027-Saskatoon-SK/605920417/",
+      "title": "Analyst, Investment Banking Sponsors",
+      "location": "New York City, NY, US",
+      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
+      "posted": "Sep 17, 2026"
+    },
+    {
+      "id": "scotiabank-605897517",
+      "company": "Scotiabank",
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -218,14 +210,6 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605920417",
-      "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Development Program - Agriculture - June 2027 - Saskatoon",
-      "location": "Saskatoon, SK, CA",
-      "link": "https://jobs.scotiabank.com/job/Saskatoon-ACCELERATE-Commercial-Banking-New-Graduate-Development-Program-Agriculture-June-2027-Saskatoon-SK/605920417/",
-      "posted": "Sep 8, 2026"
-    },
-    {
       "id": "scotiabank-606215217",
       "company": "Scotiabank",
       "title": "Analyst, Investment Banking Sponsors",
@@ -242,14 +226,6 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605920417",
-      "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Development Program - Agriculture - June 2027 - Saskatoon",
-      "location": "Saskatoon, SK, CA",
-      "link": "https://jobs.scotiabank.com/job/Saskatoon-ACCELERATE-Commercial-Banking-New-Graduate-Development-Program-Agriculture-June-2027-Saskatoon-SK/605920417/",
-      "posted": "Sep 8, 2026"
-    },
-    {
       "id": "scotiabank-606215217",
       "company": "Scotiabank",
       "title": "Analyst, Investment Banking Sponsors",
@@ -263,86 +239,6 @@
       "title": "GBM - Client Insights & Analytics - New Grad",
       "location": "Toronto, ON, CA",
       "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-605920417",
-      "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Development Program - Agriculture - June 2027 - Saskatoon",
-      "location": "Saskatoon, SK, CA",
-      "link": "https://jobs.scotiabank.com/job/Saskatoon-ACCELERATE-Commercial-Banking-New-Graduate-Development-Program-Agriculture-June-2027-Saskatoon-SK/605920417/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-606215217",
-      "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
-    },
-    {
-      "id": "scotiabank-605897517",
-      "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-605920417",
-      "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Development Program - Agriculture - June 2027 - Saskatoon",
-      "location": "Saskatoon, SK, CA",
-      "link": "https://jobs.scotiabank.com/job/Saskatoon-ACCELERATE-Commercial-Banking-New-Graduate-Development-Program-Agriculture-June-2027-Saskatoon-SK/605920417/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-606215217",
-      "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
-    },
-    {
-      "id": "scotiabank-605897517",
-      "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-605920417",
-      "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Development Program - Agriculture - June 2027 - Saskatoon",
-      "location": "Saskatoon, SK, CA",
-      "link": "https://jobs.scotiabank.com/job/Saskatoon-ACCELERATE-Commercial-Banking-New-Graduate-Development-Program-Agriculture-June-2027-Saskatoon-SK/605920417/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-606215217",
-      "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
-    },
-    {
-      "id": "scotiabank-605897517",
-      "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-605920417",
-      "company": "Scotiabank",
-      "title": "ACCELERATE Commercial Banking New Graduate Development Program - Agriculture - June 2027 - Saskatoon",
-      "location": "Saskatoon, SK, CA",
-      "link": "https://jobs.scotiabank.com/job/Saskatoon-ACCELERATE-Commercial-Banking-New-Graduate-Development-Program-Agriculture-June-2027-Saskatoon-SK/605920417/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -367,22 +263,6 @@
       "title": "Risk Analyst (Student Position)",
       "location": "Canada",
       "link": "https://jobs.canadalife.com/job/London-Risk-Analyst-%28Student-Position%29-ON/1439149333/",
-      "posted": ""
-    },
-    {
-      "id": "canadalife-h-Management-Aurora-2C-ON-ON-1438190733-",
-      "company": "Canada Life",
-      "title": "Client Service Associate, Wealth Management - Aurora, ON",
-      "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Toronto-Client-Service-Associate%2C-Wealth-Management-Aurora%2C-ON-ON/1438190733/",
-      "posted": ""
-    },
-    {
-      "id": "bofa-14812",
-      "company": "Bank of America",
-      "title": "Canada | Toronto | Global Payment Solutions Summer Analyst | 2027",
-      "location": "Toronto",
-      "link": "https://bankcampuscareers.tal.net/vx/lang-en-GB/mobile-0/brand-4/user-36/xf-b02f2d4612fc/wid-1/candidate/so/pm/1/pl/1/opp/14812-Canada-Toronto-Global-Payment-Solutions-Summer-Analyst-2027/en-GB",
       "posted": ""
     }
   ]
