@@ -1,29 +1,13 @@
 {
-  "updated": "2026-09-19T21:34:15.383879+00:00",
+  "updated": "2026-09-20T21:34:21.606068+00:00",
   "jobs": [
-    {
-      "id": "workday-td-job/Markham-Ontario/Claims-Advisor-I_R_1508683",
-      "company": "TD",
-      "title": "Bilingual Claims Advisor I",
-      "location": "Markham, Ontario",
-      "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Markham-Ontario/Claims-Advisor-I_R_1508683",
-      "posted": "Posted 2 Days Ago"
-    },
-    {
-      "id": "workday-td-job/Mississauga-Ontario/Global-Security-Analyst-ll--IRC---Bilingual--French-English-_R_1491375",
-      "company": "TD",
-      "title": "Global Security Analyst ll, IRC - Bilingual (French/English)",
-      "location": "Mississauga, Ontario",
-      "link": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Global-Security-Analyst-ll--IRC---Bilingual--French-English-_R_1491375",
-      "posted": "Posted 2 Days Ago"
-    },
     {
       "id": "workday-cibc-job/Calgary-AB/Client-Associate--IR-licensed--Wood-Gundy_2618272",
       "company": "CIBC",
       "title": "Client Associate (IR licensed) Wood Gundy",
       "location": "Calgary, AB",
       "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Calgary-AB/Client-Associate--IR-licensed--Wood-Gundy_2618272",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-bmo-job/Toronto-ON-CAN/Analyst--Global-Markets-Corporate-Banking_R260027057",
@@ -31,7 +15,7 @@
       "title": "Analyst, Global Markets Corporate Banking",
       "location": "Toronto, ON, CAN",
       "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Global-Markets-Corporate-Banking_R260027057",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-bmo-job/REMOTETELETRAVAIL-ON-CAN/Digital-Support-Analyst_R260026619-1",
@@ -39,14 +23,6 @@
       "title": "Digital Support Analyst",
       "location": "REMOTE/TELETRAVAIL, ON, CAN",
       "link": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Digital-Support-Analyst_R260026619-1",
-      "posted": "Posted Yesterday"
-    },
-    {
-      "id": "workday-enbridge-job/Calgary-AB-CAN/Advisor-OpEx-and-Joint-Venture-Accounting_73104-1",
-      "company": "Enbridge",
-      "title": "Advisor OpEx and Joint Venture Accounting",
-      "location": "Calgary, AB, CAN",
-      "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Advisor-OpEx-and-Joint-Venture-Accounting_73104-1",
       "posted": "Posted 2 Days Ago"
     },
     {
@@ -55,7 +31,7 @@
       "title": "Business Analyst, Member Engagement",
       "location": "Toronto, Ontario",
       "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Business-Analyst--Member-Engagement_JR26081847-1",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-intactfc-job/Vancouver-British-Columbia-CAN/Security-Analyst-I---Pen-Tests_R155752",
@@ -63,14 +39,6 @@
       "title": "Security Analyst I - Pen Tests",
       "location": "Vancouver, British Columbia, CAN",
       "link": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Vancouver-British-Columbia-CAN/Security-Analyst-I---Pen-Tests_R155752",
-      "posted": "Posted Yesterday"
-    },
-    {
-      "id": "workday-cdpq-job/Montreal/Analyste--Analytique-de-portefeuille_R05128",
-      "company": "CDPQ",
-      "title": "Analyste, Solutions num\u00e9riques et Analytique March\u00e9s priv\u00e9s",
-      "location": "Montreal",
-      "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Analytique-de-portefeuille_R05128",
       "posted": "Posted 2 Days Ago"
     },
     {
@@ -79,7 +47,7 @@
       "title": "New Grad - Business Analysis & Quality Assurance (January 2027)",
       "location": "Ottawa - Kent St",
       "link": "https://bdo.wd3.myworkdayjobs.com/bdo/job/Ottawa---Kent-St/New-Grad---Business-Analysis---Quality-Assurance--January-2027-_JR7096",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "scotiabank-606215217",
@@ -95,6 +63,22 @@
       "title": "GBM - Client Insights & Analytics - New Grad",
       "location": "Toronto, ON, CA",
       "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-605921117",
+      "company": "Scotiabank",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
+      "location": "Langley, BC, CA",
+      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-605921017",
+      "company": "Scotiabank",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Real Estate Banking - June 2027 Montreal",
+      "location": "Montreal, QC, CA",
+      "link": "https://jobs.scotiabank.com/job/Montreal-ACCELERATE-Commercial-Banking-New-Graduate-Program-Real-Estate-Banking-June-2027-Montreal-QC/605921017/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -114,19 +98,19 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-606215217",
+      "id": "scotiabank-605921117",
       "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
+      "location": "Langley, BC, CA",
+      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605897517",
+      "id": "scotiabank-605921017",
       "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Real Estate Banking - June 2027 Montreal",
+      "location": "Montreal, QC, CA",
+      "link": "https://jobs.scotiabank.com/job/Montreal-ACCELERATE-Commercial-Banking-New-Graduate-Program-Real-Estate-Banking-June-2027-Montreal-QC/605921017/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -146,19 +130,19 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-606215217",
+      "id": "scotiabank-605921117",
       "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
+      "location": "Langley, BC, CA",
+      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605897517",
+      "id": "scotiabank-605921017",
       "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Real Estate Banking - June 2027 Montreal",
+      "location": "Montreal, QC, CA",
+      "link": "https://jobs.scotiabank.com/job/Montreal-ACCELERATE-Commercial-Banking-New-Graduate-Program-Real-Estate-Banking-June-2027-Montreal-QC/605921017/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -178,19 +162,19 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-606215217",
+      "id": "scotiabank-605921117",
       "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
+      "location": "Langley, BC, CA",
+      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605897517",
+      "id": "scotiabank-605921017",
       "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Real Estate Banking - June 2027 Montreal",
+      "location": "Montreal, QC, CA",
+      "link": "https://jobs.scotiabank.com/job/Montreal-ACCELERATE-Commercial-Banking-New-Graduate-Program-Real-Estate-Banking-June-2027-Montreal-QC/605921017/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -210,19 +194,19 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-606215217",
+      "id": "scotiabank-605921117",
       "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
+      "location": "Langley, BC, CA",
+      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-605897517",
+      "id": "scotiabank-605921017",
       "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Real Estate Banking - June 2027 Montreal",
+      "location": "Montreal, QC, CA",
+      "link": "https://jobs.scotiabank.com/job/Montreal-ACCELERATE-Commercial-Banking-New-Graduate-Program-Real-Estate-Banking-June-2027-Montreal-QC/605921017/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -239,6 +223,150 @@
       "title": "GBM - Client Insights & Analytics - New Grad",
       "location": "Toronto, ON, CA",
       "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-605921117",
+      "company": "Scotiabank",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
+      "location": "Langley, BC, CA",
+      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-605921017",
+      "company": "Scotiabank",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Real Estate Banking - June 2027 Montreal",
+      "location": "Montreal, QC, CA",
+      "link": "https://jobs.scotiabank.com/job/Montreal-ACCELERATE-Commercial-Banking-New-Graduate-Program-Real-Estate-Banking-June-2027-Montreal-QC/605921017/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-606215217",
+      "company": "Scotiabank",
+      "title": "Analyst, Investment Banking Sponsors",
+      "location": "New York City, NY, US",
+      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
+      "posted": "Sep 17, 2026"
+    },
+    {
+      "id": "scotiabank-605897517",
+      "company": "Scotiabank",
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-605921117",
+      "company": "Scotiabank",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
+      "location": "Langley, BC, CA",
+      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-605921017",
+      "company": "Scotiabank",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Real Estate Banking - June 2027 Montreal",
+      "location": "Montreal, QC, CA",
+      "link": "https://jobs.scotiabank.com/job/Montreal-ACCELERATE-Commercial-Banking-New-Graduate-Program-Real-Estate-Banking-June-2027-Montreal-QC/605921017/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-606215217",
+      "company": "Scotiabank",
+      "title": "Analyst, Investment Banking Sponsors",
+      "location": "New York City, NY, US",
+      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
+      "posted": "Sep 17, 2026"
+    },
+    {
+      "id": "scotiabank-605897517",
+      "company": "Scotiabank",
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-605921117",
+      "company": "Scotiabank",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
+      "location": "Langley, BC, CA",
+      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-605921017",
+      "company": "Scotiabank",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Real Estate Banking - June 2027 Montreal",
+      "location": "Montreal, QC, CA",
+      "link": "https://jobs.scotiabank.com/job/Montreal-ACCELERATE-Commercial-Banking-New-Graduate-Program-Real-Estate-Banking-June-2027-Montreal-QC/605921017/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-606215217",
+      "company": "Scotiabank",
+      "title": "Analyst, Investment Banking Sponsors",
+      "location": "New York City, NY, US",
+      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
+      "posted": "Sep 17, 2026"
+    },
+    {
+      "id": "scotiabank-605897517",
+      "company": "Scotiabank",
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-605921117",
+      "company": "Scotiabank",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
+      "location": "Langley, BC, CA",
+      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-605921017",
+      "company": "Scotiabank",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Real Estate Banking - June 2027 Montreal",
+      "location": "Montreal, QC, CA",
+      "link": "https://jobs.scotiabank.com/job/Montreal-ACCELERATE-Commercial-Banking-New-Graduate-Program-Real-Estate-Banking-June-2027-Montreal-QC/605921017/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-606215217",
+      "company": "Scotiabank",
+      "title": "Analyst, Investment Banking Sponsors",
+      "location": "New York City, NY, US",
+      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
+      "posted": "Sep 17, 2026"
+    },
+    {
+      "id": "scotiabank-605897517",
+      "company": "Scotiabank",
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-605921117",
+      "company": "Scotiabank",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Mid-Market - June 2027 British Columbia",
+      "location": "Langley, BC, CA",
+      "link": "https://jobs.scotiabank.com/job/Langley-ACCELERATE-Commercial-Banking-New-Graduate-Program-Mid-Market-June-2027-British-Columbia-BC/605921117/",
+      "posted": "Sep 8, 2026"
+    },
+    {
+      "id": "scotiabank-605921017",
+      "company": "Scotiabank",
+      "title": "ACCELERATE Commercial Banking New Graduate Program - Real Estate Banking - June 2027 Montreal",
+      "location": "Montreal, QC, CA",
+      "link": "https://jobs.scotiabank.com/job/Montreal-ACCELERATE-Commercial-Banking-New-Graduate-Program-Real-Estate-Banking-June-2027-Montreal-QC/605921017/",
       "posted": "Sep 8, 2026"
     },
     {
@@ -263,6 +391,14 @@
       "title": "Risk Analyst (Student Position)",
       "location": "Canada",
       "link": "https://jobs.canadalife.com/job/London-Risk-Analyst-%28Student-Position%29-ON/1439149333/",
+      "posted": ""
+    },
+    {
+      "id": "canadalife-h-Management-Aurora-2C-ON-ON-1438190733-",
+      "company": "Canada Life",
+      "title": "Client Service Associate, Wealth Management - Aurora, ON",
+      "location": "Canada",
+      "link": "https://jobs.canadalife.com/job/Toronto-Client-Service-Associate%2C-Wealth-Management-Aurora%2C-ON-ON/1438190733/",
       "posted": ""
     }
   ]
