@@ -1,68 +1,60 @@
 {
-  "updated": "2026-09-22T21:34:22.762262+00:00",
+  "updated": "2026-09-23T21:34:17.489172+00:00",
   "jobs": [
     {
-      "id": "workday-cibc-job/Toronto-ON/Associate-Financial-Advisor--12-month-_2619294",
+      "id": "workday-cibc-job/Vancouver-BC/Financial-Advisor---CIRO-ID_2619317",
       "company": "CIBC",
-      "title": "Associate Financial Advisor (12-month)",
+      "title": "Financial Advisor - CIRO-ID",
+      "location": "Vancouver, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Financial-Advisor---CIRO-ID_2619317",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Vancouver-BC/Financial-Advisor---MFDA-AMF_2615970",
+      "company": "CIBC",
+      "title": "Financial Advisor -CIRO - MFD/AMF (Urban) (Mandarin)",
+      "location": "Vancouver, BC",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Financial-Advisor---MFDA-AMF_2615970",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/London-ON/Client-Associate--IR-licensed--Wood-Gundy_2616494",
+      "company": "CIBC",
+      "title": "Client Associate (IR licensed) Wood Gundy",
+      "location": "London, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/London-ON/Client-Associate--IR-licensed--Wood-Gundy_2616494",
+      "posted": "Posted Today"
+    },
+    {
+      "id": "workday-cibc-job/Toronto-ON/Client-Associate--Wood-Gundy_2614725",
+      "company": "CIBC",
+      "title": "Client Associate (IR licensed) Wood Gundy",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate-Financial-Advisor--12-month-_2619294",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Client-Associate--Wood-Gundy_2614725",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Montral-QC/Registrations-Analyst--Regulatory-Registrations---Bilingual_2619481",
+      "id": "workday-cibc-job/Toronto-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2613521",
       "company": "CIBC",
-      "title": "Registrations Analyst, Regulatory Registrations - Bilingual",
-      "location": "Montr\u00e9al, QC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Registrations-Analyst--Regulatory-Registrations---Bilingual_2619481",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Toronto-ON/Registrations-Analyst--Regulatory-Registrations---Bilingual_2618723",
-      "company": "CIBC",
-      "title": "Registrations Analyst, Regulatory Registrations - Bilingual",
+      "title": "Client Associate (IR licensed) CIBC Wood Gundy",
       "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Registrations-Analyst--Regulatory-Registrations---Bilingual_2618723",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Client-Associate--IR-licensed--CIBC-Wood-Gundy_2613521",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-cibc-job/Toronto-ON/Analyst--Compensation-Administration_2619050",
-      "company": "CIBC",
-      "title": "Analyst, Compensation Administration",
-      "location": "Toronto, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Analyst--Compensation-Administration_2619050",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Oakville-ON/Associate-Financial-Advisor_2619282",
-      "company": "CIBC",
-      "title": "Associate Financial Advisor",
-      "location": "Oakville, ON",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Oakville-ON/Associate-Financial-Advisor_2619282",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Halifax-NS/Client-Associate--Wood-Gundy_2607660",
-      "company": "CIBC",
-      "title": "Client Associate, Wood Gundy",
-      "location": "Halifax, NS",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Halifax-NS/Client-Associate--Wood-Gundy_2607660",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-bmo-job/Virtual-WI-USA/IBM-Sterling-File-Gateway-File-Transfer-Operations-Analyst--REMOTE_R260021215",
+      "id": "workday-bmo-job/Toronto-ON-CAN/Associate--Global-Markets-Corporate-Banking_R260027062",
       "company": "BMO",
-      "title": "IBM Sterling File Gateway File Transfer Operations Analyst- REMOTE",
-      "location": "Virtual, WI, USA",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Virtual-WI-USA/IBM-Sterling-File-Gateway-File-Transfer-Operations-Analyst--REMOTE_R260021215",
+      "title": "Associate, Global Markets Corporate Banking",
+      "location": "Toronto, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Associate--Global-Markets-Corporate-Banking_R260027062",
       "posted": "Posted Today"
     },
     {
-      "id": "workday-bmo-job/MONTREAL-QC-CAN/Associ-e--services-bancaires--Ventes--Gestion-prive_R260021199",
+      "id": "workday-bmo-job/REMOTETELETRAVAIL-ON-CAN/Analyst---Corporate-Action-Entitlement_R260027288",
       "company": "BMO",
-      "title": "Private Banking Associate, Private Wealth",
-      "location": "MONTREAL, QC, CAN",
-      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/MONTREAL-QC-CAN/Associ-e--services-bancaires--Ventes--Gestion-prive_R260021199",
+      "title": "Analyst , Corporate Action Entitlement",
+      "location": "REMOTE/TELETRAVAIL, ON, CAN",
+      "link": "https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Analyst---Corporate-Action-Entitlement_R260027288",
       "posted": "Posted Today"
     },
     {
@@ -71,7 +63,7 @@
       "title": "Analyst Credit",
       "location": "Calgary, AB, CAN",
       "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Calgary-AB-CAN/Analyst-Credit_73098",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-enbridge-job/North-York-ON-CAN/Advisor-Policy-and-Procedures_72778-1",
@@ -79,7 +71,7 @@
       "title": "Advisor Policy and Procedures",
       "location": "North York, ON, CAN",
       "link": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Advisor-Policy-and-Procedures_72778-1",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-manulife-job/Toronto-Ontario/Analyst--Asset-Management--Eastern-Canada_JR26090233-1",
@@ -87,6 +79,14 @@
       "title": "Analyst, Asset Management, Central/Eastern Canada",
       "location": "Toronto, Ontario",
       "link": "https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Analyst--Asset-Management--Eastern-Canada_JR26090233-1",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-cppib-job/Toronto/Analyst--Strategy--Risk---Operations--Capital-Markets---Factor-Investing--12-Month-Contract-_JR00843",
+      "company": "CPP Investments",
+      "title": "Analyst, Strategy, Risk & Operations, Capital Markets & Factor Investing (12-Month Contract)",
+      "location": "Toronto",
+      "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--Strategy--Risk---Operations--Capital-Markets---Factor-Investing--12-Month-Contract-_JR00843",
       "posted": "Posted Today"
     },
     {
@@ -95,7 +95,7 @@
       "title": "Analyst, Systematic Strategies Group (12-Month Contract)",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--Systematic-Strategies-Group--12-Month-Contract-_JR00838",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-cppib-job/Toronto/Analyst--External-Portfolio-Management--12-Month-Contract-_JR00837",
@@ -103,7 +103,7 @@
       "title": "Analyst, External Portfolio Management (12-Month Contract)",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--External-Portfolio-Management--12-Month-Contract-_JR00837",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-otppb-job/Toronto-Canada/Investment-Associate--Private-Capital---Financial-Services_7058",
@@ -111,7 +111,7 @@
       "title": "Investment Associate, Private Capital - Financial Services",
       "location": "Toronto, Canada",
       "link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Investment-Associate--Private-Capital---Financial-Services_7058",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-otppb-job/Toronto-Canada/Bilingual-Complex-Care-Analyst---12-month-contract_7266",
@@ -119,7 +119,7 @@
       "title": "Bilingual Complex Care Analyst - 12-month contract",
       "location": "Toronto, Canada",
       "link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Bilingual-Complex-Care-Analyst---12-month-contract_7266",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-otppb-job/Toronto-Canada/Complex-Care-Analyst---12-month-contract_7264",
@@ -127,7 +127,15 @@
       "title": "Complex Care Analyst - 12-month contract",
       "location": "Toronto, Canada",
       "link": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Complex-Care-Analyst---12-month-contract_7264",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
+    },
+    {
+      "id": "workday-cdpq-job/Montreal/Analyste--Divulgation-financire---Comptabilit_R05021",
+      "company": "CDPQ",
+      "title": "Analyste, Divulgation financi\u00e8re \u2013 Comptabilit\u00e9*",
+      "location": "Montreal",
+      "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Divulgation-financire---Comptabilit_R05021",
+      "posted": "Posted Today"
     },
     {
       "id": "workday-cdpq-job/Montreal/Analyste--Analytique-de-portefeuille_R05128",
@@ -135,7 +143,7 @@
       "title": "Analyste, Solutions num\u00e9riques et Analytique March\u00e9s priv\u00e9s",
       "location": "Montreal",
       "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Analytique-de-portefeuille_R05128",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-barclays-job/Calgary-888-3rd-Street-SW/Investment-Banking--Associate_JR-0000124562-1",
@@ -143,15 +151,7 @@
       "title": "Investment Banking, Associate",
       "location": "Calgary, 888 3rd Street SW",
       "link": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Calgary-888-3rd-Street-SW/Investment-Banking--Associate_JR-0000124562-1",
-      "posted": "Posted Yesterday"
-    },
-    {
-      "id": "scotiabank-606215217",
-      "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "scotiabank-605897517",
@@ -162,12 +162,12 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-606215217",
+      "id": "scotiabank-605897517",
       "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "posted": "Sep 8, 2026"
     },
     {
       "id": "scotiabank-605897517",
@@ -178,12 +178,12 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-606215217",
+      "id": "scotiabank-605897517",
       "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "posted": "Sep 8, 2026"
     },
     {
       "id": "scotiabank-605897517",
@@ -194,12 +194,12 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-606215217",
+      "id": "scotiabank-605897517",
       "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "posted": "Sep 8, 2026"
     },
     {
       "id": "scotiabank-605897517",
@@ -210,12 +210,12 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-606215217",
+      "id": "scotiabank-605897517",
       "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
+      "title": "GBM - Client Insights & Analytics - New Grad",
+      "location": "Toronto, ON, CA",
+      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
+      "posted": "Sep 8, 2026"
     },
     {
       "id": "scotiabank-605897517",
@@ -226,68 +226,28 @@
       "posted": "Sep 8, 2026"
     },
     {
-      "id": "scotiabank-606215217",
-      "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
+      "id": "canadalife-nt-St--Catharines-ON-L2N-1J7-1383815633-",
+      "company": "Canada Life",
+      "title": "Client Service Associate, Wealth Management - St. Catharines",
+      "location": "Canada",
+      "link": "https://jobs.canadalife.com/job/St_-Catharines-Ontario-Client-Service-Associate%2C-Wealth-Management-St_-Catharines-ON-L2N-1J7/1383815633/",
+      "posted": ""
     },
     {
-      "id": "scotiabank-605897517",
-      "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
-      "posted": "Sep 8, 2026"
+      "id": "canadalife-12-month-contract-ON-N4K-2H9-1429823633-",
+      "company": "Canada Life",
+      "title": "Client Service Associate, Wealth Management - Owen Sound, 12-month contract",
+      "location": "Canada",
+      "link": "https://jobs.canadalife.com/job/Owen-Sound-Ontario-Client-Service-Associate%2C-Wealth-Management-Owen-Sound%2C-12-month-contract-ON-N4K-2H9/1429823633/",
+      "posted": ""
     },
     {
-      "id": "scotiabank-606215217",
-      "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
-    },
-    {
-      "id": "scotiabank-605897517",
-      "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-606215217",
-      "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
-    },
-    {
-      "id": "scotiabank-605897517",
-      "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
-      "posted": "Sep 8, 2026"
-    },
-    {
-      "id": "scotiabank-606215217",
-      "company": "Scotiabank",
-      "title": "Analyst, Investment Banking Sponsors",
-      "location": "New York City, NY, US",
-      "link": "https://jobs.scotiabank.com/job/New-York-City-Analyst%2C-Investment-Banking-Sponsors-NY-10001/606215217/",
-      "posted": "Sep 17, 2026"
-    },
-    {
-      "id": "scotiabank-605897517",
-      "company": "Scotiabank",
-      "title": "GBM - Client Insights & Analytics - New Grad",
-      "location": "Toronto, ON, CA",
-      "link": "https://jobs.scotiabank.com/job/Toronto-GBM-Client-Insights-&-Analytics-New-Grad-ON/605897517/",
-      "posted": "Sep 8, 2026"
+      "id": "canadalife-g-Analyst-2C-New-Business-ON-1440676433-",
+      "company": "Canada Life",
+      "title": "Underwriting Analyst, New Business",
+      "location": "Canada",
+      "link": "https://jobs.canadalife.com/job/London-Underwriting-Analyst%2C-New-Business-ON/1440676433/",
+      "posted": ""
     },
     {
       "id": "canadalife-ssociate-6-month-Contract-ON-1439797933-",
@@ -295,22 +255,6 @@
       "title": "Administration Support Associate - 6-month Contract",
       "location": "Canada",
       "link": "https://jobs.canadalife.com/job/Toronto-Administration-Support-Associate-6-month-Contract-ON/1439797933/",
-      "posted": ""
-    },
-    {
-      "id": "canadalife-b-Edmonton-Wealth-Advisor-AB-1439052333-",
-      "company": "Canada Life",
-      "title": "Wealth Advisor",
-      "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Edmonton-Wealth-Advisor-AB/1439052333/",
-      "posted": ""
-    },
-    {
-      "id": "canadalife-ctuarial-AnalystAssociate-ON-1439139233-",
-      "company": "Canada Life",
-      "title": "Actuarial Analyst/Associate",
-      "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Toronto-Actuarial-AnalystAssociate-ON/1439139233/",
       "posted": ""
     }
   ]
