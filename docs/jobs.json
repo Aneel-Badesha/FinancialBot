@@ -1,13 +1,29 @@
 {
-  "updated": "2026-09-25T21:34:24.229701+00:00",
+  "updated": "2026-09-26T21:34:13.723467+00:00",
   "jobs": [
+    {
+      "id": "workday-cibc-job/Toronto-ON/Financial-Advisor-CIRO-ID--Urban---Commerce-Court-Branch-_2618334",
+      "company": "CIBC",
+      "title": "Financial Advisor CIRO-ID (Urban) [Commerce Court Branch]",
+      "location": "Toronto, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Financial-Advisor-CIRO-ID--Urban---Commerce-Court-Branch-_2618334",
+      "posted": "Posted Yesterday"
+    },
+    {
+      "id": "workday-cibc-job/Ottawa-ON/Associate--Private-Investment-Counsel_2618353",
+      "company": "CIBC",
+      "title": "Associate, Private Investment Counsel",
+      "location": "Ottawa, ON",
+      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Ottawa-ON/Associate--Private-Investment-Counsel_2618353",
+      "posted": "Posted Yesterday"
+    },
     {
       "id": "workday-cibc-job/Toronto-ON/Career-Programs-Networking-Event--October-28th-2026-Graduate-Leadership-Development-Program--GLDP--Risk_2619727-1",
       "company": "CIBC",
       "title": "Career Programs Networking Event, October 28th 2026 Graduate Leadership Development Program (GLDP)-Risk Management",
       "location": "Toronto, ON",
       "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Career-Programs-Networking-Event--October-28th-2026-Graduate-Leadership-Development-Program--GLDP--Risk_2619727-1",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-cibc-job/Toronto-ON/Financial-Associate--RR-licensed--CIBC-Wood-Gundy_2619757",
@@ -15,7 +31,7 @@
       "title": "Financial Associate (RR licensed) CIBC Wood Gundy",
       "location": "Toronto, ON",
       "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Financial-Associate--RR-licensed--CIBC-Wood-Gundy_2619757",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-cibc-job/Toronto-ON/Associate--Corporate-Banking_2619690",
@@ -23,31 +39,7 @@
       "title": "Associate, Corporate Banking",
       "location": "Toronto, ON",
       "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Associate--Corporate-Banking_2619690",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Vancouver-BC/Financial-Associate--RR-Licensed--Wood-Gundy_2619608",
-      "company": "CIBC",
-      "title": "Financial Associate (RR Licensed) Wood Gundy",
-      "location": "Vancouver, BC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Vancouver-BC/Financial-Associate--RR-Licensed--Wood-Gundy_2619608",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Montral-QC/Associate--Private-Wealth-Rotational-Program---Montreal---Bilingual_2619459",
-      "company": "CIBC",
-      "title": "Associate, Private Wealth Rotational Program \u2013 Montreal \u2013 Bilingual",
-      "location": "Montr\u00e9al, QC",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Montral-QC/Associate--Private-Wealth-Rotational-Program---Montreal---Bilingual_2619459",
-      "posted": "Posted Today"
-    },
-    {
-      "id": "workday-cibc-job/Calgary-AB/Analyst--Global-Investment-Banking_2617276-1",
-      "company": "CIBC",
-      "title": "Analyst, Global Investment Banking",
-      "location": "Calgary, AB",
-      "link": "https://cibc.wd3.myworkdayjobs.com/search/job/Calgary-AB/Analyst--Global-Investment-Banking_2617276-1",
-      "posted": "Posted Today"
+      "posted": "Posted Yesterday"
     },
     {
       "id": "workday-intactfc-job/Vancouver-British-Columbia-CAN/Associate--Sales-and-Customer-Service--October-_R155406",
@@ -55,7 +47,7 @@
       "title": "Associate, Sales and Customer Service (October)",
       "location": "Vancouver, British Columbia, CAN",
       "link": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Vancouver-British-Columbia-CAN/Associate--Sales-and-Customer-Service--October-_R155406",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-intactfc-job/Vancouver-British-Columbia-CAN/Bilingual-Associate--Sales-and-Customer-Service--October-_R155412",
@@ -63,7 +55,7 @@
       "title": "Bilingual Associate, Sales and Customer Service (October)",
       "location": "Vancouver, British Columbia, CAN",
       "link": "https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Vancouver-British-Columbia-CAN/Bilingual-Associate--Sales-and-Customer-Service--October-_R155412",
-      "posted": "Posted Yesterday"
+      "posted": "Posted 2 Days Ago"
     },
     {
       "id": "workday-cppib-job/Toronto/Analyst--Private---Alternative-Asset-Operations--12-month-contract-_JR00833",
@@ -71,14 +63,6 @@
       "title": "Analyst, Private & Alternative Asset Operations (12-month contract)",
       "location": "Toronto",
       "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--Private---Alternative-Asset-Operations--12-month-contract-_JR00833",
-      "posted": "Posted Yesterday"
-    },
-    {
-      "id": "workday-cppib-job/Toronto/Analyst--Strategy--Risk---Operations--Capital-Markets---Factor-Investing--12-Month-Contract-_JR00843",
-      "company": "CPP Investments",
-      "title": "Analyst, Strategy, Risk & Operations, Capital Markets & Factor Investing (12-Month Contract)",
-      "location": "Toronto",
-      "link": "https://cppib.wd10.myworkdayjobs.com/cppinvestments/job/Toronto/Analyst--Strategy--Risk---Operations--Capital-Markets---Factor-Investing--12-Month-Contract-_JR00843",
       "posted": "Posted 2 Days Ago"
     },
     {
@@ -87,14 +71,6 @@
       "title": "Premier(-\u00e8re) analyste*, Solutions num\u00e9riques et analytique - Registre march\u00e9s liquides (Murex)",
       "location": "Montreal",
       "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Premier--re--analyste---Solutions-numriques-et-analytique---Registre-marchs-liquides--Murex-_R04983",
-      "posted": "Posted Yesterday"
-    },
-    {
-      "id": "workday-cdpq-job/Montreal/Analyste--Divulgation-financire---Comptabilit_R05021",
-      "company": "CDPQ",
-      "title": "Analyste, Divulgation financi\u00e8re \u2013 Comptabilit\u00e9*",
-      "location": "Montreal",
-      "link": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Divulgation-financire---Comptabilit_R05021",
       "posted": "Posted 2 Days Ago"
     },
     {
@@ -119,14 +95,6 @@
       "title": "Client Service Associate, Wealth Management - St. Catharines",
       "location": "Canada",
       "link": "https://jobs.canadalife.com/job/St_-Catharines-Ontario-Client-Service-Associate%2C-Wealth-Management-St_-Catharines-ON-L2N-1J7/1383815633/",
-      "posted": ""
-    },
-    {
-      "id": "canadalife-12-month-contract-ON-N4K-2H9-1429823633-",
-      "company": "Canada Life",
-      "title": "Client Service Associate, Wealth Management - Owen Sound, 12-month contract",
-      "location": "Canada",
-      "link": "https://jobs.canadalife.com/job/Owen-Sound-Ontario-Client-Service-Associate%2C-Wealth-Management-Owen-Sound%2C-12-month-contract-ON-N4K-2H9/1429823633/",
       "posted": ""
     },
     {
